@@ -1,493 +1,531 @@
 # ERGEBNIS A – Interne strategische Analyse
-**Kunde:** Bilal Volkmann – Männercoaching
+**Kunde:** Bilal Volkmann – Männercoaching (gemeinsam mit Kira)
 **Plattform:** Instagram (@bilal_volkmann)
-**Stand:** 11.10.2026 · Version 1 (vor Account-Audit und vor Auswertung der Gesprächs-Memo)
+**Stand:** 11.10.2026 · **Version 2** – Gesprächs-Memo eingearbeitet, Account-Audit noch offen
 
 ---
 
-## 0. Datenlage – bitte zuerst lesen
+## 0. Datenlage
 
-| Quelle | Status | Folge für die Analyse |
+| Quelle | Status | Folge |
 |---|---|---|
-| Kundenbriefing (dein Formular) | ✅ vorhanden | Grundlage dieses Dokuments |
-| Gesprächs-Memo | ❌ **nicht angekommen** – im Briefing steht „beigefügt“, es lag aber kein Text/Anhang bei | Persönlichkeit, Story, Zielgruppe, Angebotsdetails fehlen. Alles dazu ist als **Annahme** markiert |
-| Instagram-Profil | ❌ **kein Zugriff** – Instagram ist aus meiner Umgebung nicht erreichbar (Login-Wall/Netzwerk) | **Phase 2 (Account-Audit) ist NICHT durchgeführt.** Ich habe weder Bio, Feed, Reels noch Zahlen gesehen |
-| Öffentliche Websuche „Bilal Volkmann Männercoaching“ | ⚠️ keine Treffer zur Person | Keine Website, keine Presse – deckt sich mit dem Briefing |
-| Insights / Kennzahlen | ❌ nicht vorhanden | Keine Baseline – wird in Woche 0 erhoben |
+| Kundenbriefing | ✅ | Grundlage |
+| Gesprächs-Memo (Audio, ~10 Min.) | ✅ transkribiert → `00_memo-transkript.md` | **Wichtigste Quelle.** Hat die Strategie aus Version 1 an mehreren Stellen geändert (siehe 0.2) |
+| Instagram-Profil | ❌ kein Zugriff (Instagram aus meiner Umgebung nicht erreichbar) | **Account-Audit (Kap. 2) weiterhin NICHT durchgeführt** |
+| Kennzahlen | ⚠️ nur eine Zahl aus der Memo: ~20 % Nicht-Follower-Reichweite | Baseline in Woche 0 erheben |
 
-**Kennzeichnung im Dokument:**
-- **[F]** = Fakt aus deinem Briefing
-- **[S]** = meine Schlussfolgerung daraus
-- **[E]** = strategische Empfehlung
-- **[A]** = Annahme / Hypothese, muss bestätigt werden
-- **[OFFEN]** = muss nachgefragt werden
+**Kennzeichnung:** **[F]** Fakt aus Briefing/Memo · **[S]** meine Schlussfolgerung · **[E]** Empfehlung · **[A]** Annahme · **[OFFEN]** nachfragen
+**Transkript-Hinweis:** Die Memo wurde maschinell transkribiert. Zwei Stellen sind unklar (markiert mit ⚠️).
 
-Ich habe trotzdem eine vollständige Strategie erstellt, weil Positionierungslogik, Design, Formate, Produktionssystem und 30-Tage-Plan nur in Details von den fehlenden Infos abhängen. Wo die Memo/der Audit etwas ändern kann, ist das markiert. **Nach Eingang von Memo + Screenshots aktualisiere ich Kapitel 2, 3, 4 und die Hooks.**
+### 0.1 Offene Fragen (aktualisiert)
+**Blockierend:**
+1. **Screenshots** Profil (Bio + Highlights), Feed-Raster (~30 Beiträge), 3–5 Reels mit Zahlen, Insights 90 Tage, **Kontostatus** (Einstellungen → Kontostatus → Empfehlungsfähigkeit).
+2. **Welche therapeutische Ausbildung genau?** (z. B. Heilpraktiker für Psychotherapie, systemische Ausbildung, …) – entscheidend für Glaubwürdigkeit *und* für das, was rechtlich kommuniziert werden darf („heilen“).
+3. **Wer ist Kira – und soll sie auf Bilals Account vorkommen?** Hat sie einen eigenen Account? (Laut Memo coacht sie Frauen. Ob sie Bilals Partnerin ist, geht aus der Memo nicht eindeutig hervor – er spricht davon, zu „seiner Frau“ zu reden.)
+4. ⚠️ **Markenzeichen:** In der Memo heißt es „sein hellblauer **Fuß**“ – das ist vermutlich ein Transkriptionsfehler. Was ist gemeint (Pullover? Hut? Schuh?)
 
-### 0.1 Die wichtigsten offenen Fragen (gesammelt)
+**Wichtig für die Positionierung:**
+5. Bilals eigene Geschichte: Warum Männer? Was davon darf öffentlich werden?
+6. Typische Klienten: Alter, Situation, womit kommen sie (Arbeit/Gesundheit/Beziehung)?
+7. 1:1-Coaching: Laufzeit, Format (online/vor Ort, Ort), Preisrahmen, wie viele Plätze?
+8. Was genau ist im Account schiefgelaufen? Welche Agenturen, welche Maßnahmen (Ads-Kampagnen, Funnel, Follower-Tools, gelöschte Inhalte)? Auf welche Zielgruppe liefen die Ads für 10.000 €?
+9. Testimonials/Ergebnisse mit Einwilligung vorhanden?
 
-**Bitte zuerst schicken (blockiert die Analyse am stärksten):**
-1. Die Gesprächs-Memo (Text reinkopieren oder als Datei).
-2. Screenshots: Profilansicht (oben inkl. Bio + Highlights), Feed-Raster (die letzten ~30 Beiträge), 3–5 Reels mit Aufrufzahlen.
-3. Insights der letzten 90 Tage: Erreichte Konten (Follower vs. Nicht-Follower), Profilaufrufe, Follower-Entwicklung, Top-5-Beiträge.
-4. **Kontostatus** (Einstellungen → Kontostatus): Steht dort, dass Inhalte „für Empfehlungen geeignet“ sind? Nach der Vorgeschichte mit dem Ex-Dienstleister ist das Pflichtcheck Nr. 1.
+**Aus deiner eigenen Liste in der Memo (Material vom Kunden):**
+10. Kurze schriftliche Selbstbeschreibung: Ausbildung, Methode, Ablauf des Coachings.
+11. Vorhandene Skripte/Notizen aus früheren Zusammenarbeiten (zeigen, was *nicht* funktioniert hat).
+12. Vorhandene Fotos (Porträts, Praxis, Alltag) – Nutzungsrechte klären (Fotograf!).
+13. ⚠️ „Menschen im **Ofen**“ – vermutlich „Menschen, die offen sind“. Bitte bestätigen.
 
-**Für die Positionierung:**
-5. Was genau coacht Bilal? (z. B. Selbstwert, Beziehung/Trennung, Vaterschaft, Sinn/Beruf, Disziplin/Gesundheit, Emotionen)
-6. Für welche Männer genau? Alter, Lebenssituation, typische Ausgangslage seiner bisherigen Klienten.
-7. Seine eigene Geschichte: Warum Männercoaching? Was hat er selbst durchgemacht und was davon darf öffentlich werden?
-8. Qualifikation/Ausbildung, Anzahl begleiteter Klienten, Erfahrungsjahre.
-9. Angebot: 1:1? Gruppe? Laufzeit? Preisrahmen? Online/vor Ort? Wo (Stadt)?
-10. Gibt es Kundenstimmen/Ergebnisse, die mit Einwilligung genutzt werden dürfen?
-
-**Für Zusammenarbeit & Sicherheit:**
-11. Was genau hat der frühere Dienstleister gemacht („Account fast zerstört“)? Gekaufte Follower? Follow/Unfollow-Tools? Massen-DMs? Off-brand Content? Gelöschte Beiträge? → bestimmt, was wir aufräumen müssen und welche Ängste wir aktiv adressieren.
-12. Wie viel Zeit hat er pro Monat für Drehs, pro Woche für Freigaben, pro Tag für Kommentare/DMs?
-13. Wie wird das Erstgespräch heute gebucht? (DM, Telefon, Tool?)
-14. Was will er auf keinen Fall (Themen, Formate, Tanzen/Trends, Privates, Familie)?
+### 0.2 Was sich durch die Memo gegenüber Version 1 geändert hat
+| Version 1 (Annahme) | Version 2 (nach Memo) |
+|---|---|
+| Fachlicher Schwerpunkt offen, drei Richtungen | **Klar:** Männer, Bereiche Arbeit, Gesundheit, Beziehungen; Herzensthema alte Glaubenssätze, „weiche Seite“ zurückholen [F] |
+| Coaching ≠ Therapie als Abgrenzung | **Beide sind ausgebildete Therapeuten** [F] → starkes Glaubwürdigkeitsmerkmal, Abgrenzung muss neu formuliert werden |
+| Ich schreibe Skripte, Bilal liest sie vorab | **Kein Skript.** Bilal kann nicht nach Skript drehen, wirkt dann statisch und belehrend [F]. → **Stichpunkte + Gesprächsformat** |
+| Talking Head als Standardformat | **Gespräch unter Freunden** als Leitformat (jemand stellt Fragen, er antwortet) |
+| Sketche/Humor-Szenen | Nur, wenn es sich spontan ergibt. Keine inszenierten Rollen |
+| Palette mit Marine als Basis | **Hellblau/Weiß ist seine Komfortfarbe und was er trägt** → helle Basis, Dunkelblau als Anker |
+| Ziel „mehr Anfragen“ | **Weniger, dafür passende Anfragen.** 10.000 € in Ads brachten „tote Leads“ [F] |
+| Erreicht kaum neue Accounts | Konkret: **~20 % Nicht-Follower-Reichweite** [F, laut Memo „scheinbar“ – in Insights prüfen] |
 
 ---
 
-## 1. Kundenverständnis (Phase 1)
+## 1. Kundenverständnis
 
-### 1.1 Was wir sicher wissen [F]
-- Personal Brand „Bilal Volkmann“, Angebot: Männercoaching.
-- Akquise über **kostenlose Erstgespräche**, keine Website.
-- Ziele: **Personal Branding, Kundenanfragen, Community-Aufbau.**
-- Probleme: kein Plan, keine Zeit zum Schneiden, wenig Social-Media-Wissen, schlechte Erfahrung mit Vor-Dienstleister → vorsichtig, erreicht kaum neue Accounts.
-- Gewünschte Wirkung: nahbar, hochwertig, humorvoll, kompetent, empathisch, authentisch.
-- Design: nichts vorhanden, Wunsch helles + dunkles Blau.
-- Ressourcen: Zeit für Drehs, (vermutlich) kein Bestandsmaterial.
-- Dein Umfang: Strategie, Content-Erstellung, Schnitt, Veröffentlichung – **kein Community-Management.**
+### 1.1 Explizite Aussagen [F] (aus Briefing + Memo)
+- Bilal und Kira bieten Coaching an. **Beide sind ausgebildete Therapeuten.** Kira fokussiert sich auf Frauen, Bilal will sich stärker auf **Männer** fokussieren.
+- Bilals Bereiche: **Arbeit, Gesundheit, Beziehungen.**
+- **Herzensthema:** Männer wachsen mit Glaubenssätzen auf; diese lösen, „toxische Männlichkeit aus ihnen rausholen“, dass Männer sich wieder richtig umarmen können, die **weiche Seite** hervorbringen. Überzeugung: *„Wenn Männer heilen, wäre die Welt ein besserer Ort.“*
+- Angebot: **1:1-Coaching**, plus kostenloses Erstgespräch.
+- **Qualität vor Quantität:** Leads mit der „richtigen Energy“, die „wirklich Bock haben“, zu sich finden und die beste Version ihrer selbst werden wollen.
+- **Schlechte Erfahrungen mit mehreren Marketingfirmen:** in Raster und Formeln gezwängt, viel Struktur und Vorgaben. „Das sind einfach nicht sie.“ Sie sind **spontane, offene Menschen.**
+- Bilal kann nicht nach Skript drehen. In die Kamera zu sprechen fällt ihm schwer; es wirkt dann **zu geplant, statisch, teilweise belehrend.** Das will er nicht.
+- Gewünscht: **wie ein Gespräch unter Freunden** – als würde er mit einem Kumpel oder seiner Frau reden, oder etwas „aus tiefstem Herzen“ erzählen.
+- Arbeitsweise: **Stichpunkte statt Skripte** („Dreh zu dem Thema mal ein Video“). Er **befolgt Anweisungen** und macht, was man ihm sagt. Ausprobieren ist erwünscht.
+- Kleidung: viel Weiß, Hellblau, auch Dunkelblau – **Blau ist seine Komfortfarbe.** Ein hellblaues Teil ist eine Art Markenzeichen (⚠️ Wort unklar). Keine CI.
+- Wichtig: **Persönlichkeit rüberbringen, authentisch sein**, Interaktion und Conversion, **mehr Menschen außerhalb der bestehenden Community** erreichen.
+- **~10.000 € für Werbeanzeigen ausgegeben → „tote Leads“.** Wunsch stattdessen: stetiger Aufbau einer Personal Brand, die Menschen anzieht, die ihn verstehen.
+- Account aufräumen: **viele Leute haben mitgemischt**, oft mit wenig Ahnung. **Nur noch ~20 % Nicht-Follower erreicht.**
+- **Karma ist ihnen wichtig:** keine Kurse verkaufen, nicht „krass skalieren“, **keine falschen Versprechen.** Klienten begleiten, bis echte Ergebnisse da sind. Lieber weniger Geld, dafür die richtigen Leute.
+- Erwartung an dich: Account anschauen, Bewertung „was ist gut, was ist schlecht“, Ideen, **Muss vs. Nice-to-have**, Probe-Contentplan, Formatideen, **Umfangsempfehlung**, danach ein Angebot mit Paketpreisen.
 
 ### 1.2 Schlussfolgerungen [S]
-1. **Vertrauen ist das eigentliche Verkaufsthema – nach innen wie nach außen.** Bilal muss erst *dir* vertrauen, bevor er seinen Followern Nähe zeigt. Ein Kunde, der „verbrannt“ wurde, braucht Transparenz, Freigabeschleifen und schnelle sichtbare Ordnung (Profil, erste saubere Beiträge) statt großer Versprechen.
-2. **Der Engpass ist nicht Zeit, sondern System.** Er hat Zeit zu drehen, aber keine Struktur und keinen Schnitt. Genau das deckt dein Leistungsumfang ab → hoher wahrgenommener Wert, wenn du ihm die *Denkarbeit* abnimmst (Skripte, Drehpläne), nicht nur den Schnitt.
-3. **„Erreicht kaum neue Accounts“ hat mehrere mögliche Ursachen [A]:** (a) Content ohne starken Einstieg / spricht nur Bestandsfollower an, (b) unregelmäßiges Posten, (c) Folgen des Vor-Dienstleisters (Bot-Follower drücken die Engagement-Rate, Empfehlungs-Sperre durch Richtlinienverstöße), (d) unklare Positionierung → Algorithmus weiß nicht, wem er es zeigen soll. Ohne Audit nicht entscheidbar – daher Kontostatus + Insights zuerst.
-4. **Die Wunsch-Attribute sind eine starke Differenzierung in dieser Nische.** Männercoaching auf Instagram ist stark geprägt von zwei Polen: (1) „Alpha/Dominanz/Härte“-Content und (2) sehr weicher, therapeutisch-spiritueller Content. „Humorvoll + empathisch + kompetent + hochwertig“ besetzt eine glaubwürdige Mitte. Das ist die Chance. [S – auf Basis allgemeiner Nischenkenntnis, nicht live recherchiert]
-5. **Ohne Website ist Instagram das komplette Schaufenster.** Profil, Highlights und angepinnte Beiträge müssen die Funktion einer Landingpage übernehmen.
-6. **Community-Aufbau ist Ziel, Community-Management aber nicht gebucht.** → Bilal muss DMs/Kommentare selbst führen (bei Coaching ohnehin sinnvoll: Anfragen sind persönlich und vertraulich). Das muss *explizit* vereinbart werden, sonst entsteht später der Eindruck „die Strategie funktioniert nicht“.
+1. **Das Hauptrisiko ist nicht der Account, sondern dass du wie Agentur Nr. 4 wirkst.** Sie wurden mehrfach in Formeln gepresst. Jede Präsentation, die nach „Funnel, Skripte, Hook-Formeln, Posting-Pflicht“ klingt, aktiviert genau diese Abwehr. Dein Verkaufsargument: **„Ich baue das System um euch herum – nicht euch in ein System.“**
+2. **Sein Problem vor der Kamera ist ein Formatproblem, kein Talentproblem.** Wer allein in eine Linse spricht, „hält einen Vortrag“ → belehrend. Wer einem Menschen antwortet, erzählt → nahbar. Lösung: **Es sitzt immer jemand hinter der Kamera und fragt** (du, Kira oder ein Freund). Das ist der wichtigste Hebel des ganzen Konzepts.
+3. **Struktur wandert vom Dreh in den Schnitt.** Er redet frei – du baust im Schnitt den Hook (stärkster Satz nach vorn), kürzt und strukturierst. Das passt perfekt zu deinem Leistungsumfang (Schnitt) und erfüllt seinen Wunsch nach Spontaneität. Die Strategie bleibt professionell, er merkt sie nur nicht.
+4. **„Ausgebildeter Therapeut“ ist das stärkste Differenzierungsmerkmal** – in einer Nische voller Coaches ohne fundierte Ausbildung. Bisher (vermutlich) nicht prominent genug kommuniziert [A – im Audit prüfen].
+5. **Sprache „toxische Männlichkeit“ ist ein Zielgruppen-Risiko.** Inhaltlich ist es sein Herzensthema – aber Männer, die er erreichen will, fühlen sich durch den Begriff oft angegriffen und scrollen weiter. Empfehlung: Das *Thema* besetzen, den *Begriff* sparsam nutzen. Lieber: „alte Muster“, „was man uns als Jungs beigebracht hat“, „Panzer“, „Rüstung“. Er beschreibt nicht, was Männer falsch machen, sondern was sie gelernt haben – Verantwortung ohne Schuld.
+6. **„Männer heilen“ ist eine kraftvolle Mission, aber ein rechtliches Feld.** Ob Heilaussagen zulässig sind, hängt von der Ausbildung/Heilerlaubnis ab (siehe 3.5).
+7. **Qualität vor Quantität ist strategisch richtig** – und muss sich im Content zeigen: Inhalte, die **filtern** („für wen das nichts ist“), Tiefe statt Masse, ein Anfrageweg mit leichter Vorqualifizierung.
+8. **20 % Nicht-Follower bei viel „Mitmischen“** deutet auf [A]: Inhalte, die nur für die bestehende Community funktionieren; fehlende Einstiege; evtl. Altlasten (Bot-Follower, Richtlinienverstöße, Ads-Follower ohne Interesse, die die Engagement-Rate drücken). → Woche 0 Diagnose.
+9. **Kira ist ein unterschätztes Asset** [S/OFFEN]: Mann-Frau-Perspektive, natürliche Gesprächspartnerin hinter der Kamera, und Partnerinnen sind ein wichtiger Teil der Reichweite (teilen Inhalte an Männer). Nur wenn sie will.
 
-### 1.3 Mögliche Widersprüche zwischen Wunsch und Strategie
-| Wunsch | Spannung | Empfehlung [E] |
+### 1.3 Widersprüche & Spannungsfelder
+| Wunsch | Spannung | Lösung [E] |
 |---|---|---|
-| „Nahbar + authentisch“ | Vorsichtiger Kunde nach schlechter Erfahrung zeigt evtl. ungern Persönliches | Nähe über *Haltung und Humor* statt über Privatleben. Persönliche Geschichten dosiert, er entscheidet die Grenze |
-| „Hochwertig“ | „Kein Material, keine Zeit zum Schneiden“ – Hochglanz ist teuer | Hochwertig = klares Licht, guter Ton, sauberes Design, ruhige Schnitte. Kein Hochglanz-Werbefilm nötig |
-| „Humorvoll“ | Coaching-Themen sind oft schwer; Humor kann Leid kleinreden | Humor auf *typisches Männerverhalten* (Selbsterkenntnis), nie auf Kosten von Betroffenen |
-| „Neue Accounts erreichen“ + „vorsichtig“ | Wachstum braucht Tests und Hooks, die polarisieren | Klare Grenzen: keine Wachstumstricks, keine Ragebait-Hooks. Testen über **Probe-Reels (Trial Reels)**, die nur Nicht-Followern gezeigt werden |
-| „Kundenanfragen“ | Ohne Website und mit kostenlosem Erstgespräch drohen unqualifizierte Anfragen | Klarer Weg: Keyword-DM → kurze Vorqualifizierung → Buchung |
+| Kein Raster, keine Vorgaben | Reichweite braucht Konsequenz (Hooks, Frequenz, Serien) | Struktur im **Schnitt und in der Planung** (bei dir), Freiheit im **Dreh** (bei ihm). Nur 3 Leitplanken für ihn |
+| Spontan „einfach quatschen“ | Ungeplante Videos werden lang und ohne Pointe | Themenkarten mit 1 Frage + 2–3 Stichpunkten; Fragesteller lenkt nach; im Schnitt auf 30–60 s verdichten |
+| „Männer heilen“, „toxische Männlichkeit“ | Kann die Zielgruppe abschrecken + rechtlich heikel | Mission intern & in Haltung, Begriffe dosiert, Formulierungen prüfen |
+| Mehr Nicht-Follower erreichen | Tiefe, ruhige Gespräche haben oft schwächere Einstiege | Einstieg = der überraschendste/emotionalste Satz aus dem Gespräch, als Text eingeblendet |
+| Conversion & Interaktion | Community-Management nicht gebucht | Bilal (und Kira) beantworten DMs/Kommentare selbst – bei Therapeuten ohnehin angemessen. Muss ins Angebot |
+| „Ich befolge Anweisungen“ vs. „kein Raster“ | Scheinbar widersprüchlich | Er will **klare, kurze Ansagen** („Dreh dazu was“), aber keine **Formeln** zum Auswendiglernen. Also: Regie ja, Skript nein |
 
-### 1.4 Kundenprofil (vorläufig)
-> Bilal Volkmann ist Coach für Männer und gewinnt Klienten über kostenlose Erstgespräche. Er will sich als nahbare, kompetente und humorvolle Stimme für Männer positionieren und über Instagram regelmäßig qualifizierte Anfragen erhalten. Er ist bereit, vor die Kamera zu gehen, hat aber kein System, kein Design und keine Schnittkapazität. Nach einer negativen Erfahrung mit einem früheren Dienstleister ist er vorsichtig – Transparenz, Kontrolle über Freigaben und ein sauberer, seriöser Neustart sind für ihn entscheidend.
->
-> **[OFFEN]:** Fachlicher Schwerpunkt, Zielgruppe, eigene Geschichte, Qualifikation, Angebotsformat.
-
----
-
-## 2. Account-Audit (Phase 2) – NICHT DURCHGEFÜHRT
-
-Ich konnte das Profil nicht einsehen. Ich behaupte daher **nichts** über Bio, Feed, Reels, Tonalität, Design oder Community. Sobald Screenshots da sind, werte ich nach diesem Raster aus:
-
-**A. Profil (Bewertung je 1–5):** Profilbild (Gesicht, Licht, Hintergrund) · Anzeigename (Suchbegriff enthalten?) · Bio (Wer/für wen/Nutzen/CTA in 5 Sek.?) · Link · Highlights · angepinnte Beiträge · Einheitlichkeit.
-
-**B. Content:** Themencluster · Formate · Top-/Flop-Beiträge relativ zum Account-Durchschnitt · Hook-Qualität in den ersten 2 Sek. · Verhältnis Bildung/Persönliches/Verkauf · Serien vorhanden? · Spuren des Vor-Dienstleisters (Off-Brand-Inhalte, generische Stock-Posts, Hashtag-Spam).
-
-**C. Tonalität:** Wie spricht Bilal vor der Kamera und in Captions? Dialekt? Humor? Fachjargon? → Daraus leite ich die echte Tone of Voice ab (Kap. 6 ist vorläufig).
-
-**D. Visuell:** Farben, Schrift, Licht, Cover, Feed-Harmonie – was ist erhaltenswert?
-
-**E. Community:** Kommentarqualität, Fragen, Fake-/Bot-Follower-Anteil (Indiz: viele Profile ohne Bild/Beiträge, Follower aus untypischen Ländern in den Insights).
-
-**Hygiene-Checks nach Vor-Dienstleister (Pflicht in Woche 0):**
-- [ ] Kontostatus: Empfehlungsfähigkeit, Richtlinienverstöße
-- [ ] Kontenübersicht/Meta Accounts Center: verknüpfte Geräte, Apps & Websites mit Zugriff → alte Zugänge entfernen
-- [ ] Passwort ändern, 2-Faktor-Authentifizierung aktivieren
-- [ ] Follower-Herkunft in Insights (Land/Stadt) auf Auffälligkeiten prüfen
-- [ ] Beiträge, die nicht zur neuen Marke passen → **archivieren, nicht löschen** (reversibel)
+### 1.4 Kundenprofil
+> Bilal Volkmann ist ausgebildeter Therapeut und begleitet Männer im 1:1-Coaching in den Bereichen Arbeit, Gesundheit und Beziehungen. Gemeinsam mit Kira, die sich auf Frauen konzentriert, steht er für eine Arbeit mit Tiefe und Integrität: alte Glaubenssätze lösen, Männern ihre weiche Seite zurückgeben, Begleitung bis zu echten Ergebnissen – ohne Kurse, ohne Skalierungsdruck, ohne falsche Versprechen. Er ist spontan, offen und warm; vor der Kamera blüht er im Gespräch auf und erstarrt bei Skripten. Nach mehreren Agenturen, die ihn in Formeln gepresst haben, und rund 10.000 € Werbebudget ohne passende Anfragen sucht er einen organischen, persönlichen Weg, der wieder Menschen außerhalb seiner Community erreicht und die *richtigen* Männer anzieht.
 
 ---
 
-## 3. Positionierung (Phase 3)
+## 2. Account-Audit – weiterhin NICHT durchgeführt
+Ohne Screenshots behaupte ich nichts über Bio, Feed, Reels oder Design. Sobald sie da sind, prüfe ich nach diesem Raster:
 
-### 3.1 Drei mögliche Richtungen
-Weil der fachliche Schwerpunkt fehlt, vergleiche ich drei realistische Richtungen. **Entscheidung nach Memo.**
+- **Profil (1–5):** Profilbild · Name (Suchbegriff?) · Bio (Wer/für wen/Nutzen/CTA) · Ausbildung sichtbar? · Link · Highlights · Pins.
+- **Content:** Themen · Formate · Top/Flop relativ zum Durchschnitt · Hooks · **Wo wirkt Bilal frei, wo statisch?** (→ Belege für die Gesprächsformat-These) · Spuren der Vor-Agenturen (formelhafte Reels, Stock-Grafiken, Ads-Creatives im Feed).
+- **Tonalität:** Wie spricht er, wenn es gut wird? Lieblingswörter, Humor, Tiefe.
+- **Visuell:** Was davon ist erhaltenswert?
+- **Community:** Kommentarqualität, Follower-Herkunft (Bots/Ads-Follower?).
 
-| | **A – „Der Mann hinter der Fassade“** (Selbstwert, Emotionen, innere Stärke) | **B – Beziehung & Trennung** | **C – Klarheit & Richtung** (Sinn, Beruf, Lebensphase 30+) |
-|---|---|---|---|
-| Problem | Männer funktionieren, fühlen sich aber leer, gestresst, allein mit ihren Themen | Beziehungskrise, Trennung, Rückfall in alte Muster | Orientierungslosigkeit, „War's das?“-Gefühl |
-| Reichweitenpotenzial | Hoch (breite Identifikation) | Sehr hoch (emotional, akuter Schmerz) | Mittel |
-| Kaufbereitschaft | Mittel – Problem oft diffus | Hoch – akuter Leidensdruck | Mittel–hoch |
-| Risiko | Austauschbar, wenn zu allgemein | Sehr umkämpft; Nähe zur „Ex zurückgewinnen“-Ecke | Abstrakt, schwer visuell |
-| Passung zu „humorvoll + empathisch“ | Sehr gut | Gut (Humor dosiert) | Gut |
-
-**Empfehlung [E]:** **A als Dach, B oder C als Schwerpunkt-Säule** – je nachdem, womit Bilal tatsächlich die meisten Klienten hat. Begründung: Ein Dach-Thema hält die Marke breit genug für Reichweite und Community, der Schwerpunkt erzeugt konkrete Anfragen. Eine Nische ist hier **nicht** „möglichst klein“, sondern „sofort klar, wer sich angesprochen fühlen soll“.
-
-### 3.2 Positionierung (Arbeitsversion, Richtung A)
-**Ein Satz:**
-> Bilal hilft Männern, die nach außen funktionieren, aber innerlich auf Reserve laufen, wieder klar, ruhig und echt zu werden – ohne Härte-Gelaber und ohne Räucherstäbchen.
-
-**Ausführlich:** Bilal Volkmann ist der Coach für Männer, die gelernt haben, alles allein zu regeln – und merken, dass das nicht mehr trägt. Er verbindet Klartext mit Empathie und nimmt die typischen Männermuster mit Humor auseinander, ohne die Menschen dahinter lächerlich zu machen. Auf Instagram zeigt er, dass Stärke und Gefühl kein Widerspruch sind, und gibt Männern Sprache für Dinge, über die sie sonst nicht reden.
-
-**Markenversprechen:** „Bei mir musst du nicht stark tun. Du wirst es.“ *(Claim-Entwurf, mit Bilal testen)*
-
-**Markenwerte (Vorschlag):** Ehrlichkeit · Augenhöhe · Verantwortung · Leichtigkeit · Tiefe
-
-**Differenzierung (nur belegbar, sobald Memo da):**
-1. Humor als Türöffner in einer Nische, die meist entweder hart oder sehr weich kommuniziert [A – zu prüfen am echten Auftreten]
-2. Empathie ohne Opferrolle – Verantwortung bleibt beim Mann
-3. Niedrigschwelliger Einstieg: kostenloses Erstgespräch [F]
-4. [OFFEN] eigene Geschichte / Werdegang
-5. [OFFEN] Methode / Ausbildung
-
-**Kernaussagen, die sich durchziehen:**
-- „Stark sein heißt nicht, alles allein zu tragen.“
-- „Du bist nicht kaputt. Du hast nur nie gelernt, wie.“
-- „Gefühle sind Informationen, keine Schwäche.“
-- „Verantwortung statt Schuld.“
-- „Reden ist kein Problem – Schweigen schon.“
-
-**Passt zur Marke:** Alltagssituationen von Männern, Muster erkennen, Kommunikation in Beziehung/Freundschaft/Familie, Stress, Selbstwert, Vatersein (falls relevant), Einblicke in Coaching-Logik, Humor über typische Verhaltensweisen.
-**Passt nicht:** Alpha-/Dominanz-Rhetorik, Frauen-Bashing, „High Value Man“, Luxus-Flexing, Pseudo-Therapie, Heilversprechen, Tanztrends ohne Bezug, Rage-Bait.
-
-**Rechtliche Leitplanke [E]:** Coaching ≠ Psychotherapie. Keine Aussagen wie „heilt Depression/Angst“. Bei schweren Themen auf professionelle Hilfe verweisen (z. B. TelefonSeelsorge 0800 111 0 111). Schützt Bilal und erhöht Seriosität.
+**Aufräum-Plan (Woche 0, unabhängig vom Audit):**
+- [ ] Kontostatus: Empfehlungsfähigkeit, Verstöße
+- [ ] Accounts Center: alle verknüpften Geräte, Apps, Partnerzugänge der Ex-Agenturen entfernen; Passwort neu; 2FA
+- [ ] Meta Business Suite: alte Werbekonten/Partner entfernen
+- [ ] Follower-Herkunft (Länder/Städte) auf Auffälligkeiten prüfen
+- [ ] Beiträge, die nicht mehr passen (Agentur-Formeln, Werbe-Creatives) → **archivieren, nicht löschen**
+- [ ] Baseline-Screenshots: Reichweite gesamt, **Anteil Nicht-Follower (aktuell laut Memo ~20 %)**, Profilaufrufe, Follower, Anfragen/Monat
 
 ---
 
-## 4. Zielgruppe (Phase 4) – **Hypothesen [A]**
-Keine Daten vorhanden. Die folgenden Annahmen sind plausibel für Männercoaching mit kostenlosem Erstgespräch, aber **nicht belegt**.
+## 3. Positionierung
 
-**Primäre Zielgruppe (Hypothese):** Männer ca. 25–45, berufstätig, in einer Phase, in der „funktionieren“ nicht mehr reicht (Beziehungsprobleme, Trennung, Vaterwerden, Burnout-Nähe, Sinnfrage). Konsumieren Podcasts, Self-Improvement-Content, Fitness. Reden selten offen über Gefühle, suchen eher „Werkzeuge“ als „Therapie“.
+### 3.1 Richtungsentscheidung
+Durch die Memo nicht mehr offen: **Männer, die mit alten Mustern aufgewachsen sind und wieder echt werden wollen – im Job, in der Gesundheit, in Beziehungen.** Die drei Bereiche sind *Lebensfelder*, in denen sich dasselbe Grundthema zeigt (Glaubenssätze, Panzer, fehlender Zugang zu Gefühlen). Das ist eine starke, kohärente Positionierung. Kein Unter-Schwerpunkt nötig; die drei Felder werden zu Themenclustern.
 
-**Wichtige Nebenzielgruppe:** **Partnerinnen/Partner**, die Content teilen („Schick das mal deinem Freund“). Hoher Share-Hebel → Reichweite. [A]
+### 3.2 Positionierung
+**Ein Satz (Arbeitsversion):**
+> Bilal ist Therapeut und Coach für Männer, die gelernt haben, stark zu sein – und jetzt lernen wollen, echt zu sein: im Job, im Körper, in der Liebe.
 
-| Segment | Hauptproblem | Wunsch | Typische Fragen | Geeigneter Content | Business-Relevanz |
+**Alternativen zum Testen:**
+- „Ich helfe Männern, den Panzer abzulegen, den sie nie bestellt haben.“
+- „Männercoaching mit therapeutischer Tiefe – für Männer, die nicht mehr nur funktionieren wollen.“
+
+**Ausführlich:** Bilal Volkmann ist ausgebildeter Therapeut und begleitet Männer, die mit Sätzen wie „Jungs weinen nicht“ oder „Reiß dich zusammen“ groß geworden sind – und merken, dass diese Sätze sie heute im Job, in ihrer Gesundheit und in ihren Beziehungen ausbremsen. Er spricht mit Männern wie ein guter Freund: offen, warm, ehrlich, manchmal humorvoll, nie belehrend. Seine Überzeugung: Wenn Männer heilen, wird die Welt ein besserer Ort. Er arbeitet bewusst 1:1 und begleitet bis zu echten Veränderungen – statt Kurse zu verkaufen und schnell zu skalieren.
+
+**Markenversprechen (Entwurf):** *„Du musst nicht mehr stark tun. Du darfst echt sein – und wirst gerade dadurch stark.“*
+
+**Markenwerte (aus der Memo abgeleitet):** Echtheit · Wärme · Tiefe · Integrität (Karma, keine falschen Versprechen) · Mut zur Weichheit
+
+**Differenzierung (belegt durch Memo):**
+1. **Therapeutische Ausbildung** statt reinem Coaching [F]
+2. **Gesprächston statt Vortrag** – Freund, nicht Guru [F – Wunsch; im Content beweisen]
+3. **Weichheit als Stärke** statt Alpha-Rhetorik [F]
+4. **Bewusst kein Kurs-/Skalierungsmodell** – persönliche 1:1-Begleitung bis Ergebnisse da sind [F]
+5. **Mann-und-Frau-Perspektive durch Kira** [OFFEN – nur falls gewünscht]
+
+**Kernbotschaften:**
+- „Die Sätze, die man dir als Junge beigebracht hat, laufen heute noch in dir.“
+- „Weich sein ist keine Schwäche. Es ist das, was dir fehlt.“
+- „Du darfst Hilfe annehmen.“
+- „Du bist nicht falsch. Du hast nur Muster gelernt – und Muster kann man verlernen.“
+- „Echte Veränderung braucht Zeit. Und jemanden, der bleibt.“
+
+### 3.3 Passt / passt nicht
+**Passt:** Glaubenssätze aus der Kindheit, Väter & Söhne, Männerfreundschaften, Umarmungen/Nähe, Gefühle im Job (Leistungsdruck, Burnout-Nähe), Körper & Stress, Beziehung & Kommunikation, Bilals eigene Erkenntnisse, Einblicke in Therapie-/Coaching-Arbeit, Gespräche mit Kira, ehrliche Fragen an Männer.
+**Passt nicht:** Kurs-/Freebie-Funnels, „In 30 Tagen zum …“, Alpha/High-Value-Rhetorik, Druck-CTAs („nur noch 2 Plätze!“ – außer es stimmt), skriptierte Lehrvorträge, Trends ohne Bezug, Männer-Bashing.
+
+### 3.4 Wie über „toxische Männlichkeit“ sprechen [E]
+- **Ja:** Das Thema ist Kern der Marke.
+- **Begriff:** sparsam, nie als Hook und nie als Etikett für den Zuschauer („Du bist toxisch“). Ausnahme: Klartext-Format, in dem er erklärt, was er damit meint und was nicht.
+- **Stattdessen:** konkrete Sätze aus der Kindheit („Indianer kennen keinen Schmerz“), Bilder („Panzer“, „Rüstung“), Situationen.
+- **Grund:** Die Zielgruppe muss sich *gesehen* fühlen, nicht *beschuldigt*. Sonst erreicht er nur Menschen, die schon zustimmen (oft Frauen) – und genau die Männer nicht.
+
+### 3.5 Rechtliche Leitplanke [E – bitte nicht überspringen]
+In Deutschland ist Werbung mit Heilung/Behandlung psychischer Beschwerden an eine Heilerlaubnis (z. B. Approbation oder Heilpraktiker für Psychotherapie) gebunden; das Heilmittelwerbegesetz regelt, wie damit geworben werden darf. **Welche Ausbildung Bilal hat, entscheidet, ob Aussagen wie „Männer heilen“ oder „Therapie“ im Angebot zulässig sind.** Bis das geklärt ist:
+- „heilen“ als **Mission/Haltung** („Wenn Männer heilen, …“) – nicht als Leistungsversprechen („Ich heile dich“).
+- Ausbildung **korrekt** benennen (genaue Bezeichnung).
+- Keine Ergebnisversprechen (passt ohnehin zu „keine falschen Versprechen“).
+- Bei Krisen auf Hilfe verweisen (TelefonSeelsorge 0800 111 0 111).
+→ Bilal sollte das mit seinem Berufsverband oder einer Rechtsberatung abklären. Ich bin keine Rechtsberatung.
+
+---
+
+## 4. Zielgruppe
+*Jetzt teilweise begründet durch die Memo (Themenfelder, gewünschte Haltung der Klienten). Demografie bleibt Hypothese.*
+
+**Primär [A, Altersspanne ungeprüft]:** Männer ca. 28–50, die nach außen funktionieren (Job, Familie, Sport), aber spüren, dass alte Muster sie begrenzen: Leistungsdruck, Gesundheit ignoriert, Beziehungen, in denen sie nicht über Gefühle reden können. **Entscheidend ist die Haltung, nicht das Alter** [F]: Sie wollen wirklich etwas verändern und sind bereit, an sich zu arbeiten.
+
+**Ausschlusskriterium [F]:** Männer, die eine schnelle Lösung ohne Eigenarbeit suchen → bewusst nicht ansprechen.
+
+**Sekundär:** Partnerinnen/Partner, die Inhalte teilen („Schau dir das mal an“) [A – sehr typisch für die Nische]; Kiras Community [OFFEN].
+
+| Segment | Hauptproblem | Wunsch | Typische Fragen | Geeigneter Content | Business |
 |---|---|---|---|---|---|
-| **1 Unbewusst** – „Mir geht's eigentlich gut“ | Diffuse Unzufriedenheit, Gereiztheit, Leere | Dass es einfach wieder „läuft“ | „Ist das normal?“ | Wiedererkennungs-Reels, Humor über Muster, „Woran du merkst …“ | Reichweite, Follower |
-| **2 Suchend** – „Irgendwas muss sich ändern“ | Kennt das Problem, weiß nicht wie | Konkrete Werkzeuge, Verständnis | „Was kann ich selbst tun?“, „Ist Coaching was für mich?“ | Edukative Karussells, Mini-Übungen, Mythen | Vertrauen, Saves, Profilbesuche |
-| **3 Bereit** – „Ich will Hilfe“ | Leidensdruck hoch, Skepsis gegenüber Coaches | Sicherheit, Seriosität, Ergebnis | „Was passiert im Erstgespräch?“, „Was kostet das?“, „Bin ich ein Fall für Therapie?“ | Ablauf Erstgespräch, Fallbeispiele (anonym), Einwände, FAQ-Highlight | Anfragen |
-| **4 Teiler** – Partnerin/Freund/Mutter | Sorge um einen Mann | Ihn erreichen, ohne zu belehren | „Wie spreche ich ihn an?“ | „Schick das einem Mann, der …“ | Shares → Reichweite |
+| **1 „Läuft doch“** | Merkt nicht, dass er im Panzer lebt | Dass es sich wieder leichter anfühlt | „Ist das normal, dass ich nichts fühle?“ | Wiedererkennung: Kindheitssätze, Alltagsmuster | Reichweite |
+| **2 „Da ist was“** | Spürt Muster im Job/Körper/Beziehung | Verstehen, was los ist | „Warum reagiere ich so?“, „Was kann ich selbst tun?“ | Gespräche mit Tiefe, Erklärungen, kleine Impulse | Vertrauen, Saves |
+| **3 „Ich will was ändern“** | Bereit, aber skeptisch („Coaching = Gelaber?“) | Jemanden, der es ernst meint und bleibt | „Wie arbeitest du?“, „Was ist der Unterschied zur Therapie?“, „Für wen ist das?“ | Arbeitsweise, Ausbildung, „Für wen das nicht ist“, Erstgespräch | **Passende Anfragen** |
+| **4 Partnerin / Umfeld** | Erreicht ihn nicht | Dass er sich öffnet | „Wie spreche ich ihn an?“ | Bilal & Kira, „Schick ihm das“ | Shares → Reichweite |
 
-**Typische Einwände [A]:** „Coaching ist für Schwache.“ · „Das muss ich allein schaffen.“ · „Coaches sind Schwätzer.“ · „Ich will nicht über Gefühle labern.“ · „Kostenlos = Verkaufsgespräch.“ → jeder Einwand wird zu einem Content-Stück (siehe Ideen).
+**Einwände:** „Ich bin nicht kaputt.“ · „Über Gefühle reden bringt nichts.“ · „Coaches versprechen viel.“ (→ nach 10.000 € Ads auch die Erfahrung vieler Zielkunden mit anderen Anbietern) · „Das muss ich allein schaffen.“ · „Gratis-Erstgespräch = Verkaufsgespräch.“
 
 ---
 
-## 5. Wettbewerb & Trends (Phase 5 + 6)
+## 5. Wettbewerb & Trends
+**Keine Live-Recherche auf Instagram möglich → keine konkreten Accounts/Zahlen genannt.** Bitte 5–10 Accounts schicken, die Bilal/Kira kennen (Vorbilder, Konkurrenz, auch die, die sie *nicht* mögen).
 
-**Transparenz:** Ich habe **keinen Live-Zugriff auf Instagram** und konnte keine Wettbewerber-Accounts oder deren Zahlen prüfen. Ich nenne daher **keine konkreten Accounts und keine Performance-Daten.** Bitte schick mir 5–10 Accounts, die du oder Bilal in der Nische kennt (direkte Wettbewerber + Vorbilder), dann ergänze ich die Wettbewerbsmatrix.
-
-**Was ich stattdessen liefern kann – typische Archetypen der Nische [S, allgemeine Nischenkenntnis]:**
-
-| Archetyp | Stärke | Schwäche | Differenzierungschance für Bilal |
+**Archetypen der Nische [S]:**
+| Archetyp | Stärke | Schwäche | Bilals Chance |
 |---|---|---|---|
-| „Alpha-/Disziplin-Coach“ | Polarisiert → Reichweite | Toxisch, Vertrauensproblem, schlechter Ruf | Stärke *mit* Empathie |
-| „Spiritueller Männerkreis“ | Tiefe, Community | Für viele Männer zu weit weg | Klartext + Alltagssprache |
-| „Psychologie-Erklärer“ | Kompetenz, Saves | Oft trocken, wenig Persönlichkeit | Humor + Szenen |
-| „Beziehungscoach“ | Akuter Schmerz → Anfragen | Austauschbar, oft Frauenperspektive | Männerperspektive, ohne Schuldzuweisung |
+| Alpha-/Disziplin-Coach | Polarisiert → Reichweite | Härte, Vertrauensproblem | Weichheit als Stärke |
+| Spiritueller Männerkreis | Tiefe | Für viele zu weit weg | Alltagssprache, Therapeuten-Fundament |
+| Psychologie-Erklärer | Kompetenz | Lehrerhaft | **Gespräch statt Vortrag** |
+| Funnel-Coach (Kurs, „in 8 Wochen …“) | Skaliert | Versprechen, Misstrauen | 1:1, Integrität, „keine falschen Versprechen“ |
 
-**Zeitlose Content-Muster mit Potenzial in dieser Nische [S]:**
-- **Wiedererkennung („Das bin ich“):** Szenen typischen Männerverhaltens → Kommentare „Fühl ich“, Markieren von Freunden.
-- **Übersetzungen:** „Was er sagt vs. was er meint“ → hoher Share-Wert, auch über Partnerinnen.
-- **Mythos vs. Realität** → Saves.
-- **Eine konkrete Übung in 30 Sek.** → Saves, Kompetenz.
-- **Persönliche Geschichte mit Wendepunkt** → Vertrauen, Profilbesuche.
-- **Straßen-/Alltagsfragen an Männer** (wenn Bilal das mag) → Reichweite, aber aufwendiger.
+**Zeitlose Muster, die zu seinem Stil passen [S]:**
+- **Interview-/Podcast-Clips:** Frage als Text → ehrliche, ungeplante Antwort. Wirkt nahbar, ist für Menschen ohne Kameraerfahrung am leichtesten.
+- **Kindheitssätze:** „Sag mir den Satz, den du als Junge am häufigsten gehört hast.“ → hohes Identifikations- und Kommentarpotenzial.
+- **Mann-Frau-Dialog:** zwei Perspektiven auf dasselbe Thema → Shares.
+- **Walk & Talk:** Bewegung macht Sprechen natürlicher.
+- **Ehrliche Momente:** Ein Satz, der hängen bleibt, ohne Inszenierung.
 
-**Zu testende Hypothesen:** Humor-Szenen performen besser auf Reichweite als Talking-Head; Talking-Head performt besser auf Anfragen; „Schick das …“-CTAs erhöhen Shares. → im 30-Tage-Plan eingebaut.
+**Hypothesen zum Testen:** Gesprächsformat schlägt Solo-Talking-Head bei Wiedergabedauer und Kommentaren · Kindheitssätze als Einstieg erhöhen Nicht-Follower-Reichweite · Clips mit Kira werden häufiger geteilt.
 
-**Plattform-Funktion, die zum vorsichtigen Kunden passt:** **Probe-Reels (Trial Reels)** – Reels werden zuerst nur Nicht-Followern gezeigt; die Bestandsfollower sehen Experimente nicht. Ideal, um Hooks und Formate risikoarm zu testen. *(Verfügbarkeit im Account prüfen.)*
+**Probe-Reels (Trial Reels):** Reels zuerst nur Nicht-Followern zeigen → ideal, um Einstiege zu testen, ohne die Community mit Experimenten zu „stören“, und direkt messbar gegen die 20 %-Baseline. Verfügbarkeit prüfen.
 
 ### 5.1 Content-Ansätze (18)
+*Alle als Gespräch oder freie Erzählung gedacht – kein Skript. „Frage“ = was der Fragesteller hinter der Kamera stellt.*
 
-| # | Thema | Segment | Hook | Format | Ansatz | Gewünschte Reaktion | Zweck |
-|---|---|---|---|---|---|---|---|
-| 1 | „Alles gut“ | 1 | „‚Alles gut.‘ – Die drei gefährlichsten Wörter eines Mannes.“ | Reel, Talking Head | Was hinter „alles gut“ steckt + eine bessere Antwort | Kommentar, Share | Reichweite |
-| 2 | Übersetzer | 1/4 | „Was Männer sagen – und was sie eigentlich meinen.“ | Reel-Serie, Szene mit Untertitel-Gag | 3 Sätze übersetzt, letzter emotional | Share, Markieren | Reichweite |
-| 3 | Wut als Deckel | 2 | „Du bist nicht wütend. Du bist was anderes – und das ist unangenehmer.“ | Reel | Wut als sekundäres Gefühl, 1 Frage zum Mitnehmen | Save | Expertise |
-| 4 | Einwand „Coaching ist für Schwache“ | 3 | „Coaching ist für schwache Männer? Lass uns kurz rechnen.“ | Reel | Sportler haben Trainer – warum das Leben nicht? (humorvoll) | Profilbesuch | Conversion |
-| 5 | Ablauf Erstgespräch | 3 | „Was in meinem kostenlosen Erstgespräch passiert – und was nicht.“ | Reel + Karussell | Transparenz, kein Verkaufsdruck | DM-Keyword | Conversion, Vertrauen |
-| 6 | Bilals Geschichte | alle | „Warum ich Männer coache – die ehrliche Version.“ | Reel 45–60s | [OFFEN – aus Memo] | Folgen | Pinned #1 |
-| 7 | Männerfreundschaften | 1 | „Wann hast du deinem besten Freund das letzte Mal was Echtes erzählt?“ | Reel | Oberflächliche Freundschaften, Mini-Challenge | Markieren | Reichweite, Community |
-| 8 | Stress-Übung | 2 | „Mach das, bevor du nach Feierabend durch die Haustür gehst.“ | Reel, Demo | 60-Sekunden-Übergangsritual | Save | Expertise |
-| 9 | 5 Zeichen | 1/2 | „5 Zeichen, dass du nur noch funktionierst.“ | Karussell | Checkliste zum Wiedererkennen | Save, Share | Reichweite + Vertrauen |
-| 10 | Mythos Stärke | 2 | „‚Ein Mann muss das allein schaffen.‘ – Mythos oder Wahrheit?“ | Reel/Karussell | Mythos-Serie | Kommentar | Positionierung |
-| 11 | Für Partnerinnen | 4 | „Für alle, die einen Mann lieben, der nicht redet.“ | Reel | Wie man ihn erreicht, ohne Verhör | Share | Reichweite |
-| 12 | Fallbeispiel anonym | 3 | „Er kam zu mir wegen seiner Beziehung. Das eigentliche Thema war ein anderes.“ | Reel Storytelling | Anonymisierter Fall (Einwilligung!) | Profilbesuch, DM | Conversion |
-| 13 | Coach reagiert | 1 | „Ich reagiere auf die schlimmsten Männer-Ratschläge im Internet.“ | Reel Green-Screen | Alpha-Tipps humorvoll zerlegen | Kommentar, Share | Reichweite + Abgrenzung |
-| 14 | Frage aus der Community | 2 | „Die häufigste Frage, die Männer mir im Erstgespräch stellen.“ | Reel | FAQ-Antwort | DM | Vertrauen |
-| 15 | Hinter den Kulissen | alle | „Ein Tag als Männercoach – ohne Filter.“ | Reel/Story | Alltag, Vorbereitung, Humor | Folgen | Nahbarkeit |
-| 16 | Vatersein (falls relevant) | 1/2 | „Was mein Vater mir nie beigebracht hat.“ | Reel | Generationenmuster | Kommentar | Tiefe [OFFEN] |
-| 17 | Die eine Frage | 2 | „Eine Frage, die ich jedem Mann stelle. Die meisten brauchen 10 Sekunden.“ | Reel | Frage stellen, Pause, Auflösung | Kommentar | Engagement |
-| 18 | Selbstironie | 1 | „Typen, denen du im Männercoaching begegnest.“ | Reel-Sketch (Bilal spielt alle) | Archetypen mit Humor | Share | Reichweite, Humor-Marke |
+| # | Thema | Feld | Frage an Bilal / Einstieg | Format | Gewünschte Reaktion | Zweck |
+|---|---|---|---|---|---|---|
+| 1 | Warum Männer? | – | „Warum arbeitest du ausgerechnet mit Männern?“ | Gespräch 45–60 s | Folgen | Pin #1 |
+| 2 | Kindheitssätze | alle | „Welcher Satz aus deiner Kindheit läuft bei Männern heute noch?“ | Gespräch | Kommentar („Bei mir war's …“) | Reichweite |
+| 3 | Umarmungen | Beziehung | „Wann hast du zuletzt einen Mann richtig umarmt?“ | Straßen-/Freundesfrage oder Gespräch | Share, Markieren | Reichweite, Herzensthema |
+| 4 | Weich ≠ schwach | alle | „Was meinst du, wenn du sagst, Männer sollen weicher werden?“ | Gespräch | Kommentar | Positionierung |
+| 5 | Leistung & Selbstwert | Arbeit | „Warum fühlen sich so viele Männer nur wertvoll, wenn sie leisten?“ | Gespräch | Save | Expertise |
+| 6 | Körper ignorieren | Gesundheit | „Warum gehen Männer erst zum Arzt, wenn's zu spät ist?“ | Gespräch, Humor möglich | Share | Reichweite |
+| 7 | Streit & Rückzug | Beziehung | „Was passiert in einem Mann, wenn er im Streit dichtmacht?“ | Gespräch | Save, Share (Partnerin) | Expertise |
+| 8 | Bilal & Kira | Beziehung | „Kira, was wünschst du dir, dass Männer verstehen?“ / „Bilal, was wünschst du dir, dass Frauen verstehen?“ | Dialog | Shares | Reichweite, Differenzierung [OFFEN] |
+| 9 | Therapeut vs. Coach | – | „Du bist Therapeut – warum nennst du es Coaching?“ | Gespräch | Profilbesuch | Vertrauen [Inhalt abhängig von Ausbildung] |
+| 10 | Für wen nicht | – | „Für wen ist dein Coaching nichts?“ | Gespräch | Filtert, qualifiziert | Passende Anfragen |
+| 11 | Erstgespräch | – | „Was passiert, wenn mir ein Mann schreibt?“ | Gespräch + Karussell | Keyword-DM | Conversion |
+| 12 | Keine Kurse | – | „Warum verkaufst du keinen Onlinekurs?“ | Gespräch | Vertrauen, Kommentar | Positionierung, Integrität |
+| 13 | Väter | alle | „Was haben dir die Männer in deinem Leben beigebracht – und was nicht?“ | freie Erzählung | Kommentar | Tiefe, Persönlich |
+| 14 | Weinen | alle | „Wann hast du zuletzt geweint?“ (an Bilal) | Gespräch | Kommentar, Share | Nahbarkeit |
+| 15 | Ein Moment aus der Praxis | alle | „Erzähl von einem Moment, in dem bei einem Klienten was aufgebrochen ist.“ | Erzählung, anonymisiert | Profilbesuch | Vertrauen [Einwilligung/Schweigepflicht!] |
+| 16 | Männerfreundschaft | Beziehung | „Warum reden Männer mit Freunden über alles – außer über sich?“ | Walk & Talk | Markieren | Reichweite |
+| 17 | Feierabend-Panzer | Arbeit | „Was nimmst du von der Arbeit mit nach Hause, ohne es zu merken?“ | Gespräch + kleiner Impuls | Save | Expertise |
+| 18 | „Wenn Männer heilen …“ | – | „Warum glaubst du, die Welt wird besser, wenn Männer heilen?“ | freie Erzählung, ruhig | Folgen, Share | Mission, Pin-Kandidat |
 
 ---
 
-## 6. Content-Strategie (Phase 7)
+## 6. Content-Strategie
 
-### 6.1 Content-Säulen
+### 6.1 Leitprinzip: „Gespräch statt Vortrag“
+Jedes Video entsteht aus einer **echten Frage an Bilal**. Die Strategie (Hook, Struktur, CTA) passiert in der Planung (welche Fragen) und im Schnitt (welcher Satz kommt nach vorn) – nicht im Kopf von Bilal beim Dreh.
+
+**Nur drei Leitplanken für Bilal beim Dreh:**
+1. Antworte der Person, nicht der Kamera.
+2. Erzähl ein Beispiel, bevor du erklärst.
+3. Wenn dir ein Satz gefällt – sag ihn ruhig nochmal.
+
+### 6.2 Content-Säulen
 | Säule | Ziel | Formate | Beispielthemen | Journey |
 |---|---|---|---|---|
-| **1 „Erkennst du dich?“** – Männermuster mit Humor | Reichweite, Identifikation | Szenen-Reels, Übersetzer, Sketche | „Alles gut“, Typen im Coaching, Männer & Arzttermine | Aufmerksamkeit |
-| **2 „Werkzeugkasten“** – konkrete Hilfe | Expertise, Saves | Talking Head, Karussell, Übungs-Demo | Übergangsritual, Wut verstehen, Gespräche führen | Interesse |
-| **3 „Klartext“** – Haltung & Mythen | Positionierung, Abgrenzung | Mythos-vs-Realität, Reaktionen, Meinung | Alpha-Mythen, „Männer weinen nicht“ | Interesse/Vertrauen |
-| **4 „Der Mann hinter dem Coach“** – Bilal persönlich | Nahbarkeit, Vertrauen | Story-Reels, Stories, BTS | Warum Coach, eigene Fehler, Alltag | Vertrauen |
-| **5 „Der erste Schritt“** – Coaching erklärt | Anfragen | Ablauf, FAQ, Fälle, Einwände | Erstgespräch, „Therapie oder Coaching?“ | Entscheidung |
+| **1 „Was man uns beigebracht hat“** – alte Sätze, alte Muster | Reichweite, Identifikation | Gesprächsclips, Kindheitssätze, Fragen an Männer | „Indianer kennen keinen Schmerz“, Umarmungen, Weinen | Aufmerksamkeit |
+| **2 „Arbeit · Körper · Liebe“** – das Muster im Alltag | Expertise, Saves | Gesprächsclips mit Tiefe, Karussells | Leistung & Selbstwert, Arzt meiden, Rückzug im Streit | Interesse |
+| **3 „Weich ist stark“** – Bilals Haltung & Mission | Positionierung, Abgrenzung | freie Erzählungen, Klartext | Weichheit, toxische Muster (dosiert), keine Kurse | Vertrauen |
+| **4 „Bilal (& Kira) privat“** – der Mensch | Nahbarkeit | Stories, BTS, Dialoge mit Kira | Warum Männer, eigene Erfahrungen, Alltag | Vertrauen |
+| **5 „Gemeinsam gehen“** – so arbeitet er | Passende Anfragen | Gespräch, Karussell, Highlights | Erstgespräch, Ausbildung, „für wen nicht“, Begleitung bis Ergebnis | Entscheidung |
 
-### 6.2 Content-Mix (Startannahme, nach 4–6 Wochen anpassen)
-- 35 % Säule 1 (Reichweite)
-- 25 % Säule 2 (Expertise)
-- 15 % Säule 3 (Haltung)
-- 15 % Säule 4 (Persönlich)
-- 10 % Säule 5 (Conversion) – plus Soft-CTAs in allen anderen
+### 6.3 Content-Mix (Startannahme)
+40 % Säule 1 · 20 % Säule 2 · 15 % Säule 3 · 15 % Säule 4 · 10 % Säule 5
+**Warum:** Engpass Nr. 1 ist die Nicht-Follower-Reichweite (20 %). Säule 1 ist am stärksten auf Identifikation und Teilen gebaut. **Anpassen nach:** Nicht-Follower-Anteil, Wiedergabedauer, DM-Qualität.
 
-**Warum:** Problem Nr. 1 ist „erreicht keine neuen Accounts“ → Reichweite zuerst. Ohne Reichweite kein Vertrauen, ohne Vertrauen keine Anfragen. **Anpassen nach:** Anteil Nicht-Follower-Reichweite, Profilaufrufe pro Reel, DM-Anfragen pro Woche.
+### 6.4 Serien
+1. **„Was man uns beigebracht hat“** – ein Kindheitssatz pro Folge, Bilal ordnet ihn ein.
+2. **„Unter Männern“** – Fragen, die Männer sich nie stellen; Bilal antwortet (später: andere Männer antworten).
+3. **„Er sagt, sie sagt“** – Bilal & Kira zu einem Beziehungsthema [nur wenn Kira mag].
+4. **„Frag Bilal“** – Fragen aus Stories/DMs.
+5. **„Aus dem Herzen“** – ungeschnittene, ruhige 60-Sekunden-Gedanken (selten, 1×/Monat; wirkt gerade durch das Fehlen von Schnitttricks).
 
-### 6.3 Serien
-1. **„Männerübersetzer“** – was er sagt vs. meint (Säule 1)
-2. **„60 Sekunden Werkzeug“** – eine Übung pro Folge (Säule 2)
-3. **„Mythos oder Mann?“** – Mythos-Check (Säule 3)
-4. **„Frag Bilal“** – Fragen aus Stories/DMs (Säule 2/5)
-5. **„Aus der Praxis“** – anonymisierte Fälle (Säule 5, nur mit Einwilligung)
+### 6.5 Formate & Frequenz
+- **Reels: 3/Woche** – das Reichweitenformat; Gesprächsclips.
+- **Karussell: 1/Woche** – aus den Antworten abgeleitet („5 Sätze, die Männer als Jungs gehört haben“). Kein Dreh nötig.
+- **Stories: 3–5×/Woche, Bilal selbst** – kein Muss-Programm, sondern 3 einfache Story-Typen (Gedanke des Tages, Frage-Sticker, kurzer Alltag).
+- **Optional ab Monat 2:** Langes Gespräch (20–40 Min.) als Podcast/YouTube-Basis – liefert 10–15 Reels pro Aufnahme.
 
-Jede Serie: gleicher Cover-Aufbau, gleicher Einstiegssatz/Jingle, Seriennummer → Wiedererkennung.
+### 6.6 Einstieg & Aufbau (für den Schnitt, nicht für Bilal)
+- **0–2 s:** Stärkster, überraschendster oder emotionalster Satz aus der Antwort – vorgezogen. Zusätzlich die Frage als Text („Wann hast du zuletzt einen Mann umarmt?“).
+- **2–10 s:** Der Kontext / das Beispiel.
+- **10–45 s:** Der Gedanke, max. ein Kernpunkt. Pausen dürfen bleiben, wo sie Wirkung haben.
+- **Ende:** natürlicher Schluss + CTA als Text/Caption, nicht gesprochen (wirkt sonst geplant).
 
-### 6.4 Formate & Begründung
-- **Reels (3/Woche):** einziges Format mit nennenswerter Nicht-Follower-Reichweite → löst das Hauptproblem.
-- **Karussells (1/Woche):** Saves + Expertise; kein Dreh nötig, aus Reel-Skripten ableitbar.
-- **Stories (3–5 Tage/Woche, Bilal selbst, 2–5 Min/Tag):** Nähe + Interaktion + Conversion. Vorlagen von dir.
-- **Lives:** erst ab Monat 3, wenn eine kleine Community da ist.
+### 6.7 Hooks (24) – als Textzeile/Frage oder vorgezogener Satz
+*Formuliert in Bilals vermutetem Ton (warm, direkt). Nach Audit an seine echte Sprache anpassen.*
 
-### 6.5 Hook-Strategie (24 Hooks)
-**Problem:** 1. „Du bist nicht faul. Du bist leer.“ 2. „Wenn du nach Feierabend nur noch aufs Handy starrst, schau dir das an.“ 3. „Du streitest nicht über den Abwasch.“
-**Neugier:** 4. „Es gibt einen Satz, den fast jeder Mann im Erstgespräch sagt.“ 5. „Die meisten Männer merken das erst mit 40.“ 6. „Eine Frage. 10 Sekunden. Die meisten scheitern.“
-**Erfahrung:** 7. „Nach [X] Gesprächen mit Männern weiß ich: Es ist fast nie das Thema, mit dem sie kommen.“ *(Zahl nur mit echtem Wert)* 8. „Ich war selbst der Typ, der ‚alles gut‘ gesagt hat.“ *(nur wenn wahr)*
-**Konträr:** 9. „Hör auf, an deiner Disziplin zu arbeiten.“ 10. „Männer müssen nicht mehr über Gefühle reden. Sie müssen besser darüber reden.“ 11. „Stark sein ist überbewertet. Stabil sein nicht.“
-**Fehler/Missverständnisse:** 12. „Drei Sätze, mit denen Männer jedes ernste Gespräch killen.“ 13. „Der größte Fehler nach einem Streit – und fast jeder Mann macht ihn.“ 14. „Nein, Coaching ist keine Therapie light.“
-**Anleitung:** 15. „Mach das, bevor du nach Hause kommst.“ 16. „So sagst du ‚mir geht's nicht gut‘, ohne dass es peinlich wird.“ 17. „Wenn du gleich explodierst: drei Schritte.“
-**Persönlich:** 18. „Warum ich Männer coache – die ehrliche Version.“ 19. „Der Moment, in dem ich gemerkt habe, dass ich nicht weiter so kann.“ *(nur wenn wahr)*
-**Fall:** 20. „Er wollte nur, dass seine Freundin aufhört zu meckern. Drei Wochen später …“ *(anonymisiert, Einwilligung)*
-**Überraschung/Humor:** 21. „Männer gehen eher mit einem gebrochenen Fuß joggen als zum Arzt. Warum?“ 22. „Typen, die dir im Coaching begegnen. Typ 3 bist du.“
-**Teilen:** 23. „Schick das einem Mann, der immer ‚passt schon‘ sagt.“ 24. „Für alle Frauen, die fragen: Warum redet er nicht?“
+**Kindheitssätze:** 1. „‚Jungs weinen nicht.‘ – Wer hat dir das beigebracht?“ 2. „‚Reiß dich zusammen.‘ Wie oft hast du das gehört?“ 3. „Der Satz, den fast jeder Mann aus seiner Kindheit kennt.“
+**Fragen:** 4. „Wann hast du zuletzt einen Mann richtig umarmt?“ 5. „Wann hast du das letzte Mal geweint?“ 6. „Wem erzählst du, wie es dir wirklich geht?“ 7. „Was würdest du deinem 12-jährigen Ich sagen?“
+**Erkenntnis:** 8. „Die meisten Männer, die zu mir kommen, haben kein Problem mit Gefühlen. Sie haben ein Problem mit dem Zugang.“ 9. „Dein Körper hat es dir längst gesagt.“ 10. „Du bist nicht kalt. Du hast nur früh gelernt, dass Wärme gefährlich ist.“
+**Konträr:** 11. „Weich sein ist das Mutigste, was ein Mann tun kann.“ 12. „Härter werden ist nicht die Lösung. Es war das Problem.“ 13. „Ich verkaufe keine Kurse. Hier ist, warum.“
+**Arbeit:** 14. „Wenn du dich nur wertvoll fühlst, wenn du leistest, hör kurz zu.“ 15. „Du bist nicht müde vom Job. Du bist müde vom Funktionieren.“
+**Gesundheit:** 16. „Warum Männer erst zum Arzt gehen, wenn es zu spät ist.“ 17. „Dein Rücken trägt mehr als deine Taschen.“
+**Beziehung:** 18. „Was in einem Mann passiert, wenn er im Streit dichtmacht.“ 19. „Sie will nicht, dass du es löst. Sie will, dass du da bist.“ 20. „Für alle, die einen Mann lieben, der nicht redet.“
+**Persönlich:** 21. „Warum ich mit Männern arbeite.“ 22. „Wenn Männer heilen, wird die Welt ein besserer Ort. Ich meine das ernst.“
+**Arbeitsweise/Filter:** 23. „Für wen mein Coaching nichts ist.“ 24. „Was passiert, wenn du mir schreibst – ehrlich.“
 
-**Videoaufbau (Standard 20–45 Sek.):**
-- **0–2 s:** Hook gesprochen + identisch als Text-Overlay; Bilal bereits mitten im Satz, kein „Hey Leute“.
-- **2–8 s:** Problem konkretisieren / Szene zeigen (Wiedererkennung).
-- **8–35 s:** 1 Erkenntnis + 1 Werkzeug ODER 3 kurze Punkte. Schnitt alle 2–4 Sek., B-Roll/Zoom statt Effekte.
-- **Ende:** Eine Handlungsaufforderung, abhängig vom Ziel: „Speicher dir das“ / „Schick's ihm“ / „Schreib mir KLARHEIT“.
-
-### 6.6 Community & Conversion
-**Weg zur Anfrage (ohne Website):**
-Reel → Profil (klare Bio + Pinned) → Highlight „Erstgespräch“ → **DM mit Keyword** (z. B. „KLARHEIT“) → Bilal antwortet mit 2 kurzen Fragen + Buchungslink.
-
-- **Buchungstool [E]:** Kostenloses Terminbuchungstool (z. B. Calendly oder Cal.com) mit 3 Vorab-Fragen. Funktioniert als Mini-Landingpage.
-- **Automatisierung:** Keyword-Auto-DMs (z. B. ManyChat, offizieller Meta-Partner) *optional ab Monat 2* – nicht sofort, um den vorsichtigen Kunden nicht mit Tools zu überfordern. Bei Coaching ist die persönliche Antwort ohnehin ein Vertrauensvorteil.
-- **Kommentare:** Bilal beantwortet in den ersten 60 Minuten nach Veröffentlichung jeden Kommentar mit echtem Satz (kein Emoji-only). Gute Kommentarfragen → als „Frag Bilal“-Reel per Video-Antwort.
-- **Story-Interaktion (wöchentlich):** Umfrage („Kennst du das? Ja/Leider ja“), Fragebox („Was würdest du nie einem Freund erzählen?“ – anonym), Quiz zu Mythen, Slider.
-- **CTA-Leiter:** Folgen → Speichern/Teilen → Story-Antwort → Keyword-DM → Erstgespräch. Max. 1 harter CTA pro Woche im Feed.
+### 6.8 Community & Conversion – „wenige, aber die richtigen“
+**Weg:** Reel → Profil (Ausbildung + Haltung sichtbar) → Highlight „Mit mir arbeiten“ → **DM mit Stichwort** (z. B. „GESPRÄCH“) → Bilal stellt 2–3 persönliche Fragen → Erstgespräch.
+- **Vorqualifizierung [E]:** Statt einem Klick-Buchungslink, über den jeder bucht, zuerst eine kurze Nachricht/Frage („Was ist gerade dein Thema, und warum jetzt?“). Das filtert genau die „tote-Lead“-Problematik aus den Ads. Optional: Buchungstool mit 3 Pflichtfragen (Calendly/Cal.com).
+- **Filter-Content:** 1×/Monat „Für wen das nichts ist“ – zieht passende Männer an, hält unpassende fern.
+- **Keine Automatisierung zum Start.** Persönliche Antworten passen zu Marke und Werten; ManyChat o. Ä. erst bei hohem DM-Volumen.
+- **Kommentare:** Bilal antwortet in der ersten Stunde mit echten Sätzen. Die besten Kommentare werden „Frag Bilal“-Videos.
+- **Story-Fragen:** „Welchen Satz hast du als Junge oft gehört?“ · „Wem erzählst du, wie es dir geht? (Freund / Partnerin / niemand)“ · Fragebox „Was wolltest du einen Mann schon immer fragen?“
+- **CTA-Leiter:** Folgen → Kommentieren/Teilen → Story-Antwort → Stichwort-DM → Erstgespräch. Max. ein direkter Angebots-CTA pro Woche im Feed. **Keine künstliche Verknappung.**
 
 ---
 
-## 7. Visuelles Branding (Phase 8)
+## 7. Visuelles Branding
 
-### 7.1 Designrichtung
-**Wirkung:** ruhig, klar, warm, erwachsen. „Hochwertiger Podcast trifft gutes Gespräch“ – nicht Business-Hochglanz, nicht Gym-Ästhetik.
-**Bildsprache:** Natürliches, weiches Licht von der Seite; Bilal in gedeckter Kleidung (Navy, Grau, Off-White); ruhige Hintergründe (Holz, Pflanzen, Beton, Natur). Wiederkehrende Drehorte (2–3) für Wiedererkennung.
-**Video:** 9:16, Augenhöhe, Brust-aufwärts für Talking Head; Detail-B-Roll (Hände, Kaffee, Gehen, Tür) für Szenen. Keine hektischen Effekte, keine Emoji-Explosion. Untertitel immer an.
+### 7.1 Richtung
+**Wirkung:** hell, offen, warm, ruhig – „ein Gespräch im hellen Raum“. Passt zu seiner Kleidung (Weiß/Hellblau) und hebt sich von dunklen, harten Männer-Accounts ab.
+**Bildsprache:** natürliches Tageslicht, helle Räume oder draußen, Bilal in Weiß/Hellblau, Gesprächssituation sichtbar (zweiter Stuhl, Schulter des Fragestellers im Anschnitt, Blick leicht neben die Kamera). **Wiedererkennung über das hellblaue Markenzeichen-Teil** (⚠️ klären, was es ist) – in möglichst vielen Videos tragen.
+**Video:** 9:16, Blick leicht seitlich zur fragenden Person (Interviewlook), zwei Einstellungsgrößen (halbnah + nah) für ruhige Schnitte, Untertitel immer, keine hektischen Effekte.
 
-### 7.2 Farbpalette (aus Kundenwunsch Hell-/Dunkelblau)
+### 7.2 Farbpalette (aufbauend auf seiner Komfortfarbe)
 | Rolle | Farbe | Hex | Funktion |
 |---|---|---|---|
-| Primär | Tiefes Marineblau | `#0F2A44` | Hintergründe, Cover-Flächen, Headlines auf Hell. Steht für Ruhe, Tiefe, Seriosität |
-| Sekundär | Klares Hellblau | `#8EC3E6` | Flächen, Hervorhebungen, Serienkennung. Steht für Offenheit, Leichtigkeit |
-| Akzent | Warmes Sand-Orange | `#E8A255` | **Nur** für CTAs, Keyword, Markierungen (max. 10 % Fläche). Komplementär zu Blau → maximale Aufmerksamkeit + Wärme/Empathie |
-| Neutral hell | Warmes Off-White | `#F4F1EC` | Karussell-Hintergrund, Lesbarkeit |
-| Neutral dunkel | Fast-Schwarz | `#14181D` | Fließtext auf Hell |
-| Neutral Mitte | Blaugrau | `#5B6B7B` | Sekundärtext, Linien |
+| Primär | Hellblau | `#9CCBEA` | Markenfarbe: Flächen, Serienkennung, Highlights. Offenheit, Ruhe, Weichheit |
+| Basis | Weiß / warmes Off-White | `#FAF8F5` | Hintergründe – entspricht seinem Kleidungsstil, wirkt luftig |
+| Anker | Dunkelblau | `#16324F` | Headlines, Text, Kontrastflächen (Cover-Variante dunkel). Tiefe, Seriosität |
+| Text | Fast-Schwarz-Blau | `#14202B` | Fließtext |
+| Neutral | Blaugrau | `#6B7C8C` | Sekundärtext, Linien |
+| Akzent (optional) | Warmes Sand | `#E2B07A` | Nur für Stichwort/CTA, max. 5 % Fläche |
 
-**Regeln:** Dunkle Variante = Marine + Off-White-Text + Hellblau-Highlight. Helle Variante = Off-White + Marine-Text + Hellblau-Fläche. Akzent nie flächig. Hellblau nie als Textfarbe auf Off-White (Kontrast zu schwach).
-*Begründung Akzent:* Reines Blau-in-Blau wirkt kühl und distanziert – das Gegenteil von „nahbar/empathisch“. Ein warmer Akzent löst das, ohne den Kundenwunsch zu verletzen. **Mit Bilal abstimmen.**
+**Regeln:** Hellblau nie als Textfarbe auf Weiß (zu wenig Kontrast) – Text immer Dunkelblau. Dunkle Variante (Dunkelblau + Weiß + Hellblau) für ernste/tiefe Themen, helle Variante für alles andere. Sand nur, wenn Bilal ihn mag – sonst übernimmt Dunkelblau die CTA-Funktion.
+*Warum ein optionaler warmer Ton? Reines Blau-Weiß kann klinisch wirken („Praxis“). Ein Hauch Wärme passt zu „Wärme, Herz, Umarmung“. Mit ihm abstimmen.*
 
 ### 7.3 Typografie
-- **Headlines:** *Archivo* (ExtraBold, ggf. SemiCondensed) – kräftig, maskulin, modern, ohne aggressiv zu wirken.
-- **Fließtext/Untertitel:** *Inter* (Medium/SemiBold) – sehr gut lesbar auf dem Smartphone.
-- **Akzent für persönliche Notizen (sparsam):** handschriftliche Schrift wie *Caveat* – nur für „Bilal-Kommentare“ auf Karussells.
-- Alle drei kostenlos über Google Fonts; in CapCut/Canva verfügbar prüfen, sonst Fallback *Montserrat ExtraBold* + *Inter*.
+- **Headlines:** *Fraunces* (weiche Serifenschrift, warm, hochwertig, erzählend) **oder** *Archivo* (moderne Grotesk, klarer). Empfehlung: **Fraunces** – passt besser zu „Gespräch, Herz, Tiefe“ und unterscheidet sich von typischen Coach-Accounts in fetter Groteskschrift. Mit Bilal testen.
+- **Fließtext & Untertitel:** *Inter* (Medium/SemiBold).
+- Alle kostenlos (Google Fonts); Verfügbarkeit in CapCut/Canva prüfen.
+**Größen (Karussell 1080 × 1350):** Headline 72–90 px · Fließtext 32–36 px · max. 25 Wörter/Slide · 80 px Rand.
+**Untertitel:** Inter SemiBold, weiß mit dezenter Dunkelblau-Box (60 %), max. 2 Zeilen, oberhalb der unteren UI-Zone, ein Schlüsselwort pro Satz in Hellblau.
+**Fragen-Overlay (Markenelement):** Die Frage des Fragestellers erscheint oben als hellblaue „Sprechblase“/Karte – **das wiederkehrende visuelle Signal für „hier wird gesprochen, nicht gepredigt“.**
 
-**Größen (1080 × 1350 Karussell):** Headline 72–96 px · Subline 40–48 px · Fließtext 32–36 px · max. 25 Wörter pro Slide.
-**Reel-Untertitel:** Inter SemiBold, weiß mit 70 % Marine-Hintergrundbox oder Schlagschatten, max. 2 Zeilen, unteres Drittel *über* der UI-Zone (nicht unterste 20 %). Schlüsselwort pro Satz in Hellblau.
-**Ränder:** 80 px Sicherheitsabstand; Reel-Cover: Text im mittleren 4:5-Bereich (Profilraster schneidet ab).
+### 7.4 Vorlagen (Aufbau beschrieben – Dateien noch nicht erstellt)
+1. **Reel-Cover:** Standbild Bilal im Gespräch, Frage-Karte in Hellblau mit Dunkelblau-Text (max. 6 Wörter), Serienname klein oben. Text im mittleren 4:5-Bereich.
+2. **Karussell:** Slide 1 Frage/Satz groß in Fraunces auf Off-White · Folgeslides je ein Gedanke · letzte Slide: Foto Bilal + „Schreib mir ‚GESPRÄCH‘“.
+3. **Story persönlich:** Vollbild, kleine Off-White-Textkarte unten.
+4. **Story Interaktion:** Hellblauer Hintergrund, Frage in Dunkelblau, Sticker mittig.
+5. **Stimme/Fall:** Off-White, großes Anführungszeichen in Hellblau, anonymisiert, nur mit schriftlicher Einwilligung (und Schweigepflicht beachten).
+6. **Angebot:** Dunkelblau, „Gemeinsam gehen – 1:1 mit Bilal“, drei Sätze, Stichwort.
+7. **Gedanke/Zitat:** Hellblau-Fläche, Satz in Fraunces Dunkelblau, kleine Wortmarke.
+8. **Highlights:** Hellblaue Kreise, dunkelblaue Linien-Icons.
 
-### 7.4 Vorlagen (Aufbau – fertige Dateien noch nicht erstellt)
-1. **Reel-Cover:** Bilal (Freisteller oder Standbild) rechts, Headline links in Archivo Weiß auf Marine, max. 5 Wörter; oben kleine Serienmarke in Hellblau („MÄNNERÜBERSETZER #3“).
-2. **Educational-Karussell:** Slide 1 Hook auf Marine · Slides 2–6 Off-White, eine Aussage pro Slide, Nummer in Hellblau-Kreis · vorletzte Slide Zusammenfassung · letzte Slide CTA mit Sand-Akzent + kleines Bilal-Porträt.
-3. **Story persönlich:** Vollbild-Foto/Video, kleine Marine-Textbox unten mit 1 Satz, handschriftlicher Akzent.
-4. **Story Interaktion:** Marine-Hintergrund, Frage in Archivo, Sticker zentriert, Hellblau-Rahmen.
-5. **Testimonial/Fall:** Off-White, großes Anführungszeichen in Hellblau, Zitat, anonymisierte Angabe („Klient, 34“), nur mit schriftlicher Einwilligung.
-6. **Angebot:** Marine, „Kostenloses Erstgespräch“ als Headline, 3 Punkte was passiert, Keyword groß in Sand.
-7. **Zitat/Meinung:** Hellblau-Fläche, Marine-Text, kleines Logo-Wortmarke „BILAL VOLKMANN“.
-8. **Highlights:** Einfarbige Marine-Kreise mit Off-White-Linien-Icons (einheitlicher Strich).
+**Wortmarke:** „Bilal Volkmann“ in Fraunces, darunter „Männercoaching · Therapeut“ (Bezeichnung nach Klärung der Ausbildung) in Inter.
 
-**Wortmarke statt Logo [E]:** „BILAL VOLKMANN“ in Archivo, gesperrt, darunter „Männercoaching“ in Inter. Reicht für den Start, kein Logo-Budget nötig.
-
-**Konsistenzregeln:** Jede Grafik nutzt (1) Marine oder Off-White als Grundfläche, (2) Archivo-Headline, (3) maximal ein Hellblau- und ein Sand-Element. Reels müssen nicht gleich aussehen – Cover und Untertitel schon.
+**Konsistenz:** Jede Grafik = Off-White *oder* Dunkelblau als Basis + Hellblau als Kennung + Fraunces-Headline. Reels sehen unterschiedlich aus (Orte, Licht), aber **Cover, Untertitel und Frage-Karte sind immer gleich.**
 
 ---
 
-## 8. Profiloptimierung (Phase 9)
-*Vorläufig – ohne aktuelle Bio gesehen zu haben.*
+## 8. Profiloptimierung (vorläufig, ohne die aktuelle Bio gesehen zu haben)
 
-**Anzeigename (durchsuchbar):** `Bilal Volkmann | Männercoaching` *(Feld „Name“ ist suchrelevant)*
+**Name-Feld (durchsuchbar):** `Bilal Volkmann | Männercoaching`
 
-**Bio-Varianten (max. 150 Zeichen):**
-- **A (klar):** „Coach für Männer, die nicht mehr nur funktionieren wollen. 🧭 Klarheit statt Fassade · Humor statt Härte 👇 Kostenloses Erstgespräch“
-- **B (direkt):** „Du musst nicht alles allein tragen. Männercoaching mit Klartext & Herz. Schreib mir ‚KLARHEIT‘ für dein kostenloses Erstgespräch ↓“
-- **C (Schwerpunkt Beziehung, falls Richtung B):** „Männercoaching für Beziehung, Trennung & Selbstwert. Ehrlich. Empathisch. Ohne Alpha-Gelaber. ↓ Kostenloses Erstgespräch“
-*Ergänzen: Ort/„online“ [OFFEN].*
+**Bio-Varianten (≤150 Zeichen):**
+- **A:** „Therapeut & Coach für Männer 💙 Alte Muster lösen – im Job, im Körper, in der Liebe. 1:1 · Schreib mir ‚GESPRÄCH‘ ↓“
+- **B:** „Für Männer, die gelernt haben, stark zu sein – und jetzt echt sein wollen. Therapeut · 1:1-Begleitung 💙 Erstgespräch ↓“
+- **C:** „Wenn Männer heilen, wird die Welt besser. 💙 Therapeut & Männercoach · Arbeit · Gesundheit · Beziehung · Kostenloses Erstgespräch ↓“
+*„Therapeut“ nur mit korrekter, zulässiger Bezeichnung. C nur, wenn die Heilaussage geklärt ist.*
 
-**Link:** Buchungstool-Link (Calendly/Cal.com) mit 3 Vorab-Fragen. Später ggf. Link-in-Bio-Seite.
+**Link:** Buchungsseite mit 2–3 Vorab-Fragen *oder* direkt „Schreib mir“ (DM). Impressum über Link erreichbar machen (Anbieterkennzeichnung – rechtlich prüfen lassen).
 
-**Highlights (Reihenfolge):** 1. **Über mich** · 2. **Erstgespräch** (Ablauf, Buchung) · 3. **Stimmen** (sobald vorhanden) · 4. **FAQ** (Coaching vs. Therapie, Kosten, online?) · 5. **Werkzeuge** (beste Übungen)
+**Highlights:** 1. **Über mich** (Ausbildung, Geschichte) · 2. **Mit mir arbeiten** (Ablauf, Erstgespräch, für wen) · 3. **Stimmen** · 4. **Fragen** (Coaching vs. Therapie, online?, Dauer) · 5. **Kira & ich** (falls gewünscht)
 
-**Angepinnte Beiträge:**
-1. **„Warum ich Männer coache“** – Story-Reel, Vorstellung + Haltung
-2. **„5 Zeichen, dass du nur noch funktionierst“** – Karussell, Mehrwert + Identifikation
-3. **„Was im kostenlosen Erstgespräch passiert“** – Reel, Vertrauen + Angebot
+**Angepinnt:**
+1. „Warum ich mit Männern arbeite“ (Gespräch) – Vorstellung + Mission
+2. „Was man uns als Jungs beigebracht hat“ (Karussell oder Gesprächsclip) – Identifikation + Expertise
+3. „Was passiert, wenn du mir schreibst“ – Arbeitsweise + Erstgespräch
 
 ---
 
-## 9. 30-Tage-Redaktionsplan (Phase 10)
+## 9. 30-Tage-Plan
 
-**Annahmen:** 1 Drehtag (ca. 3–4 h) vor Start, Bilal liest Skripte vorab, Freigabe innerhalb 48 h. Frequenz: **3 Reels + 1 Karussell pro Woche** = 16 Feed-Beiträge/Monat. Stories macht Bilal selbst (3–5 Tage/Woche) nach deinem Story-Leitfaden.
+**Annahmen:** 1 Drehtag (3–4 h) vor Start mit Fragesteller (du, Kira oder ein Freund), **keine Skripte** – Bilal bekommt 1 Tag vorher die **Themenkarten** (Frage + 2–3 Stichpunkte). Freigabe innerhalb 48 h. Frequenz: **3 Reels + 1 Karussell/Woche.**
 
-**Woche 0 (vor Start):** Sicherheits-Check, Kontostatus, Baseline-Screenshot Insights, Profil umstellen, Highlights, Buchungslink, Drehtag (12–14 Reels + B-Roll + Fotos für Cover/Profil).
+**Drehtag-Ablauf (Vorschlag):**
+1. 15 Min. lockeres Warmwerden (nicht aufgenommen bzw. nur Ton)
+2. Block A (60 Min., sitzend): 12–15 Fragen, du fragst, er antwortet. Gerne zweimal dieselbe Frage („Erzähl's mir nochmal, als wäre ich dein Kumpel“).
+3. Block B (30 Min., Walk & Talk draußen): 4–5 Fragen.
+4. Block C (30 Min., optional mit Kira): 3–4 Dialogthemen.
+5. 20 Min. B-Roll + Fotos (Profilbild, Cover-Standbilder, Highlights).
+→ Ergebnis: Material für ~4–6 Wochen.
 
-**Ziel W1:** Neue Marke sichtbar, Vertrauen. **W2:** Reichweite testen. **W3:** Expertise + Interaktion. **W4:** Erste Conversion-Impulse, Auswertung.
+**Woche 0:** Aufräum- und Sicherheitsplan, Baseline, Profil-Relaunch, Highlights, Drehtag.
 
-| Tag | Thema | Säule | Format | Ziel | Hook | Kernaussage | Aufbau | CTA | Visuell |
+| Tag | Thema | Säule | Format | Ziel | Frage / Einstieg | Kernaussage | Grober Aufbau (Schnitt) | CTA | Visuell |
 |---|---|---|---|---|---|---|---|---|---|
-| W1 Mo | Warum ich Männer coache | 4 | Reel 45–60s | Vertrauen, Pin | „Warum ich Männer coache – die ehrliche Version.“ | [aus Memo] | Hook → Wendepunkt → Mission | „Folg mir, wenn du …“ | Talking Head, warmes Licht |
-| W1 Mi | 5 Zeichen funktionieren | 1/2 | Karussell | Saves, Pin | „5 Zeichen, dass du nur noch funktionierst.“ | Erkennen ist Schritt 1 | 1 Hook + 5 Zeichen + Fazit + CTA | Speichern | Template 2 |
-| W1 Do | „Alles gut“ | 1 | Reel 20–30s | Reichweite | „‚Alles gut.‘ – die drei gefährlichsten Wörter eines Mannes.“ | Fassade kostet Kraft | Szene → Erklärung → bessere Antwort | „Schick's einem Mann, der …“ | Szene + Talking Head |
-| W1 Sa | Erstgespräch-Ablauf | 5 | Reel 30s | Vertrauen, Pin | „Was in meinem kostenlosen Erstgespräch passiert – und was nicht.“ | Kein Verkaufsdruck | 3 Schritte, 1 Versprechen | Keyword-DM | Talking Head + Text |
-| W2 Mo | Männerübersetzer #1 | 1 | Reel 20s | Reichweite | „Was Männer sagen – und was sie meinen.“ | Humor öffnet Tür | 3 Übersetzungen, letzte ernst | Markieren | Serien-Cover |
-| W2 Mi | Übergangsritual | 2 | Reel 30–40s | Saves | „Mach das, bevor du nach Feierabend durch die Tür gehst.“ | 60 Sek. für Präsenz | Problem → Übung zeigen → Effekt | Speichern | Demo, B-Roll Tür |
-| W2 Do | Mythos „allein schaffen“ | 3 | Karussell | Positionierung | „Ein Mann muss das allein schaffen. Mythos?“ | Hilfe = Stärke | Mythos → Fakten → Neudenken | Kommentar | Template 2 |
-| W2 Sa | Wut als Deckel | 2 | Reel 30s | Expertise | „Du bist nicht wütend. Du bist was anderes.“ | Wut ist sekundär | Situation → Erklärung → Frage | Speichern | Talking Head |
-| W3 Mo | Typen im Coaching | 1 | Reel-Sketch | Reichweite, Humor | „Typen, denen du im Männercoaching begegnest.“ | Jeder erkennt sich | 4 Typen, Bilal spielt alle | „Welcher bist du?“ | Kostümwechsel minimal |
-| W3 Mi | Für Partnerinnen | 1/4 | Reel | Shares | „Für alle, die einen Mann lieben, der nicht redet.“ | Druck schließt, Raum öffnet | 3 Tipps | Teilen | Talking Head |
-| W3 Do | Frag Bilal #1 | 2/5 | Reel | Community | „Die häufigste Frage im Erstgespräch.“ | Aus Story-Fragebox | Frage einblenden → Antwort | Fragebox nächste Woche | Fragebox-Screenshot |
-| W3 Sa | Coaching vs. Therapie | 5 | Karussell | Einwände | „Coaching ist keine Therapie light.“ | Unterschied + wann was | Vergleich, Hinweis auf Hilfe | Erstgespräch | Template 2 |
-| W4 Mo | Männerübersetzer #2 | 1 | Reel | Reichweite | Serien-Hook | – | wie #1 | Markieren | Serien-Cover |
-| W4 Mi | Eine Frage, 10 Sek. | 2 | Reel | Kommentare | „Eine Frage. Die meisten brauchen 10 Sekunden.“ | Selbstreflexion | Frage → Stille → Auflösung | Kommentar | Close-up |
-| W4 Do | Freundschaften | 1 | Reel | Shares | „Wann hast du deinem besten Freund was Echtes erzählt?“ | Echte Freundschaft braucht Mut | Frage → Beobachtung → Mini-Challenge | Freund markieren | Gehen/Outdoor |
-| W4 Sa | Fall aus der Praxis ODER Einwand „Schwäche“ | 5 | Reel | Anfragen | „Er kam wegen seiner Beziehung …“ / „Coaching ist für Schwache?“ | Ergebnis ist möglich | Story-Bogen | Keyword-DM | Talking Head |
+| W1 Mo | Warum Männer | 4 | Reel 45–60 s | Vertrauen, Pin | „Warum arbeitest du mit Männern?“ | Mission: Wenn Männer heilen … | stärkster Satz → Geschichte → Mission | Folgen | Sitzend, Frage-Karte |
+| W1 Mi | Sätze aus der Kindheit | 1 | Karussell | Saves, Pin | „7 Sätze, die fast jeder Mann als Junge gehört hat“ | Muster sind gelernt | Satz pro Slide + kurze Einordnung | „Welcher war's bei dir?“ | Fraunces, Off-White |
+| W1 Do | Umarmen | 1 | Reel 30 s | Reichweite | „Wann hast du zuletzt einen Mann richtig umarmt?“ | Nähe unter Männern fehlt | Frage → spontane Antwort → Gedanke | Freund markieren | Walk & Talk |
+| W1 Sa | Was passiert, wenn du schreibst | 5 | Reel 40 s | Vertrauen, Pin | „Was passiert, wenn dir ein Mann schreibt?“ | Kein Druck, ehrliches Gespräch | Ablauf erzählen | Stichwort-DM | Sitzend |
+| W2 Mo | „Jungs weinen nicht“ | 1 | Reel | Reichweite | „‚Jungs weinen nicht.‘ – Was macht dieser Satz mit Männern?“ | Gefühle verschwinden nicht | Satz als Text → Antwort | Kommentar | Serie „Was man uns beigebracht hat #1“ |
+| W2 Mi | Leistung & Selbstwert | 2 | Reel | Saves | „Warum fühlen sich Männer nur wertvoll, wenn sie leisten?“ | Wert ≠ Leistung | Beispiel → Erkenntnis → Frage an Zuschauer | Speichern | Sitzend |
+| W2 Do | Keine Kurse | 3 | Reel | Positionierung | „Warum verkaufst du keinen Onlinekurs?“ | Begleitung bis Ergebnis | ehrliche Antwort, ruhig | Kommentar | Sitzend, dunkle Cover-Variante |
+| W2 Sa | Dichtmachen im Streit | 2 | Karussell | Saves, Shares | „Was in einem Mann passiert, wenn er im Streit dichtmacht“ | Rückzug = Schutz | 5 Slides | „Schick's jemandem“ | Off-White |
+| W3 Mo | Arzt meiden | 1/2 | Reel | Reichweite | „Warum gehen Männer erst zum Arzt, wenn's zu spät ist?“ | Körper = Signal | mit Humor einsteigen → ernst werden | Teilen | Walk & Talk |
+| W3 Mi | Er sagt, sie sagt | 4/2 | Reel-Dialog | Shares | „Was wünscht ihr euch, dass das andere Geschlecht versteht?“ | zwei Perspektiven | Ping-Pong-Schnitt | Partnerin markieren | Bilal & Kira [falls ja] |
+| W3 Do | Frag Bilal #1 | 2/5 | Reel | Community | Frage aus Story-Fragebox | – | Frage-Screenshot → Antwort | Fragebox | Sitzend |
+| W3 Sa | Weich ist stark | 3 | Reel | Positionierung | „Was meinst du, wenn du sagst, Männer sollen weicher werden?“ | Weichheit = Mut | Missverständnis → Bedeutung | Folgen | Dunkle Variante |
+| W4 Mo | Kindheitssatz #2 | 1 | Reel | Reichweite | „‚Reiß dich zusammen.‘“ | – | wie #1 | Kommentar | Serie |
+| W4 Mi | Feierabend-Panzer | 2 | Reel | Saves | „Was nimmst du von der Arbeit mit nach Hause, ohne es zu merken?“ | kleiner Impuls zum Ankommen | Beispiel → Impuls | Speichern | Sitzend |
+| W4 Do | Für wen nicht | 5 | Karussell | Filtern | „Für wen mein Coaching nichts ist“ | Ehrlichkeit zieht Passende an | Liste „nicht für dich, wenn …“ / „für dich, wenn …“ | Stichwort-DM | Off-White |
+| W4 Sa | Aus dem Herzen | 3/4 | Reel 60 s, kaum geschnitten | Bindung | „Wenn Männer heilen, wird die Welt ein besserer Ort.“ | Mission | ruhig, eine Einstellung | Folgen | Draußen, natürliches Licht |
 
-**Stories (Bilal, mit deinen Vorlagen):** Mo Behind-the-Scenes · Di Umfrage zum Reel-Thema · Mi Fragebox · Do Alltagsgedanke · Fr Reel teilen + „Was denkst du?“ · Sa/So optional privat-dosiert. 1×/Woche Story „Erstgespräch – noch 2 Plätze diese Woche“ (nur wenn wahr).
+**Stories (Bilal, ohne Pflicht-Skript):** 3 Typen im Wechsel – (1) „Gedanke des Tages“ (15 s, spontan), (2) Frage-Sticker zum Reel-Thema, (3) kurzer Alltag/Praxis-Atmosphäre. 1×/Woche Reel teilen mit „Was denkst du?“.
 
-**Wiederverwertung:** Jedes Reel-Skript → Karussell oder Zitatgrafik · Beste Hooks → als Probe-Reel neu schneiden · Fragebox-Antworten → „Frag Bilal“.
+**Wiederverwertung:** Antworten → Karussell-Texte · starke Einzelsätze → Zitatgrafiken · Fragebox → „Frag Bilal“ · gute Reels nach 6–8 Wochen mit neuem Einstieg als Probe-Reel.
 
 ---
 
-## 10. Erfolgsmessung (Phase 11)
-**Keine Benchmarks ohne Baseline.** Woche 0: Insights-Screenshot der letzten 30/90 Tage = Ausgangswert.
+## 10. Erfolgsmessung
+**Baseline Woche 0** (Screenshots, letzte 30 + 90 Tage). Bekannter Startwert: **~20 % Nicht-Follower** (prüfen).
 
 | Ziel | KPIs |
 |---|---|
-| Reichweite | Erreichte Konten, **Anteil Nicht-Follower**, Aufrufe, Hook-Rate (Zuschauer nach 3 Sek.), durchschnittl. Wiedergabedauer |
-| Community | Neue Follower netto, qualifizierte Kommentare (> 3 Wörter), Story-Antworten, Shares |
-| Vertrauen | Saves, Profilaufrufe, Highlight-Aufrufe „Erstgespräch“ |
-| Business | Keyword-DMs, Link-Klicks, gebuchte Erstgespräche, **gewonnene Klienten** (Bilal trackt!) |
+| Neue Menschen erreichen | **Anteil Nicht-Follower an Reichweite** (Hauptkennzahl), Aufrufe, Anteil Zuschauer nach 3 s, Wiedergabedauer |
+| Community | Neue Follower netto, Kommentare > 3 Wörter, Story-Antworten, Shares |
+| Vertrauen | Saves, Profilaufrufe, Aufrufe Highlight „Mit mir arbeiten“ |
+| **Passende Anfragen** | Stichwort-DMs, Erstgespräche, **Anteil passender Erstgespräche** (Bilal bewertet: passt / passt nicht), daraus Klienten |
 
-**Wöchentlich (15 Min, intern):** Top/Flop-Reel nach Nicht-Follower-Reichweite und Wiedergabedauer, Anzahl DMs/Buchungen.
-**Monatlich (Kunden-Report, 1 Seite):** Entwicklung vs. Baseline, 3 Learnings, 3 Anpassungen, Anfragen → Klienten.
+Die letzte Zeile ist bei diesem Kunden die wichtigste, weil sie den Unterschied zu den 10.000 € „toten Leads“ messbar macht. Bilal/Kira tracken nach jedem Erstgespräch: Quelle + „passt?“.
 
-**Testen (immer nur eine Variable):** Hook-Formulierung · Länge (20 vs. 45 Sek.) · Szene vs. Talking Head · CTA-Art · Cover-Stil · Postingzeit.
-**Regeln:** Reel mit überdurchschnittlicher Nicht-Follower-Reichweite → innerhalb 2 Wochen Variante/Fortsetzung. Serie nach 3 Folgen unter Account-Durchschnitt → überarbeiten; nach 5 → einstellen.
-**Realistische Erwartung:** Erste belastbare Muster nach 4–6 Wochen, stabile Anfragen eher nach 2–3 Monaten konsequenter Umsetzung. Keine Garantie.
+**Reporting:** wöchentlich intern (Top/Flop nach Nicht-Follower-Anteil + Wiedergabedauer); monatlich 1 Seite für den Kunden (Entwicklung vs. Baseline, 3 Learnings, 3 Anpassungen) – bewusst kurz, nicht agenturhaft.
+**Testen (eine Variable):** Einstieg (Frage als Text vs. vorgezogener Satz) · Gespräch vs. Solo · sitzend vs. Walk & Talk · mit/ohne Kira · Länge.
+**Regeln:** Überdurchschnittlicher Nicht-Follower-Anteil → Variante/Fortsetzung in 2 Wochen. Serie 3× unter Durchschnitt → umbauen, 5× → einstellen.
+**Erwartung:** Erste Muster nach 4–6 Wochen; stabile passende Anfragen eher nach 2–3 Monaten. Keine Garantie – und das passt zu ihren eigenen Werten („keine falschen Versprechen“).
 
 ---
 
-## 11. Organisation (Phase 12)
+## 11. Organisation & Umfang
 
-### Deine Aufgaben
+### 11.1 Deine Aufgaben
 | Aufgabe | Status |
 |---|---|
-| Strategie, Themenplanung, Skripte, Hooks | zwingend |
-| Drehplan + Regie am Drehtag | zwingend |
-| Schnitt, Untertitel, Cover, Karussells | zwingend |
-| Vorlagen (Canva) für Stories | zwingend (damit Bilal Stories selbst kann) |
+| Strategie, Themen, **Themenkarten** (statt Skripte) | zwingend |
+| Drehtag: Fragen stellen, Regie (falls du selbst fragst) | zwingend (oder Kira/Freund briefen) |
+| Schnitt inkl. Hook-Bau, Untertitel, Cover, Karussells | zwingend |
 | Veröffentlichung, Captions, Planung (Meta Business Suite) | zwingend |
-| Monatsreport | zwingend |
-| Profil-Relaunch | zwingend (Start) |
+| Profil-Relaunch + Aufräum-Plan | zwingend (Start) |
+| Canva-Vorlagen (Stories, Karussells) | zwingend |
+| Monatsreport (1 Seite) | zwingend |
 | Probe-Reels/Tests | empfohlen |
-| ManyChat-Setup | optional |
+| Langformat (Podcast) schneiden | optional/Paket |
 | Community-Management | **nicht gebucht** |
 
-### Bilals Aufgaben
+### 11.2 Aufgaben von Bilal (und Kira)
 | Aufgabe | Status |
 |---|---|
-| Memo-Lücken füllen, Story/Werte teilen | zwingend (Start) |
-| 1 Drehtag/Monat (3–4 h) + Skripte vorab lesen | zwingend |
-| Freigabe innerhalb 48 h | zwingend |
-| Kommentare in den ersten 60 Min. + DMs beantworten | zwingend |
-| Stories 3–5×/Woche (5 Min/Tag) | stark empfohlen |
-| Erstgespräche führen + Quelle tracken („Wie bist du auf mich gekommen?“) | zwingend |
-| Einwilligungen von Klienten für Fälle/Testimonials | abhängig |
+| Material für den Start (Ausbildung, Ablauf, Fotos, Zugang, Screenshots) | zwingend |
+| 1 Drehtag/Monat (3–4 h), Themenkarten kurz anschauen | zwingend |
+| Freigaben in 48 h | zwingend |
+| Kommentare + DMs selbst beantworten | zwingend |
+| Erstgespräche: Quelle + „passt?“ notieren | zwingend |
+| Stories 3–5×/Woche | empfohlen |
+| Kira in Dialogformaten | optional |
+| Einwilligungen bei Klienten-Geschichten | abhängig |
 
-### Sicherheit & Recht (wichtig wegen Vorgeschichte)
-- **Zugriff nur über Meta Business Suite / Accounts Center als Partner – keine Passwortweitergabe.** Bilal behält volle Kontrolle und kann Zugriff jederzeit entziehen. Das aktiv als Vertrauensargument kommunizieren.
-- 2FA aktiv, Wiederherstellungscodes bei Bilal.
-- Keine Wachstumstools, keine gekauften Follower, keine Engagement-Gruppen – schriftlich im Angebot festhalten.
-- Musik: in Business-Accounts nur lizenzfreie Audios aus der Meta-Bibliothek nutzen.
-- Testimonials/Fälle: schriftliche Einwilligung, Anonymisierung, keine Gesundheitsdaten.
-- Coaching-Disclaimer (keine Therapie, keine Heilversprechen).
-- Impressum: Auch ohne Website braucht ein geschäftlicher Instagram-Account eine Anbieterkennzeichnung (z. B. über den Link). [E – rechtlich von Bilal prüfen lassen]
+### 11.3 Umfangsempfehlung / Paketstruktur (ohne Preise – die setzt du)
+| | **Basis** | **Empfohlen** | **Plus** |
+|---|---|---|---|
+| Strategie, Themenkarten, Monatsplan | ✓ | ✓ | ✓ |
+| Drehtag/Monat (mit dir als Fragestellerin vor Ort/remote) | – (Kunde dreht selbst nach Themenkarten) | ✓ | ✓ |
+| Reels pro Woche | 2 | 3 | 3–4 |
+| Karussells pro Woche | – | 1 | 1–2 |
+| Story-Vorlagen | ✓ | ✓ | ✓ |
+| Profil-Relaunch + Designsystem (einmalig) | ✓ | ✓ | ✓ |
+| Monatsreport | kurz | ✓ | ✓ + Strategie-Call |
+| Langformat/Podcast-Schnitt | – | – | ✓ |
+| Kommentar-Antwortvorschläge | – | – | optional |
+**Empfehlung: „Empfohlen“** – weil der Drehtag mit Fragesteller der Schlüssel für seine Wirkung vor der Kamera ist. In „Basis“ fehlt genau das, was ihn bisher blockiert hat.
+Einmaliges Onboarding (Audit, Aufräumen, Relaunch, Design) als separate Position ausweisen.
 
-**Freigabeprozess:** Monatsplan (Themen + Hooks) → Freigabe → Skripte → Drehtag → Schnitt → Freigabe-Ordner (z. B. Google Drive/Notion) mit Kommentarfunktion → Planung. Max. 1 Korrekturschleife.
+### 11.4 Sicherheit & Recht
+- Zugriff nur als **Partner über Meta Business Suite/Accounts Center**, kein Passwort-Teilen. Bilal kann jederzeit entziehen. Alte Agentur-Zugänge entfernen.
+- 2FA aktiv, Codes bei Bilal.
+- Keine Ads ohne gesonderten Auftrag, keine Follower-Tools, keine Engagement-Gruppen – schriftlich festhalten.
+- Musik: nur lizenzfreie Audios aus der Meta-Bibliothek (Business-Account).
+- **Schweigepflicht:** Klientengeschichten nur stark anonymisiert und mit schriftlicher Einwilligung; im Zweifel weglassen.
+- Heilaussagen/Berufsbezeichnung prüfen (3.5). Impressum.
+- Fotos aus früheren Shootings: Nutzungsrechte beim Fotografen klären.
+
+**Freigabeprozess (bewusst schlank):** Monatliche Themenliste → kurzes OK → Drehtag → fertige Videos im geteilten Ordner → Freigabe per Daumen/Kommentar → Planung. Eine Korrekturschleife.
 
 ---
 
-## 12. SWOT & Prioritäten (Phase 13)
+## 12. SWOT & Prioritäten
 
 | **Stärken** | **Schwächen** |
 |---|---|
-| Bereitschaft, vor die Kamera zu gehen [F] | Kein Plan, kein Design, kein Material [F] |
-| Niedrigschwelliges Angebot (gratis Erstgespräch) [F] | Kaum Reichweite zu Nicht-Followern [F] |
-| Wunschpositionierung (Humor + Empathie) differenziert [S] | Keine Website, keine Testimonials (vermutl.) [A] |
-| Klare Ziele [F] | Mögliche Altlasten des Vor-Dienstleisters [A] |
+| Ausgebildeter Therapeut [F] | Wirkt vor der Kamera allein statisch/belehrend [F] |
+| Klare, ehrliche Mission & Werte [F] | Account durch viele Hände „verwässert“, ~20 % Nicht-Follower [F] |
+| Spontan, offen, befolgt Anweisungen [F] | Keine CI, kein Material [F] |
+| Klare Farbidentität (Blau) über Kleidung [F] | Keine Website [F] |
+| Kira als mögliche zweite Perspektive [F/OFFEN] | Agentur-Müdigkeit → geringe Toleranz für „Formeln“ [F] |
 | **Chancen** | **Risiken** |
-| Mitte zwischen „Alpha“ und „Spirituell“ ist wenig besetzt [S] | Vertrauensbruch bei erstem Fehler → enges Freigabesystem nötig |
-| Share-Potenzial über Partnerinnen [A] | Account dauerhaft in Empfehlungen eingeschränkt [A – prüfen] |
-| Serien → Wiedererkennung | Community-Ziel ohne gebuchtes Community-Management |
-| Probe-Reels für risikoarmes Testen | Zu breite Positionierung → austauschbar |
-| | Grenzüberschreitung zu Therapie (rechtlich/ethisch) |
+| Weichheit als Stärke ist eine wenig besetzte Position zwischen Alpha und Esoterik [S] | Begriffe wie „toxisch“ schrecken die Zielgruppe ab [S] |
+| Gesprächsformat löst sein Kameraproblem und differenziert [S] | Heil-/Therapieaussagen rechtlich heikel [S] |
+| Partnerinnen als Teilende → Reichweite [A] | Altlasten (Bots, Ads-Follower, Empfehlungssperre) [A] |
+| Probe-Reels für risikoarmes Testen | Kunde verliert Vertrauen, wenn es nach Agentur Nr. 4 riecht |
+| Langes Gespräch → viele Clips (effizient) | Community-Ziel ohne gebuchtes Community-Management |
 
 ### Priorisierte Maßnahmen
-| # | Maßnahme | Nutzen | Aufwand | Prio | Abhängigkeit | Messbar über |
+| # | Maßnahme | Nutzen | Aufwand | Prio | Abhängigkeit | Messbar |
 |---|---|---|---|---|---|---|
 | **Quick Wins (7 Tage)** |
-| 1 | Sicherheits- & Kontostatus-Check | sehr hoch | gering | 1 | Zugang | Status „geeignet“ |
-| 2 | Memo + Screenshots einholen, Positionierung entscheiden | sehr hoch | gering | 1 | Bilal | Entscheidung dokumentiert |
-| 3 | Profil-Relaunch (Name, Bio, Bild, Link, Highlights) | hoch | gering | 1 | 2 | Profilaufruf→Follow-Rate |
-| 4 | Buchungslink mit Vorab-Fragen | hoch | gering | 1 | – | Link-Klicks, Buchungen |
-| 5 | Alte Off-Brand-Beiträge archivieren | mittel | gering | 2 | Audit | – |
+| 1 | Sicherheits-/Aufräum-Check, Kontostatus | sehr hoch | gering | 1 | Zugang | Status, entfernte Zugänge |
+| 2 | Ausbildung/Bezeichnung + Kira-Rolle klären | sehr hoch | gering | 1 | Kunde | Entscheidung |
+| 3 | Profil-Relaunch (Name, Bio mit Ausbildung, Link, Highlights) | hoch | gering | 1 | 2 | Profilaufruf→Follow |
+| 4 | Baseline festhalten | hoch | gering | 1 | Zugang | Screenshot |
+| 5 | Unpassende Altbeiträge archivieren | mittel | gering | 2 | Audit | – |
 | **30 Tage** |
-| 6 | Drehtag + 3 gepinnte Beiträge | sehr hoch | mittel | 1 | 2 | Profil-Conversion |
-| 7 | 3 Reels + 1 Karussell/Woche nach Plan | sehr hoch | hoch | 1 | 6 | Nicht-Follower-Reichweite |
-| 8 | Story-Routine + Vorlagen | hoch | gering | 2 | Bilal | Story-Antworten |
-| 9 | Designsystem in Canva | mittel | mittel | 2 | Palette-OK | Konsistenz |
+| 6 | Drehtag im Gesprächsformat | **sehr hoch** | mittel | 1 | Themenkarten | Wiedergabedauer vs. alte Reels |
+| 7 | 3 Reels + 1 Karussell/Woche | sehr hoch | hoch | 1 | 6 | Nicht-Follower-Anteil |
+| 8 | Anfrageweg mit Vorqualifizierung | hoch | gering | 1 | 3 | Anteil passender Erstgespräche |
+| 9 | Designsystem in Canva | mittel | mittel | 2 | Farb-OK | Konsistenz |
 | **90 Tage** |
-| 10 | Serien ausbauen nach Daten | hoch | mittel | 1 | 7 | Serien-Performance |
-| 11 | Testimonials/Fälle sammeln | hoch | mittel | 2 | Einwilligung | Conversion |
-| 12 | Keyword-Automatisierung | mittel | mittel | 3 | DM-Volumen | DMs→Buchung |
-| 13 | Lives / Q&A | mittel | gering | 3 | Community | Teilnehmer |
-| 14 | Einfache Website/Landingpage | mittel | mittel | 3 | Angebot klar | – |
+| 10 | Serien nach Daten ausbauen | hoch | mittel | 1 | 7 | Serienwerte |
+| 11 | Langformat-Gespräch (Podcast) als Content-Quelle | hoch | mittel | 2 | Kundenwunsch | Clips/Aufnahme |
+| 12 | Dialogformat mit Kira | mittel–hoch | gering | 2 | Kira | Shares |
+| 13 | Stimmen/Ergebnisse sammeln | hoch | mittel | 2 | Einwilligung | Conversion |
+| 14 | Einfache Website/Landingpage | mittel | mittel | 3 | – | – |
 
-**Die drei Hebel mit größter Wirkung:** (1) klare Positionierung + Profil-Relaunch, (2) konsequente Reels mit starken Hooks für Nicht-Follower, (3) ein sichtbarer, einfacher Weg zum Erstgespräch.
+**Die drei größten Hebel:** (1) **Gesprächsformat statt Skript** – löst sein Kameraproblem und ist zugleich das Alleinstellungsmerkmal. (2) **Ausbildung + Mission sichtbar machen** – Glaubwürdigkeit für „die Richtigen“. (3) **Account aufräumen + konsequent Nicht-Follower-Einstiege testen** – direkt gegen die 20 %.
 
 ---
 
 ## 13. Hinweise für dein Kundengespräch
-- **Starte mit Sicherheit, nicht mit Reichweite.** Bei einem „verbrannten“ Kunden ist der Satz „Du behältst jederzeit die volle Kontrolle“ mehr wert als jede Wachstumsprognose.
-- **Erwartungsmanagement Community:** Sag klar, dass Antworten/DMs bei ihm liegen – und warum das bei Coaching ein Vorteil ist.
-- **Kein Zahlenversprechen.** Biete stattdessen „Nach 30 Tagen zeigen wir dir, was wirkt – mit Zahlen“.
-- **Upsell-Option:** Community-Management light (z. B. Kommentar-Antwortvorschläge) oder Landingpage, falls er nach 2–3 Monaten Engpässe merkt.
+- **Öffne mit dem, was er gesagt hat:** „Du hast gesagt, Skripte machen dich statisch. Deshalb gibt es bei mir keine.“ Das ist dein stärkster Satz – er zeigt, dass du zugehört hast, und unterscheidet dich sofort von den Vor-Agenturen.
+- **Struktur unsichtbar machen:** Zeig ihm die Themenkarten und den Drehtag, nicht die Hook-Formeln. Das interne Dokument ist für dich.
+- **„Muss vs. Nice-to-have“** (sein expliziter Wunsch) – im Kundenvorschlag als eigene Liste.
+- **Kein Zahlenversprechen.** Die Erfahrung mit 10.000 € ohne Ergebnis macht ihn misstrauisch gegenüber Prognosen. Biete stattdessen eine messbare Baseline und Ehrlichkeit nach 30 Tagen.
+- **Kira früh einbeziehen** – sie war im Gespräch dabei und ist Teil der Entscheidung.
+- **Testdreh anbieten:** Ein kurzer Probedreh (30 Min., 2–3 Fragen) vor Vertragsstart zeigt ihm sofort, wie er im Gesprächsformat wirkt – das stärkste Verkaufsargument, das du hast.

@@ -1,148 +1,179 @@
-# Social-Media-Konzept für Bilal Volkmann – Männercoaching
-**Instagram · Personal Branding · Kundenanfragen · Community**
-*Konzeptvorschlag – Entwurf zur gemeinsamen Abstimmung*
+# Instagram-Konzept für Bilal Volkmann
+**Männercoaching mit therapeutischer Tiefe – echt, warm, im Gespräch**
+*Konzeptvorschlag · Entwurf zur gemeinsamen Abstimmung*
 
-> **Hinweis für dich (vor dem Versand entfernen):** Stellen mit [ ] werden nach Eingang der Gesprächs-Memo und dem Account-Audit ergänzt. Fachlicher Schwerpunkt und persönliche Geschichte sind noch offen.
+> **Hinweis für dich (vor dem Versand entfernen):** [ ]-Stellen nach Account-Audit und Klärung ergänzen: genaue Ausbildungsbezeichnung, Rolle von Kira, Markenzeichen-Kleidungsstück, erste Account-Erkenntnisse.
 
 ---
 
-## 1. Ausgangssituation
-Du hilfst Männern weiter – und du bist bereit, dafür vor die Kamera zu gehen. Das ist die wichtigste Voraussetzung für eine starke Personal Brand, und sie ist bei dir da.
+## 1. Wo du gerade stehst
+Du hast eine klare Mission: **Wenn Männer heilen, wird die Welt ein besserer Ort.** Du bist ausgebildeter Therapeut, arbeitest bewusst 1:1 und begleitest Männer, bis sich wirklich etwas verändert. Du willst keine Kurse verkaufen und keine falschen Versprechen machen. Das ist selten – und genau das macht dich glaubwürdig.
 
-Was bisher gefehlt hat, ist kein Talent, sondern ein **System**: ein klarer Plan, ein wiedererkennbares Design und jemand, der Schnitt und Veröffentlichung zuverlässig übernimmt. Dazu kommt eine schlechte Erfahrung mit einem früheren Dienstleister. Deshalb steht in diesem Konzept **Sicherheit und Transparenz an erster Stelle** – erst danach Reichweite.
+Gleichzeitig hast du schon einiges erlebt: mehrere Agenturen, die dich in Formeln und Skripte gepresst haben, rund 10.000 € für Werbung, die keine passenden Anfragen gebracht hat, und einen Account, an dem viele Hände gearbeitet haben. Heute erreichen deine Inhalte nur noch zu etwa 20 % Menschen, die dir noch nicht folgen.
 
-## 2. Ziele
-1. **Personal Branding:** Männer sollen sofort verstehen, wer du bist, wofür du stehst und warum sie dir vertrauen können.
-2. **Neue Menschen erreichen:** Inhalte, die gezielt auch Nicht-Follower ansprechen.
-3. **Kundenanfragen:** Ein einfacher, klarer Weg vom Video zum kostenlosen Erstgespräch.
-4. **Community:** Männer, die bleiben, mitreden und dich weiterempfehlen.
+[ ] *Erste Erkenntnisse aus dem Account-Check ergänzen.*
 
-## 3. Deine Stärken und Potenziale
-- **Du willst nahbar, kompetent und humorvoll wirken.** In der Männercoaching-Nische dominieren oft entweder harte „Alpha“-Botschaften oder sehr weiche, spirituelle Ansätze. Klartext mit Herz und Humor ist eine echte Lücke – und genau dein Profil.
-- **Dein kostenloses Erstgespräch** senkt die Hemmschwelle enorm. Wir machen es auf Instagram sichtbar und verständlich.
-- **Du hast Zeit für Drehs.** Damit können wir echten, persönlichen Content statt austauschbarer Grafiken produzieren.
-- [ ] *Deine Geschichte und Erfahrung – wird nach unserem Gespräch ergänzt.*
+**Die gute Nachricht:** Was dir fehlt, ist kein Talent. Es ist ein Format, das zu dir passt.
 
-## 4. Empfohlene Positionierung
-> **Bilal hilft Männern, die nach außen funktionieren, aber innerlich auf Reserve laufen, wieder klar, ruhig und echt zu werden – mit Klartext, Empathie und einer Portion Humor.**
+## 2. Was wir gemeinsam erreichen wollen
+1. **Wieder Männer außerhalb deiner Community erreichen** – messbar am Anteil der Nicht-Follower.
+2. **Deine Persönlichkeit zeigen**, so wie du wirklich bist: offen, spontan, warm.
+3. **Weniger, aber die richtigen Anfragen** – Männer mit echter Bereitschaft, an sich zu arbeiten.
+4. **Eine Community, die dich versteht** und deine Inhalte weitergibt.
 
-**Markenversprechen (Entwurf):** *„Bei mir musst du nicht stark tun. Du wirst es.“*
+## 3. Was dich besonders macht
+- **Du bist ausgebildeter Therapeut.** [ ] *genaue Bezeichnung* In einer Nische voller Coaches ohne fundierte Ausbildung ist das ein echtes Fundament.
+- **Du stehst für Weichheit als Stärke.** Zwischen „Alpha“-Härte und abgehobener Spiritualität ist kaum jemand so klar in der Mitte wie du.
+- **Du arbeitest mit Integrität:** 1:1, ohne Kurs-Funnel, bis Ergebnisse da sind.
+- **Du bist spontan und offen** – im Gespräch kommt deine Wirkung am stärksten rüber.
+- **Blau ist deine Farbe.** Du trägst sie ohnehin. Daraus machen wir deinen Wiedererkennungswert.
+- **Kira** [ ] *– falls gewünscht: eine zweite Perspektive, die Männer- und Frauensicht zusammenbringt.*
 
-**Deine Werte im Content:** Ehrlichkeit · Augenhöhe · Verantwortung · Leichtigkeit · Tiefe
+## 4. Deine Positionierung
+> **Therapeut und Coach für Männer, die gelernt haben, stark zu sein – und jetzt lernen wollen, echt zu sein: im Job, im Körper, in der Liebe.**
 
-**Botschaften, die hängen bleiben sollen:**
-- Stark sein heißt nicht, alles allein zu tragen.
-- Gefühle sind Informationen, keine Schwäche.
-- Verantwortung statt Schuld.
+**Was hängen bleiben soll:**
+- Die Sätze, die man dir als Junge beigebracht hat, laufen heute noch in dir.
+- Weich sein ist keine Schwäche. Es ist Mut.
+- Du bist nicht falsch. Du hast Muster gelernt – und Muster kann man verlernen.
+- Echte Veränderung braucht Zeit. Und jemanden, der bleibt.
 
-**Wofür du bewusst *nicht* stehst:** Alpha-Gehabe, Frauen-Bashing, leere Motivationssprüche, Heilversprechen.
+**Wofür du bewusst nicht stehst:** Kurse und Schnelllösungen, Alpha-Rhetorik, Druck, Versprechen, die man nicht halten kann.
 
-[ ] *Schwerpunkt-Thema (z. B. Beziehung & Trennung oder Klarheit & Richtung) legen wir gemeinsam fest.*
+**Ein Gedanke zur Sprache:** Dein Herzensthema – Männer von alten, schädlichen Männlichkeitsbildern zu befreien – steht im Mittelpunkt. Wir sprechen es aber so an, dass Männer sich *gesehen* und nicht *beschuldigt* fühlen: mit konkreten Sätzen aus ihrer Kindheit („Jungs weinen nicht“) statt mit Etiketten. So erreichst du genau die Männer, die es brauchen.
 
 ## 5. Wen wir erreichen wollen
-| Wer | Was er denkt | Was wir ihm geben |
+| Wer | Was in ihm vorgeht | Was er von dir bekommt |
 |---|---|---|
-| **Der Mann, der „eigentlich klarkommt“** | „Ist halt stressig gerade.“ | Videos, in denen er sich wiedererkennt – oft mit einem Schmunzeln |
-| **Der Mann, der spürt, dass sich was ändern muss** | „Was kann ich selbst tun?“ | Konkrete Werkzeuge und Übungen zum Speichern |
-| **Der Mann, der bereit für Unterstützung ist** | „Ist Coaching was für mich? Was passiert da?“ | Transparenz zum Erstgespräch, Antworten auf Zweifel |
-| **Partnerinnen, Freunde, Familie** | „Wie erreiche ich ihn?“ | Inhalte, die man gern weiterschickt |
+| **Der Mann, bei dem „doch alles läuft“** | Funktioniert, fühlt aber wenig | Sätze und Fragen, in denen er sich wiedererkennt |
+| **Der Mann, der spürt, dass da was ist** | Merkt Muster im Job, im Körper, in der Beziehung | Gespräche, die erklären, ohne zu belehren |
+| **Der Mann, der bereit ist** | Will etwas verändern, ist aber skeptisch | Ehrlicher Einblick, wie du arbeitest – und für wen nicht |
+| **Partnerinnen & Freunde** | Wollen ihn erreichen | Inhalte, die man gern weiterschickt |
 
-*Diese Zielgruppen sind unsere Startannahme. Nach den ersten Wochen schärfen wir sie anhand echter Daten und Rückmeldungen.*
+*Startannahme – wir schärfen das mit echten Daten und deinen Erstgesprächen.*
 
-## 6. Content-Strategie: fünf Säulen
-1. **„Erkennst du dich?“** – typische Männermuster, mit Humor erzählt → *damit dich neue Menschen entdecken*
-2. **„Werkzeugkasten“** – kurze, konkrete Übungen und Erklärungen → *damit man dich als Experten erlebt*
-3. **„Klartext“** – Mythen und deine Haltung → *damit klar ist, wofür du stehst*
-4. **„Der Mann hinter dem Coach“** – du, persönlich und dosiert → *damit Vertrauen entsteht*
-5. **„Der erste Schritt“** – wie Coaching und das Erstgespräch ablaufen → *damit aus Interesse Anfragen werden*
+## 6. Der Kern: Gespräch statt Vortrag
+Du hast gesagt: Skripte machen dich statisch, und alles soll wie ein Gespräch unter Freunden wirken. **Genau daraus bauen wir das ganze Konzept.**
 
-**Start-Mix:** etwa ein Drittel Reichweite, ein Viertel Expertise, der Rest Haltung, Persönliches und Angebot. Wir passen das monatlich anhand der Zahlen an.
+**So funktioniert es:**
+- **Du bekommst keine Skripte**, sondern Themenkarten: eine Frage und zwei, drei Stichpunkte.
+- **Hinter der Kamera sitzt immer jemand, der dich fragt** – ich, Kira oder ein Freund. Du antwortest einem Menschen, nicht einer Linse.
+- **Die Struktur entsteht im Schnitt.** Ich suche den stärksten Satz, setze ihn an den Anfang, kürze und baue das Video so, dass es auch Fremde in den ersten Sekunden abholt.
+- **Du darfst frei reden, abschweifen, lachen, neu anfangen.** Alles andere ist mein Job.
 
-## 7. Visuelles Konzept
-**Wirkung:** ruhig, klar, warm und hochwertig – wie ein gutes Gespräch, nicht wie Werbung.
+**Nur drei Hinweise für dich beim Dreh:** Antworte der Person, nicht der Kamera. Erzähl erst ein Beispiel, dann den Gedanken. Und wenn dir ein Satz gefällt, sag ihn ruhig nochmal.
 
-**Farben – aufbauend auf deinem Wunsch nach Hell- und Dunkelblau:**
-| | Farbe | Wofür |
-|---|---|---|
-| ■ `#0F2A44` | Marineblau | Grundfarbe – Ruhe, Tiefe, Seriosität |
-| ■ `#8EC3E6` | Hellblau | Hervorhebungen, Serien – Offenheit, Leichtigkeit |
-| ■ `#E8A255` | Warmes Sand-Orange | Nur für Handlungsaufforderungen – bringt Wärme und Aufmerksamkeit |
-| ■ `#F4F1EC` | Warmes Off-White | Hintergrund für Lesbares |
-
-*Warum ein warmer Akzent? Nur Blau wirkt schnell kühl und distanziert. Ein kleiner warmer Ton macht die Marke nahbarer – ganz im Sinne deiner gewünschten Wirkung.*
-
-**Schriften:** *Archivo* (kräftige Überschriften) + *Inter* (gut lesbar am Smartphone).
-**Bild & Video:** natürliches Licht, ruhige Hintergründe, 2–3 feste Drehorte, immer mit Untertiteln.
-**Wortmarke:** „BILAL VOLKMANN – Männercoaching“ als schlichtes Schriftzeichen. Ein Logo brauchst du für den Start nicht.
-
-Wir erstellen ein flexibles Vorlagen-System (Reel-Cover, Karussells, Story-Vorlagen, Highlights), damit dein Account wiedererkennbar ist, ohne dass jeder Beitrag gleich aussieht.
+## 7. Inhalte: fünf Themenwelten
+1. **„Was man uns beigebracht hat“** – Sätze und Muster aus der Kindheit → *damit neue Männer sich wiedererkennen*
+2. **„Arbeit · Körper · Liebe“** – wie diese Muster heute im Alltag wirken → *damit man dich als Experten erlebt*
+3. **„Weich ist stark“** – deine Haltung und Mission → *damit klar ist, wofür du stehst*
+4. **„Bilal privat“** (& Kira) – der Mensch hinter dem Therapeuten → *damit Vertrauen entsteht*
+5. **„Gemeinsam gehen“** – wie du arbeitest, für wen es passt → *damit die richtigen Männer anfragen*
 
 ## 8. Wiederkehrende Formate
-- **„Männerübersetzer“** – Was Männer sagen und was sie wirklich meinen.
-- **„60 Sekunden Werkzeug“** – eine Übung pro Folge.
-- **„Mythos oder Mann?“** – verbreitete Glaubenssätze im Check.
+- **„Was man uns beigebracht hat“** – ein Kindheitssatz pro Folge, du ordnest ihn ein.
+- **„Unter Männern“** – Fragen, die Männer sich selten stellen. Du antwortest ehrlich.
+- **„Er sagt, sie sagt“** – du und Kira zu einem Beziehungsthema. [ ] *falls gewünscht*
 - **„Frag Bilal“** – du beantwortest Fragen aus deiner Community.
-- **„Aus der Praxis“** – anonymisierte Erfahrungen, nur mit Einverständnis.
+- **„Aus dem Herzen“** – einmal im Monat ein ruhiger, kaum geschnittener Gedanke.
 
-**Formate:** 3 Reels + 1 Karussell pro Woche, dazu kurze Stories von dir (5 Minuten am Tag, mit unseren Vorlagen).
+**Rhythmus:** 3 Reels + 1 Karussell pro Woche. Dazu Stories von dir – ohne Plan, drei einfache Varianten zur Auswahl (Gedanke des Tages, Frage an die Community, kurzer Alltagseinblick).
 
-## 9. Profil-Optimierung
-**Name:** Bilal Volkmann | Männercoaching *(so wirst du in der Suche gefunden)*
+**Beispiele für Fragen, die wir dir stellen:**
+- „Wann hast du zuletzt einen Mann richtig umarmt?“
+- „‚Jungs weinen nicht.‘ – Was macht dieser Satz mit Männern?“
+- „Warum fühlen sich so viele Männer nur wertvoll, wenn sie leisten?“
+- „Warum gehen Männer erst zum Arzt, wenn es zu spät ist?“
+- „Was passiert in einem Mann, wenn er im Streit dichtmacht?“
+- „Warum verkaufst du keinen Onlinekurs?“
+- „Für wen ist dein Coaching nichts?“
+- „Warum glaubst du, die Welt wird besser, wenn Männer heilen?“
+
+## 9. Dein visueller Auftritt
+**Wirkung:** hell, offen, warm, ruhig – wie ein gutes Gespräch in einem hellen Raum.
+
+**Farben – aus dem, was du ohnehin trägst:**
+| | Farbe | Rolle |
+|---|---|---|
+| ■ `#9CCBEA` | Hellblau | Deine Markenfarbe – Offenheit, Ruhe, Weichheit |
+| ■ `#FAF8F5` | Warmes Weiß | Basis – luftig, klar |
+| ■ `#16324F` | Dunkelblau | Tiefe und Halt – für Text und ernste Themen |
+| ■ `#E2B07A` | Warmes Sand *(optional)* | Ein Hauch Wärme, nur für Hinweise |
+
+**Schrift:** eine weiche, hochwertige Serifenschrift für Überschriften (*Fraunces*) und eine klare Schrift für Untertitel (*Inter*).
+**Dein Erkennungszeichen:** Die Frage, die dir gestellt wird, erscheint in jedem Video als kleine hellblaue Karte – sofort sichtbar: *Hier wird gesprochen, nicht gepredigt.* Dazu dein hellblaues Markenzeichen [ ] in möglichst vielen Videos.
+**Video:** natürliches Licht, helle Orte oder draußen, Blick zur fragenden Person, immer mit Untertiteln.
+
+## 10. Dein Profil
+**Name:** Bilal Volkmann | Männercoaching
 
 **Bio-Vorschlag:**
-> Coach für Männer, die nicht mehr nur funktionieren wollen. 🧭
-> Klarheit statt Fassade · Humor statt Härte
-> 👇 Kostenloses Erstgespräch
+> Therapeut & Coach für Männer 💙
+> Alte Muster lösen – im Job, im Körper, in der Liebe.
+> 1:1 · Schreib mir „GESPRÄCH“ ↓
 
-**Link:** Direkter Buchungslink für dein Erstgespräch, mit drei kurzen Vorab-Fragen.
-**Highlights:** Über mich · Erstgespräch · Stimmen · FAQ · Werkzeuge
-**Drei angepinnte Beiträge:** Warum ich Männer coache · 5 Zeichen, dass du nur noch funktionierst · Was im Erstgespräch passiert
+**Highlights:** Über mich · Mit mir arbeiten · Stimmen · Fragen · [ ] Kira & ich
+**Drei angepinnte Beiträge:** Warum ich mit Männern arbeite · Was man uns als Jungs beigebracht hat · Was passiert, wenn du mir schreibst
 
-## 10. Beispielhafte Content-Ideen
-- *„‚Alles gut.‘ – die drei gefährlichsten Wörter eines Mannes.“*
-- *„Mach das, bevor du nach Feierabend durch die Haustür gehst.“*
-- *„Du bist nicht wütend. Du bist was anderes – und das ist unangenehmer.“*
-- *„Typen, denen du im Männercoaching begegnest.“*
-- *„Für alle, die einen Mann lieben, der nicht redet.“*
-- *„Coaching ist keine Therapie light.“*
-- *„Wann hast du deinem besten Freund das letzte Mal was Echtes erzählt?“*
-- *„Was in meinem kostenlosen Erstgespräch passiert – und was nicht.“*
+**Der Weg zu dir – für die Richtigen:** Statt eines Buchungsknopfs, über den jeder bucht, schreibt dir ein Mann zuerst eine kurze Nachricht. Du stellst zwei, drei persönliche Fragen – und merkst sofort, ob die Energie stimmt. So kommen weniger, aber passende Gespräche zustande.
 
-## 11. Die ersten 30 Tage
-**Vor dem Start**
-- Sicherheits-Check deines Accounts, Ausgangswerte festhalten
-- Profil-Relaunch: Name, Bio, Link, Highlights
-- **Ein Drehtag (3–4 Stunden):** Wir drehen 12–14 Videos auf einmal – mit fertigen Skripten von mir. Du musst nichts vorbereiten außer dich.
+## 11. Was wir machen sollten – und was nice to have ist
+**Muss (für einen spürbaren Unterschied):**
+1. Account aufräumen und absichern (alte Zugänge entfernen, Kontostatus prüfen, Unpassendes archivieren)
+2. Profil neu aufsetzen: Bio, Ausbildung sichtbar, Highlights, angepinnte Beiträge
+3. Ein Drehtag pro Monat im Gesprächsformat
+4. 3 Reels pro Woche – konsequent, mit Einstiegen, die auch Fremde abholen
+5. Klarer, persönlicher Weg zum Erstgespräch
+
+**Nice to have:**
+- Karussells (1/Woche) für Tiefe und Speichern
+- Dialogformate mit Kira
+- Probe-Reels, die nur Nicht-Followern gezeigt werden – zum Testen ohne Risiko
+- Ein längeres Gespräch (Podcast-Stil), aus dem viele kurze Clips entstehen
+- Später: eine einfache Website
+
+**Lieber nicht:**
+- Skripte zum Auswendiglernen
+- Werbeanzeigen, bevor der Account wieder organisch trägt
+- Tricks wie gekaufte Follower, Automatisierung oder künstliche Verknappung
+
+## 12. Die ersten 30 Tage
+**Vorbereitung (Woche 0):** Account-Check und Aufräumen · Ausgangswerte festhalten · Profil neu · **Drehtag** (ca. 3–4 Stunden: Gespräch im Sitzen, Walk & Talk draußen, optional mit Kira, Fotos für Profil und Cover). Ergebnis: Material für 4–6 Wochen.
 
 | Woche | Fokus | Beispiele |
 |---|---|---|
-| 1 | Neuer Auftritt & Vertrauen | „Warum ich Männer coache“, „5 Zeichen …“, „Alles gut“, Erstgespräch |
-| 2 | Neue Menschen erreichen | Männerübersetzer #1, Übergangsritual, Mythos-Check, Wut |
-| 3 | Expertise & Austausch | Typen im Coaching, Partnerinnen-Video, Frag Bilal, Coaching vs. Therapie |
-| 4 | Erste Anfragen & Auswertung | Männerübersetzer #2, Die eine Frage, Freundschaft, Praxis-Einblick |
+| 1 | Wer du bist | „Warum ich mit Männern arbeite“ · Kindheitssätze · Umarmen · „Was passiert, wenn du mir schreibst“ |
+| 2 | Neue Männer erreichen | „Jungs weinen nicht“ · Leistung & Selbstwert · „Warum ich keine Kurse verkaufe“ · Dichtmachen im Streit |
+| 3 | Tiefe & Austausch | Männer & Arztbesuche · Er sagt, sie sagt · Frag Bilal · „Weich ist stark“ |
+| 4 | Die Richtigen anziehen | „Reiß dich zusammen“ · Feierabend-Panzer · „Für wen mein Coaching nichts ist“ · Aus dem Herzen |
 
-## 12. Wie wir Erfolg messen
-Wir versprechen keine Fantasiezahlen. Wir halten zum Start fest, wo du stehst, und zeigen dir jeden Monat auf einer Seite:
-- **Wie viele neue Menschen erreicht wurden** (besonders Nicht-Follower)
-- **Wie gut Videos geschaut werden** (Zuschauerbindung)
-- **Wer gespeichert, geteilt, kommentiert hat**
-- **Wie viele Profilbesuche, Nachrichten und gebuchte Erstgespräche entstanden sind**
+## 13. Wie wir sehen, ob es wirkt
+Keine Prognosen, sondern Ehrlichkeit. Wir halten zum Start fest, wo du stehst, und schauen jeden Monat auf einer Seite:
+- **Wie viele Menschen außerhalb deiner Community** wir erreichen (Start: ca. 20 %)
+- **Wie lange** deine Videos geschaut werden
+- **Wer kommentiert, teilt, speichert, schreibt**
+- **Wie viele Erstgespräche** es gab – und **wie viele davon wirklich gepasst haben**
 
-Daraus leiten wir jeden Monat drei konkrete Anpassungen ab. Erste belastbare Erkenntnisse erwarten wir nach 4–6 Wochen.
+Die letzte Zahl ist uns am wichtigsten. Sie zeigt den Unterschied zu Reichweite ohne Wirkung. Erste klare Muster erwarten wir nach 4–6 Wochen.
 
-## 13. Zusammenarbeit & nächste Schritte
-**Das übernehme ich:** Strategie, Themen, Skripte, Drehplanung und Regie, Schnitt, Untertitel, Cover und Grafiken, Veröffentlichung, Monatsreport.
+## 14. Zusammenarbeit
+**Das übernehme ich:** Strategie, Themenkarten, Drehtag mit dir (ich stelle die Fragen), Schnitt, Untertitel, Cover und Grafiken, Veröffentlichung, Monatsrückblick.
 
-**Das brauche ich von dir:** einen Drehtag pro Monat, Freigaben innerhalb von 48 Stunden, Antworten auf Kommentare und Nachrichten (gerade bei Coaching willst du das persönlich machen), und – wenn du magst – ein paar kurze Stories pro Woche.
+**Das brauche ich von dir:** einen Drehtag pro Monat, kurze Freigaben (innerhalb von 48 Stunden), deine persönlichen Antworten auf Kommentare und Nachrichten – und, wenn du magst, ein paar spontane Stories pro Woche.
 
-**Sicherheit – dein Account bleibt deiner:**
-- Zugriff ausschließlich über Metas offizielle Partner-Freigabe – **kein Passwort-Teilen**. Du kannst ihn jederzeit mit einem Klick entziehen.
-- Zwei-Faktor-Schutz bleibt bei dir.
-- Keine gekauften Follower, keine Automatisierungs-Tricks, keine Wachstums-Hacks.
-- Nichts geht online, was du nicht freigegeben hast.
+**Dein Account bleibt deiner:**
+- Zugriff nur über Metas offizielle Partner-Freigabe – **kein Passwort-Teilen**, jederzeit entziehbar.
+- Nichts geht online, was du nicht gesehen hast.
+- Keine gekauften Follower, keine Tools, keine Tricks.
+
+**Für den Start brauche ich von euch:**
+- Zugang zum Account (als Partner) und Screenshots eurer Insights
+- Eine kurze Beschreibung: eure Ausbildung, wie euer Coaching abläuft, was Männer bei dir lernen
+- Falls vorhanden: alte Skripte oder Konzepte der früheren Agenturen (damit wir wissen, was nicht passt)
+- Vorhandene Fotos von dir (und die Info, ob ihr sie frei nutzen dürft)
 
 **Nächste Schritte:**
-1. Kurzes Abstimmungsgespräch: Schwerpunkt-Thema, deine Geschichte, Grenzen (30 Min.)
-2. Account-Check & Profil-Relaunch (Woche 0)
-3. Drehtag
-4. Start der Veröffentlichung – und nach 30 Tagen gemeinsamer Rückblick
+1. **Kurzes Gespräch** (30 Min.) mit dir und Kira: Feinschliff, offene Fragen
+2. **Probedreh** (30 Min., 2–3 Fragen) – damit du siehst, wie du im Gesprächsformat wirkst
+3. Angebot mit Paketoptionen
+4. Start: Aufräumen, Profil, Drehtag – und nach 30 Tagen ein ehrlicher Rückblick
