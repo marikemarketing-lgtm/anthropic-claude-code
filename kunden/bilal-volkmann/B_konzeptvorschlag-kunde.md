@@ -2,7 +2,7 @@
 **Männercoaching mit therapeutischer Tiefe – echt, warm, im Gespräch**
 *Konzeptvorschlag · Entwurf zur gemeinsamen Abstimmung*
 
-> **Hinweis für dich (vor dem Versand entfernen):** [ ]-Stellen nach Account-Audit und Klärung ergänzen: genaue Ausbildungsbezeichnung, Rolle von Kira, Markenzeichen-Kleidungsstück, erste Account-Erkenntnisse.
+> **Hinweis für dich (vor dem Versand entfernen):** Noch offen sind nur noch die [ ]-Stellen: genaue Ausbildungsbezeichnung und Rolle von Kira. Account-Check ist eingearbeitet (Kap. 2).
 
 ---
 
@@ -11,25 +11,44 @@ Du hast eine klare Mission: **Wenn Männer heilen, wird die Welt ein besserer Or
 
 Gleichzeitig hast du schon einiges erlebt: mehrere Agenturen, die dich in Formeln und Skripte gepresst haben, rund 10.000 € für Werbung, die keine passenden Anfragen gebracht hat, und einen Account, an dem viele Hände gearbeitet haben. Heute erreichen deine Inhalte nur noch zu etwa 20 % Menschen, die dir noch nicht folgen.
 
-[ ] *Erste Erkenntnisse aus dem Account-Check ergänzen.*
 
 **Die gute Nachricht:** Was dir fehlt, ist kein Talent. Es ist ein Format, das zu dir passt.
 
-## 2. Was wir gemeinsam erreichen wollen
+## 2. Ein ehrlicher Blick auf deinen Account
+Ich habe mir dein Profil und deine Reels genau angesehen: Bio, Highlights, 36 Reels mit ihren Aufrufen und mehrere Videos im Detail – wie du sprichst, wie sie beginnen, wie sie geschnitten sind.
+
+**Was schon richtig gut ist**
+- **Du sprichst frei, ruhig und glaubwürdig** – ganz ohne Zettel. Das können viele nicht.
+- **Deine Inhalte haben Substanz:** Gedanken wie „Viele Ziele sind gar nicht meine eigenen – sie kommen vom Vater, von der Schule, vom Markt“ oder deine Frage „Ist das typisch Mann – oder typisch Mensch?“ sind stark.
+- **Deine persönlichen Geschichten bewegen Menschen:** „9 kg weniger & Halbmarathon“ und der Glückwunsch-Clip erreichten rund fünfmal so viele Menschen wie ein durchschnittliches Reel.
+- **Du hast schon Wiedererkennung:** den hellblauen Hut, Blau in deiner Kleidung, hellblaue Textboxen. Darauf bauen wir auf.
+- **Dein Profilbild** ist freundlich und professionell, die Buchung über TidyCal steht bereits.
+
+**Wo Potenzial verschenkt wird**
+- **Viele Themen, keine klare Richtung:** Neben Coaching laufen Zuckersteuer, Versicherung, Nordzypern, Vitamin D und Finanzen. Wer dein Profil zum ersten Mal sieht, weiß nicht sofort, wobei du ihm helfen kannst. Dein erfolgreichstes Video (Versicherung, 17.100 Aufrufe) hat mit deinem Coaching nichts zu tun – und ist aktuell angepinnt.
+- **Dein Profil verrät noch nicht, wer du bist:** In der Bio stehen weder Männer noch deine therapeutische Ausbildung. Die Highlights („Gaumenschmaus“, „Anker“) und die angepinnten Beiträge zeigen kein Coaching.
+- **Deine stärksten Gedanken kommen zu spät:** Viele Videos beginnen mit Anlauf („Es wird langsam kühler und dunkler …“) oder mitten im Satz, weil sie automatisch aus längeren Aufnahmen ausgeschnitten wurden. Die eigentliche Aussage kommt erst nach 10–15 Sekunden – bis dahin sind viele schon weitergescrollt.
+- **Fünf verschiedene Looks:** Verschiedene Schriften, Farben und Untertitel-Stile zeigen, dass viele Hände mitgearbeitet haben. Dadurch entsteht kein Wiedererkennungswert.
+- **Manche Cover klingen lauter, als du bist:** Sätze wie „Du hast einfach nur Schiss 💥“ passen nicht zu deiner warmen, empathischen Art.
+
+**Die wichtigste Erkenntnis:** Deine Zuschauer reagieren am stärksten, wenn du **konkret und persönlich** erzählst – wie bei der Versicherung oder dem Halbmarathon. Genau so werden wir deine Coaching-Themen erzählen. Die Substanz ist da, wir ändern die Verpackung.
+
+## 3. Was wir gemeinsam erreichen wollen
 1. **Wieder Männer außerhalb deiner Community erreichen** – messbar am Anteil der Nicht-Follower.
 2. **Deine Persönlichkeit zeigen**, so wie du wirklich bist: offen, spontan, warm.
 3. **Weniger, aber die richtigen Anfragen** – Männer mit echter Bereitschaft, an sich zu arbeiten.
 4. **Eine Community, die dich versteht** und deine Inhalte weitergibt.
 
-## 3. Was dich besonders macht
+## 4. Was dich besonders macht
 - **Du bist ausgebildeter Therapeut.** [ ] *genaue Bezeichnung* In einer Nische voller Coaches ohne fundierte Ausbildung ist das ein echtes Fundament.
 - **Du stehst für Weichheit als Stärke.** Zwischen „Alpha“-Härte und abgehobener Spiritualität ist kaum jemand so klar in der Mitte wie du.
 - **Du arbeitest mit Integrität:** 1:1, ohne Kurs-Funnel, bis Ergebnisse da sind.
 - **Du bist spontan und offen** – im Gespräch kommt deine Wirkung am stärksten rüber.
-- **Blau ist deine Farbe.** Du trägst sie ohnehin. Daraus machen wir deinen Wiedererkennungswert.
+- **Blau ist deine Farbe – und der hellblaue Hut dein Markenzeichen.** Daraus machen wir deinen Wiedererkennungswert.
+- **Deine eigene Geschichte:** als Kind der 70er/80er mit klaren Rollenbildern und religiös-konservativen Werten aufgewachsen – und irgendwann die Frage: Ist das typisch Mann oder typisch Mensch? Genau diese Geschichte macht dich für Männer glaubwürdig.
 - **Kira** [ ] *– falls gewünscht: eine zweite Perspektive, die Männer- und Frauensicht zusammenbringt.*
 
-## 4. Deine Positionierung
+## 5. Deine Positionierung
 > **Therapeut und Coach für Männer, die gelernt haben, stark zu sein – und jetzt lernen wollen, echt zu sein: im Job, im Körper, in der Liebe.**
 
 **Was hängen bleiben soll:**
@@ -42,7 +61,7 @@ Gleichzeitig hast du schon einiges erlebt: mehrere Agenturen, die dich in Formel
 
 **Ein Gedanke zur Sprache:** Dein Herzensthema – Männer von alten, schädlichen Männlichkeitsbildern zu befreien – steht im Mittelpunkt. Wir sprechen es aber so an, dass Männer sich *gesehen* und nicht *beschuldigt* fühlen: mit konkreten Sätzen aus ihrer Kindheit („Jungs weinen nicht“) statt mit Etiketten. So erreichst du genau die Männer, die es brauchen.
 
-## 5. Wen wir erreichen wollen
+## 6. Wen wir erreichen wollen
 | Wer | Was in ihm vorgeht | Was er von dir bekommt |
 |---|---|---|
 | **Der Mann, bei dem „doch alles läuft“** | Funktioniert, fühlt aber wenig | Sätze und Fragen, in denen er sich wiedererkennt |
@@ -52,7 +71,7 @@ Gleichzeitig hast du schon einiges erlebt: mehrere Agenturen, die dich in Formel
 
 *Startannahme – wir schärfen das mit echten Daten und deinen Erstgesprächen.*
 
-## 6. Der Kern: Gespräch statt Vortrag
+## 7. Der Kern: Gespräch statt Vortrag
 Du hast gesagt: Skripte machen dich statisch, und alles soll wie ein Gespräch unter Freunden wirken. **Genau daraus bauen wir das ganze Konzept.**
 
 **So funktioniert es:**
@@ -63,18 +82,21 @@ Du hast gesagt: Skripte machen dich statisch, und alles soll wie ein Gespräch u
 
 **Nur drei Hinweise für dich beim Dreh:** Antworte der Person, nicht der Kamera. Erzähl erst ein Beispiel, dann den Gedanken. Und wenn dir ein Satz gefällt, sag ihn ruhig nochmal.
 
-## 7. Inhalte: fünf Themenwelten
+## 8. Inhalte: fünf Themenwelten
 1. **„Was man uns beigebracht hat“** – Sätze und Muster aus der Kindheit → *damit neue Männer sich wiedererkennen*
 2. **„Arbeit · Körper · Liebe“** – wie diese Muster heute im Alltag wirken → *damit man dich als Experten erlebt*
 3. **„Weich ist stark“** – deine Haltung und Mission → *damit klar ist, wofür du stehst*
 4. **„Bilal privat“** (& Kira) – der Mensch hinter dem Therapeuten → *damit Vertrauen entsteht*
 5. **„Gemeinsam gehen“** – wie du arbeitest, für wen es passt → *damit die richtigen Männer anfragen*
 
-## 8. Wiederkehrende Formate
+## 9. Wiederkehrende Formate
 - **„Was man uns beigebracht hat“** – ein Kindheitssatz pro Folge, du ordnest ihn ein.
 - **„Unter Männern“** – Fragen, die Männer sich selten stellen. Du antwortest ehrlich.
 - **„Er sagt, sie sagt“** – du und Kira zu einem Beziehungsthema. [ ] *falls gewünscht*
 - **„Frag Bilal“** – du beantwortest Fragen aus deiner Community.
+- **„Typisch Mann – oder typisch Mensch?“** – ein Rollenbild pro Folge, dein Herzensthema.
+- **„Wessen Ziel ist das?“** – übernommene Ziele von Vater, Schule und Gesellschaft.
+- **„Mein Weg“** – was du beim Laufen und Abnehmen über dich gelernt hast.
 - **„Aus dem Herzen“** – einmal im Monat ein ruhiger, kaum geschnittener Gedanke.
 
 **Rhythmus:** 3 Reels + 1 Karussell pro Woche. Dazu Stories von dir – ohne Plan, drei einfache Varianten zur Auswahl (Gedanke des Tages, Frage an die Community, kurzer Alltagseinblick).
@@ -89,7 +111,7 @@ Du hast gesagt: Skripte machen dich statisch, und alles soll wie ein Gespräch u
 - „Für wen ist dein Coaching nichts?“
 - „Warum glaubst du, die Welt wird besser, wenn Männer heilen?“
 
-## 9. Dein visueller Auftritt
+## 10. Dein visueller Auftritt
 **Wirkung:** hell, offen, warm, ruhig – wie ein gutes Gespräch in einem hellen Raum.
 
 **Farben – aus dem, was du ohnehin trägst:**
@@ -101,10 +123,10 @@ Du hast gesagt: Skripte machen dich statisch, und alles soll wie ein Gespräch u
 | ■ `#E2B07A` | Warmes Sand *(optional)* | Ein Hauch Wärme, nur für Hinweise |
 
 **Schrift:** eine weiche, hochwertige Serifenschrift für Überschriften (*Fraunces*) und eine klare Schrift für Untertitel (*Inter*).
-**Dein Erkennungszeichen:** Die Frage, die dir gestellt wird, erscheint in jedem Video als kleine hellblaue Karte – sofort sichtbar: *Hier wird gesprochen, nicht gepredigt.* Dazu dein hellblaues Markenzeichen [ ] in möglichst vielen Videos.
+**Dein Erkennungszeichen:** Die Frage, die dir gestellt wird, erscheint in jedem Video als kleine hellblaue Karte – sofort sichtbar: *Hier wird gesprochen, nicht gepredigt.* Dazu dein **hellblauer Hut** in möglichst vielen Videos. Die hellblauen Textboxen, die du schon nutzt, behalten wir – nur einheitlich.
 **Video:** natürliches Licht, helle Orte oder draußen, Blick zur fragenden Person, immer mit Untertiteln.
 
-## 10. Dein Profil
+## 11. Dein Profil
 **Name:** Bilal Volkmann | Männercoaching
 
 **Bio-Vorschlag:**
@@ -113,13 +135,16 @@ Du hast gesagt: Skripte machen dich statisch, und alles soll wie ein Gespräch u
 > 1:1 · Schreib mir „GESPRÄCH“ ↓
 
 **Highlights:** Über mich · Mit mir arbeiten · Stimmen · Fragen · [ ] Kira & ich
-**Drei angepinnte Beiträge:** Warum ich mit Männern arbeite · Was man uns als Jungs beigebracht hat · Was passiert, wenn du mir schreibst
+**Kategorie:** „Coach“ statt „Unternehmer/in“.
+**Link:** dein TidyCal-Link als Hauptlink, ergänzt um zwei, drei kurze Vorab-Fragen.
+**Drei angepinnte Beiträge:** „Typisch Mann – oder typisch Mensch?“ (deine Geschichte, neu erzählt) · Was man uns als Jungs beigebracht hat · Was passiert, wenn du mir schreibst
+*Versicherung, Zuckersteuer und das rosa Hoodie-Foto nehmen wir aus den angepinnten Plätzen. Themen wie Politik, Versicherung oder Nordzypern wandern in die Stories oder fallen weg – gelöscht wird nichts, wir archivieren Schritt für Schritt.*
 
 **Der Weg zu dir – für die Richtigen:** Statt eines Buchungsknopfs, über den jeder bucht, schreibt dir ein Mann zuerst eine kurze Nachricht. Du stellst zwei, drei persönliche Fragen – und merkst sofort, ob die Energie stimmt. So kommen weniger, aber passende Gespräche zustande.
 
-## 11. Was wir machen sollten – und was nice to have ist
+## 12. Was wir machen sollten – und was nice to have ist
 **Muss (für einen spürbaren Unterschied):**
-1. Account aufräumen und absichern (alte Zugänge entfernen, Kontostatus prüfen, Unpassendes archivieren)
+1. Account aufräumen und absichern (alte Zugänge entfernen, Kontostatus prüfen, angepinnte Beiträge tauschen, Unpassendes archivieren)
 2. Profil neu aufsetzen: Bio, Ausbildung sichtbar, Highlights, angepinnte Beiträge
 3. Ein Drehtag pro Monat im Gesprächsformat
 4. 3 Reels pro Woche – konsequent, mit Einstiegen, die auch Fremde abholen
@@ -134,10 +159,11 @@ Du hast gesagt: Skripte machen dich statisch, und alles soll wie ein Gespräch u
 
 **Lieber nicht:**
 - Skripte zum Auswendiglernen
+- Automatisch geschnittene Clips (z. B. mit Wasserzeichen) – jedes Video wird von Hand geschnitten
 - Werbeanzeigen, bevor der Account wieder organisch trägt
 - Tricks wie gekaufte Follower, Automatisierung oder künstliche Verknappung
 
-## 12. Die ersten 30 Tage
+## 13. Die ersten 30 Tage
 **Vorbereitung (Woche 0):** Account-Check und Aufräumen · Ausgangswerte festhalten · Profil neu · **Drehtag** (ca. 3–4 Stunden: Gespräch im Sitzen, Walk & Talk draußen, optional mit Kira, Fotos für Profil und Cover). Ergebnis: Material für 4–6 Wochen.
 
 | Woche | Fokus | Beispiele |
@@ -147,7 +173,7 @@ Du hast gesagt: Skripte machen dich statisch, und alles soll wie ein Gespräch u
 | 3 | Tiefe & Austausch | Männer & Arztbesuche · Er sagt, sie sagt · Frag Bilal · „Weich ist stark“ |
 | 4 | Die Richtigen anziehen | „Reiß dich zusammen“ · Feierabend-Panzer · „Für wen mein Coaching nichts ist“ · Aus dem Herzen |
 
-## 13. Wie wir sehen, ob es wirkt
+## 14. Wie wir sehen, ob es wirkt
 Keine Prognosen, sondern Ehrlichkeit. Wir halten zum Start fest, wo du stehst, und schauen jeden Monat auf einer Seite:
 - **Wie viele Menschen außerhalb deiner Community** wir erreichen (Start: ca. 20 %)
 - **Wie lange** deine Videos geschaut werden
@@ -156,7 +182,7 @@ Keine Prognosen, sondern Ehrlichkeit. Wir halten zum Start fest, wo du stehst, u
 
 Die letzte Zahl ist uns am wichtigsten. Sie zeigt den Unterschied zu Reichweite ohne Wirkung. Erste klare Muster erwarten wir nach 4–6 Wochen.
 
-## 14. Zusammenarbeit
+## 15. Zusammenarbeit
 **Das übernehme ich:** Strategie, Themenkarten, Drehtag mit dir (ich stelle die Fragen), Schnitt, Untertitel, Cover und Grafiken, Veröffentlichung, Monatsrückblick.
 
 **Das brauche ich von dir:** einen Drehtag pro Monat, kurze Freigaben (innerhalb von 48 Stunden), deine persönlichen Antworten auf Kommentare und Nachrichten – und, wenn du magst, ein paar spontane Stories pro Woche.

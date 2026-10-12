@@ -1,7 +1,7 @@
 # ERGEBNIS A – Interne strategische Analyse
 **Kunde:** Bilal Volkmann – Männercoaching (gemeinsam mit Kira)
 **Plattform:** Instagram (@bilal_volkmann)
-**Stand:** 11.10.2026 · **Version 2** – Gesprächs-Memo eingearbeitet, Account-Audit noch offen
+**Stand:** 12.10.2026 · **Version 3** – Memo + Account-Audit (Screenshots & Videoausschnitte) eingearbeitet
 
 ---
 
@@ -10,44 +10,32 @@
 | Quelle | Status | Folge |
 |---|---|---|
 | Kundenbriefing | ✅ | Grundlage |
-| Gesprächs-Memo (Audio, ~10 Min.) | ✅ transkribiert → `00_memo-transkript.md` | **Wichtigste Quelle.** Hat die Strategie aus Version 1 an mehreren Stellen geändert (siehe 0.2) |
-| Instagram-Profil | ❌ kein Zugriff (Instagram aus meiner Umgebung nicht erreichbar) | **Account-Audit (Kap. 2) weiterhin NICHT durchgeführt** |
-| Kennzahlen | ⚠️ nur eine Zahl aus der Memo: ~20 % Nicht-Follower-Reichweite | Baseline in Woche 0 erheben |
+| Gesprächs-Memo (Audio, ~10 Min.) | ✅ transkribiert → `00_memo-transkript.md` | Wichtigste Quelle für Wünsche & Werte |
+| Profil-Screenshot (Bio, Kennzahlen, Highlights, Pins) | ✅ 12.10.2026 | Profil-Audit möglich |
+| Reels-Raster mit Aufrufzahlen | ✅ **36 Reels** sichtbar | Performance-Vergleich möglich (nur Aufrufe) |
+| 6 Bildschirmaufnahmen von Reels (je 8–16 s) + 2 Caption-Screenshots | ✅ transkribiert & Bild für Bild angesehen | Sprache, Einstieg, Schnitt beurteilbar – **aber nur die ersten Sekunden**, nicht ganze Videos |
+| Insights (Reichweite, Nicht-Follower-Anteil, Wiedergabedauer) | ❌ | Nur die Angabe „~20 % Nicht-Follower“ aus der Memo. **Bei Bilal anfordern** |
+| Kontostatus | ❌ | Bei Bilal anfordern |
+| Wettbewerber | ❌ | keine Live-Recherche möglich |
 
-**Kennzeichnung:** **[F]** Fakt aus Briefing/Memo · **[S]** meine Schlussfolgerung · **[E]** Empfehlung · **[A]** Annahme · **[OFFEN]** nachfragen
-**Transkript-Hinweis:** Die Memo wurde maschinell transkribiert. Zwei Stellen sind unklar (markiert mit ⚠️).
+**Kennzeichnung:** **[F]** Fakt (Briefing/Memo/Screenshot) · **[B]** eigene Beobachtung aus Screenshots/Videos · **[S]** Schlussfolgerung · **[E]** Empfehlung · **[A]** Annahme · **[OFFEN]** nachfragen
 
-### 0.1 Offene Fragen (aktualisiert)
-**Blockierend:**
-1. **Screenshots** Profil (Bio + Highlights), Feed-Raster (~30 Beiträge), 3–5 Reels mit Zahlen, Insights 90 Tage, **Kontostatus** (Einstellungen → Kontostatus → Empfehlungsfähigkeit).
-2. **Welche therapeutische Ausbildung genau?** (z. B. Heilpraktiker für Psychotherapie, systemische Ausbildung, …) – entscheidend für Glaubwürdigkeit *und* für das, was rechtlich kommuniziert werden darf („heilen“).
-3. **Wer ist Kira – und soll sie auf Bilals Account vorkommen?** Hat sie einen eigenen Account? (Laut Memo coacht sie Frauen. Ob sie Bilals Partnerin ist, geht aus der Memo nicht eindeutig hervor – er spricht davon, zu „seiner Frau“ zu reden.)
-4. ⚠️ **Markenzeichen:** In der Memo heißt es „sein hellblauer **Fuß**“ – das ist vermutlich ein Transkriptionsfehler. Was ist gemeint (Pullover? Hut? Schuh?)
+### 0.1 Offene Fragen
+**Wichtig:**
+1. **Insights** der letzten 90 Tage (Erreichte Konten Follower/Nicht-Follower, Top-Beiträge, Wiedergabedauer) + **Kontostatus** – von Bilal.
+2. **Genaue Ausbildungsbezeichnung** (Therapeut – welche Ausbildung/Heilerlaubnis?).
+3. **Kira:** Ist sie seine Frau (Kira Volkmann folgt ihm, gemeinsame Collab-Reels)? Soll sie regelmäßig vorkommen? Wie groß ist ihr Account?
+4. **Nordzypern:** Reels und eine Collab mit *nordzypern_mit_herz* – zieht er dorthin, ist das ein zweites Geschäft (z. B. Auswandern/Immobilien)? Das ist entscheidend für die Nische.
+5. **Podcast/Interview:** Mehrere Reels sind Ausschnitte aus einer längeren Aufnahme (Mikrofon, VW-Bus-Tapete, OpusClip). Gibt es ein Podcast- oder Langvideo-Archiv? → wertvolles Rohmaterial.
+6. **Kostenfreier Workshop „Gefühle“** (Reel von vor 6 Tagen, Kommentar „GEFÜHL“): Findet er statt? Wie viele Anmeldungen kamen?
+7. **Buch:** Titel, Thema, Erscheinungsjahr – evtl. doch nutzbar (Expertenstatus).
+8. Was genau haben die Vor-Agenturen gemacht, auf welche Zielgruppe liefen die Ads?
+9. Testimonials mit Einwilligung?
+10. Vorhandene Fotos + Nutzungsrechte (das Profilbild und das Schwarz-Weiß-Foto „Haltung“ wirken professionell).
 
-**Wichtig für die Positionierung:**
-5. Bilals eigene Geschichte: Warum Männer? Was davon darf öffentlich werden?
-6. Typische Klienten: Alter, Situation, womit kommen sie (Arbeit/Gesundheit/Beziehung)?
-7. 1:1-Coaching: Laufzeit, Format (online/vor Ort, Ort), Preisrahmen, wie viele Plätze?
-8. Was genau ist im Account schiefgelaufen? Welche Agenturen, welche Maßnahmen (Ads-Kampagnen, Funnel, Follower-Tools, gelöschte Inhalte)? Auf welche Zielgruppe liefen die Ads für 10.000 €?
-9. Testimonials/Ergebnisse mit Einwilligung vorhanden?
-
-**Aus deiner eigenen Liste in der Memo (Material vom Kunden):**
-10. Kurze schriftliche Selbstbeschreibung: Ausbildung, Methode, Ablauf des Coachings.
-11. Vorhandene Skripte/Notizen aus früheren Zusammenarbeiten (zeigen, was *nicht* funktioniert hat).
-12. Vorhandene Fotos (Porträts, Praxis, Alltag) – Nutzungsrechte klären (Fotograf!).
-13. ⚠️ „Menschen im **Ofen**“ – vermutlich „Menschen, die offen sind“. Bitte bestätigen.
-
-### 0.2 Was sich durch die Memo gegenüber Version 1 geändert hat
-| Version 1 (Annahme) | Version 2 (nach Memo) |
-|---|---|
-| Fachlicher Schwerpunkt offen, drei Richtungen | **Klar:** Männer, Bereiche Arbeit, Gesundheit, Beziehungen; Herzensthema alte Glaubenssätze, „weiche Seite“ zurückholen [F] |
-| Coaching ≠ Therapie als Abgrenzung | **Beide sind ausgebildete Therapeuten** [F] → starkes Glaubwürdigkeitsmerkmal, Abgrenzung muss neu formuliert werden |
-| Ich schreibe Skripte, Bilal liest sie vorab | **Kein Skript.** Bilal kann nicht nach Skript drehen, wirkt dann statisch und belehrend [F]. → **Stichpunkte + Gesprächsformat** |
-| Talking Head als Standardformat | **Gespräch unter Freunden** als Leitformat (jemand stellt Fragen, er antwortet) |
-| Sketche/Humor-Szenen | Nur, wenn es sich spontan ergibt. Keine inszenierten Rollen |
-| Palette mit Marine als Basis | **Hellblau/Weiß ist seine Komfortfarbe und was er trägt** → helle Basis, Dunkelblau als Anker |
-| Ziel „mehr Anfragen“ | **Weniger, dafür passende Anfragen.** 10.000 € in Ads brachten „tote Leads“ [F] |
-| Erreicht kaum neue Accounts | Konkret: **~20 % Nicht-Follower-Reichweite** [F, laut Memo „scheinbar“ – in Insights prüfen] |
+**Geklärt durch die Screenshots:**
+- ⚠️ „hellblauer **Fuß**“ aus der Memo = **hellblauer Hut** (Fedora). Er trägt ihn in vielen Reels → das ist das Markenzeichen. ✅
+- Buchungstool existiert bereits: **TidyCal** (Link in Bio). ✅
 
 ---
 
@@ -63,7 +51,7 @@
 - Bilal kann nicht nach Skript drehen. In die Kamera zu sprechen fällt ihm schwer; es wirkt dann **zu geplant, statisch, teilweise belehrend.** Das will er nicht.
 - Gewünscht: **wie ein Gespräch unter Freunden** – als würde er mit einem Kumpel oder seiner Frau reden, oder etwas „aus tiefstem Herzen“ erzählen.
 - Arbeitsweise: **Stichpunkte statt Skripte** („Dreh zu dem Thema mal ein Video“). Er **befolgt Anweisungen** und macht, was man ihm sagt. Ausprobieren ist erwünscht.
-- Kleidung: viel Weiß, Hellblau, auch Dunkelblau – **Blau ist seine Komfortfarbe.** Ein hellblaues Teil ist eine Art Markenzeichen (⚠️ Wort unklar). Keine CI.
+- Kleidung: viel Weiß, Hellblau, auch Dunkelblau – **Blau ist seine Komfortfarbe.** Markenzeichen: **hellblauer Hut** (in der Memo als „Fuß“ transkribiert, per Screenshot geklärt). Keine CI.
 - Wichtig: **Persönlichkeit rüberbringen, authentisch sein**, Interaktion und Conversion, **mehr Menschen außerhalb der bestehenden Community** erreichen.
 - **~10.000 € für Werbeanzeigen ausgegeben → „tote Leads“.** Wunsch stattdessen: stetiger Aufbau einer Personal Brand, die Menschen anzieht, die ihn verstehen.
 - Account aufräumen: **viele Leute haben mitgemischt**, oft mit wenig Ahnung. **Nur noch ~20 % Nicht-Follower erreicht.**
@@ -74,7 +62,7 @@
 1. **Das Hauptrisiko ist nicht der Account, sondern dass du wie Agentur Nr. 4 wirkst.** Sie wurden mehrfach in Formeln gepresst. Jede Präsentation, die nach „Funnel, Skripte, Hook-Formeln, Posting-Pflicht“ klingt, aktiviert genau diese Abwehr. Dein Verkaufsargument: **„Ich baue das System um euch herum – nicht euch in ein System.“**
 2. **Sein Problem vor der Kamera ist ein Formatproblem, kein Talentproblem.** Wer allein in eine Linse spricht, „hält einen Vortrag“ → belehrend. Wer einem Menschen antwortet, erzählt → nahbar. Lösung: **Es sitzt immer jemand hinter der Kamera und fragt** (du, Kira oder ein Freund). Das ist der wichtigste Hebel des ganzen Konzepts.
 3. **Struktur wandert vom Dreh in den Schnitt.** Er redet frei – du baust im Schnitt den Hook (stärkster Satz nach vorn), kürzt und strukturierst. Das passt perfekt zu deinem Leistungsumfang (Schnitt) und erfüllt seinen Wunsch nach Spontaneität. Die Strategie bleibt professionell, er merkt sie nur nicht.
-4. **„Ausgebildeter Therapeut“ ist das stärkste Differenzierungsmerkmal** – in einer Nische voller Coaches ohne fundierte Ausbildung. Bisher (vermutlich) nicht prominent genug kommuniziert [A – im Audit prüfen].
+4. **„Ausgebildeter Therapeut“ ist das stärkste Differenzierungsmerkmal** – in einer Nische voller Coaches ohne fundierte Ausbildung. **Laut Audit kommt die Ausbildung im Profil gar nicht vor** [B].
 5. **Sprache „toxische Männlichkeit“ ist ein Zielgruppen-Risiko.** Inhaltlich ist es sein Herzensthema – aber Männer, die er erreichen will, fühlen sich durch den Begriff oft angegriffen und scrollen weiter. Empfehlung: Das *Thema* besetzen, den *Begriff* sparsam nutzen. Lieber: „alte Muster“, „was man uns als Jungs beigebracht hat“, „Panzer“, „Rüstung“. Er beschreibt nicht, was Männer falsch machen, sondern was sie gelernt haben – Verantwortung ohne Schuld.
 6. **„Männer heilen“ ist eine kraftvolle Mission, aber ein rechtliches Feld.** Ob Heilaussagen zulässig sind, hängt von der Ausbildung/Heilerlaubnis ab (siehe 3.5).
 7. **Qualität vor Quantität ist strategisch richtig** – und muss sich im Content zeigen: Inhalte, die **filtern** („für wen das nichts ist“), Tiefe statt Masse, ein Anfrageweg mit leichter Vorqualifizierung.
@@ -96,22 +84,137 @@
 
 ---
 
-## 2. Account-Audit – weiterhin NICHT durchgeführt
-Ohne Screenshots behaupte ich nichts über Bio, Feed, Reels oder Design. Sobald sie da sind, prüfe ich nach diesem Raster:
 
-- **Profil (1–5):** Profilbild · Name (Suchbegriff?) · Bio (Wer/für wen/Nutzen/CTA) · Ausbildung sichtbar? · Link · Highlights · Pins.
-- **Content:** Themen · Formate · Top/Flop relativ zum Durchschnitt · Hooks · **Wo wirkt Bilal frei, wo statisch?** (→ Belege für die Gesprächsformat-These) · Spuren der Vor-Agenturen (formelhafte Reels, Stock-Grafiken, Ads-Creatives im Feed).
-- **Tonalität:** Wie spricht er, wenn es gut wird? Lieblingswörter, Humor, Tiefe.
-- **Visuell:** Was davon ist erhaltenswert?
-- **Community:** Kommentarqualität, Follower-Herkunft (Bots/Ads-Follower?).
+## 2. Account-Audit
 
-**Aufräum-Plan (Woche 0, unabhängig vom Audit):**
-- [ ] Kontostatus: Empfehlungsfähigkeit, Verstöße
-- [ ] Accounts Center: alle verknüpften Geräte, Apps, Partnerzugänge der Ex-Agenturen entfernen; Passwort neu; 2FA
-- [ ] Meta Business Suite: alte Werbekonten/Partner entfernen
-- [ ] Follower-Herkunft (Länder/Städte) auf Auffälligkeiten prüfen
-- [ ] Beiträge, die nicht mehr passen (Agentur-Formeln, Werbe-Creatives) → **archivieren, nicht löschen**
-- [ ] Baseline-Screenshots: Reichweite gesamt, **Anteil Nicht-Follower (aktuell laut Memo ~20 %)**, Profilaufrufe, Follower, Anfragen/Monat
+*Basis: Screenshots vom 12.10.2026 (Profil, 36 Reels mit Aufrufen), 6 Bildschirmaufnahmen der ersten 8–16 Sekunden einzelner Reels, 2 Caption-Screenshots. Keine Insights → keine Aussagen über Reichweite nach Follower/Nicht-Follower, Wiedergabedauer oder Shares.*
+
+### 2.1 Kurzfazit
+> **Bilal hat gute Inhalte, eine echte Geschichte und kann frei sprechen – aber der Account erzählt nicht, wofür er steht.** Coaching-Themen, Politik, Versicherungsärger, Nordzypern, Vitamin D, Laufen und Finanzen stehen gleichberechtigt nebeneinander, in mindestens fünf verschiedenen Optiken. Seine stärksten Inhalte (eigene Geschichte, übernommene Ziele, Rollenbilder) verlieren durch automatisch geschnittene Clips ohne Einstieg. Die Probleme sind fast alle **Verpackung und Auswahl**, nicht Substanz – das ist gut lösbar.
+
+Deine drei Vermutungen sind **bestätigt**: (1) zu viele Themen ohne Coaching-Bezug, (2) er kommt nicht auf den Punkt, (3) keine klaren Hooks, Schnitt mit Luft nach oben. Ergänzungen unten.
+
+### 2.2 Profil
+| Element | Ist-Zustand [B] | Bewertung | Empfehlung |
+|---|---|---|---|
+| Profilbild | Lächelnd, Brille, blaues Hemd, heller Hintergrund | ✅ gut: freundlich, professionell, blau | Behalten. Optional später Variante mit Hut |
+| Name | „Bilal Volkmann \| Männercoaching“ | ✅ durchsuchbar, klar | Behalten |
+| Kategorie | „Unternehmer/in“ | ❌ passt nicht | → „Coach“ oder „Lebensberater/in“ |
+| Bio | „Ich helfe dir, glücklich und erfolgreich zu sein. Ziele erkennen · Potenzial erschließen. Arbeit \| Gesundheit \| Beziehung. Kostenloses Erstgespräch 👇“ | ⚠️ Austauschbar. **Männer kommen nicht vor, Ausbildung nicht, Haltung nicht.** „Glücklich und erfolgreich“ verspricht jeder Coach | Neu: siehe Kap. 8 |
+| Link | tidycal.com/… + 3 weitere | ⚠️ Buchung vorhanden (gut), aber 4 Links = Entscheidungsfrage für Besucher | Ein Hauptlink zur Buchung, Rest nachrangig |
+| Threads/Facebook | verknüpft | neutral | lassen |
+| Highlights | „Gaumenschm…“ (Essen), „Anker“ | ❌ Für Fremde unverständlich, kein Bezug zu Coaching/Angebot | Neu: Über mich · Mit mir arbeiten · Stimmen · Fragen |
+| Angepinnt | (1) Foto im **rosa Hoodie**, Hand an der Stirn, (2) Versicherungs-Reel, (3) Zuckersteuer | ❌ Die drei wichtigsten Plätze zeigen **null Coaching** – ein neuer Besucher sieht als Erstes Versicherungsärger und Zuckersteuer | Sofort ändern (Quick Win) |
+| Zahlen | 133 Beiträge · 736 Follower · 461 gefolgt | [S] Wenig Wachstum pro Beitrag – passt zum Reichweitenproblem | Baseline |
+
+**5-Sekunden-Test (Fremder auf dem Profil):** Versteht er, dass hier ein Therapeut Männern hilft, alte Muster zu lösen? **Nein.** Er sieht einen freundlichen Mann, eine allgemeine Coaching-Bio und Videos über Versicherung und Zucker.
+
+### 2.3 Performance der Reels (nur Aufrufe, 36 Reels)
+**Typischer Wert:** Median **~310 Aufrufe** (Spanne 116–17.100). Bei 736 Followern spricht das dafür, dass die meisten Reels überwiegend im eigenen Umfeld bleiben – passt zur Memo-Angabe „~20 % Nicht-Follower“ [S, ohne Insights nicht belegt].
+
+**Ausreißer nach oben (> 2× Median):**
+| Reel | Aufrufe | Thema | Coaching-Bezug |
+|---|---|---|---|
+| „30 Jahre Treue. 4-mal eingebrochen. Versicherung hat massiv gekürzt …“ (Collab mit kiravolkmann) | **17,1 Tsd.** | Ärger mit Versicherung | ❌ |
+| „Herzlichen Glückwunsch an meinen geduldigen Ehemann – Mit Fokus zum Halbmarathon“ (Frau im Bild, vermutlich Kira) | 1.602 | Persönlicher Erfolg | ⚠️ indirekt (Gesundheit, Beziehung) |
+| „9 kg weniger & heute Halbmarathon: Die 4 Dinge, die ich auf diesem Weg gelernt habe“ | 1.448 | Eigene Entwicklung | ✅ Gesundheit |
+| „Woran du Touristen auf Nordzypern erkennst“ | 1.229 | Reise/Nordzypern | ❌ |
+| Vater-/Sohn-Foto (älterer Mann + Bilal mit Hut) | 909 | Familie/Herkunft | ✅ Potenzial (Väter & Söhne) |
+| „Endlich kommt die Zuckersteuer“ | 634 | Politik | ❌ |
+| „Ständig gestresst? Das hier kostet 0 € und hilft SOFORT!“ | 605 | Stress-Tipp | ✅ |
+
+**Die reinen Coaching-Themen liegen fast alle bei 150–350:** „Typisch Mann/Frau oder Mensch?“ (152), „Ich bin froh, dass ich mich verändert habe“ (164), „Gefühllos? Nein, du hast einfach nur Schiss“ (266), „Und was ich dabei feststelle“ (übernommene Ziele, 234), „Keine Arbeit = kein echter Mann“ (347), „Warum der falsche Arbeitsstil dich blockiert“ (316), „Kennst du die Atemarbeit …“ (287).
+
+**Was die Ausreißer gemeinsam haben [S]:**
+1. **Konkret statt allgemein:** „30 Jahre, 4 Einbrüche“, „9 kg, Halbmarathon“ – Zahlen, ein echter Fall.
+2. **Persönlich und mit Emotion:** Ärger, Stolz, Liebe – nicht Ratschlag.
+3. **Sofortiger Einstieg** (siehe 2.5: Das Versicherungs-Reel startet direkt mit dem Fall).
+4. **Zwei davon sind Collabs/mit Kira** [B] – Collabs werden beiden Communities gezeigt.
+
+**Strategische Folgerung:** Die Zuschauer reagieren auf **Bilal als Mensch mit echten Geschichten**, nicht auf Bilal als Ratgeber. Die Lösung ist nicht „mehr Off-Topic“, sondern: **seine Coaching-Themen genauso konkret und persönlich erzählen wie die Versicherungsgeschichte.** Halbmarathon/Abnehmen passen dabei voll in die Säule „Gesundheit“ – sie sind keine Ablenkung, sondern Beweis.
+
+### 2.4 Themen & Nische
+| Kategorie | Beispiele [B] | Urteil |
+|---|---|---|
+| ✅ Kern (Männer, Muster, Gefühle, Rollenbilder) | Gefühllos, Typisch Mann/Frau oder Mensch, Keine Arbeit = kein echter Mann, übernommene Ziele, Überstunden als Ausrede, Halbmarathon/9 kg, Stress, Widerstände | **Behalten & ausbauen** |
+| ⚠️ Kann passen, wenn persönlich erzählt | Dankbarkeit, Vater-Foto, Wochenende, Laufrunde | In Stories oder als Teil einer Geschichte |
+| ❌ Raus aus dem Feed | Zuckersteuer (Politik), Versicherung, Nordzypern-Touristen, Vitamin D/Nordzypern, „finanzielle Freiheit“, „Der Finanzplan“, „Pegelstand -4 cm“, Feuerwehr-Clip | Stories oder gar nicht. Politik ganz weglassen |
+| ⚠️ Kalendersprüche | „Du zauberst jeden Tag. Entscheide bewusst, was.“ · „Deine Gedanken von heute sind deine Realität von morgen“ · „Hoch die Hände, Wochenende“ | Austauschbar; ersetzen durch konkrete Aussagen |
+
+**Zu deiner Frage „Story statt Feed?“ – Ja, mit Nuance:** Persönliches gehört in den Feed, **wenn es eine Coaching-Erkenntnis trägt** (Halbmarathon → „Was ich über Disziplin ohne Härte gelernt habe“). Persönliches **ohne** Erkenntnis (Wochenende, Pegelstand, Zucker) → Story. Politik und Versicherung → gar nicht bzw. höchstens Story.
+
+**Zum Versicherungs-Reel (17,1 Tsd.):** Nicht löschen (Reichweitensignal, Beweis, dass er's kann), aber **entpinnen** und später archivieren. Es hat vermutlich Menschen erreicht, die sich für Versicherungsärger interessieren – nicht für Männercoaching. Lehre daraus nur das *Wie* (konkreter Fall, Emotion, direkter Start), nicht das *Was*. Rechtlicher Hinweis: Negative Aussagen über ein namentlich genanntes Unternehmen (AXA) sind ein Risiko – zukünftig vermeiden.
+
+**Nordzypern [OFFEN]:** Zwei Reels + Caption „Daher zieht es mich nach Nordzypern“ + Collab mit *nordzypern_mit_herz*. Wenn das ein zweites Geschäft ist, gehört es auf einen eigenen Account – sonst verwässert es die Coaching-Positionierung dauerhaft.
+
+### 2.5 Analyse der Videoausschnitte
+| Clip | Erste Worte (Transkript) | Einstieg | Beobachtung [B] |
+|---|---|---|---|
+| Zuckersteuer (634) | „Irgendwie genau meinen Humor. Jetzt wird überlegt, ob 2027 im Sommer eine Zuckersteuer …“ | ❌ Anlauf | Sofa, Muster-Hintergrund, Thema off-topic |
+| Versicherung (17,1 Tsd.) | „Das passiert ja bei der AXA, wenn du über 30 Jahre versichert bist …“ | ✅ **direkt im Fall** | Hut, hektischer, emotionaler Ton, konkrete Zahlen → zeigt, was funktioniert |
+| Übernommene Ziele (234) | „… und was ich dabei feststelle, ist zum einen, viele Ziele sind nicht meine Ziele …“ | ❌ **mitten im Satz** | **OpusClip-Wasserzeichen sichtbar**, automatischer Ausschnitt aus längerem Gespräch (Mikrofon). Inhalt stark („übernommene Ziele von Vater, Schule, Markt“), Verpackung schwach |
+| Vitamin D / Nordzypern (285) | „Es wird langsam kühler und feuchter und dunkler, und wir Menschen, wir können uns an viele Situationen gewöhnen. Aber es gibt eben auch die Situation, dass wir uns präparieren können …“ | ❌ langer Anlauf | Walk & Talk (gut!), aber der Punkt kommt nicht. Caption endet mit Nordzypern-Werbung |
+| Typisch Mann/Frau oder Mensch? (152) | „… Achtziger. Ganz klare Rollenbilder, aber dann eben auch noch aus einem religiösen Verständnis heraus, sehr konservativ gelernt …“ | ❌ mitten im Satz | **Das ist seine Ursprungsgeschichte** („Kind der 70er/80er, religiös-konservativ, ist das typisch Mann oder typisch Mensch?“) – der stärkste Inhalt im ganzen Material, mit dem schwächsten Ergebnis. OpusClip-Wasserzeichen |
+| Gefühllos (266, vor 6 Tagen) | „Männer sind gefühllos. Männer kennen keine Gefühle, Männer kennen den Umgang nicht mit Gefühlen, und Männer können bestimmte Gefühle gar nicht fühlen. Das ist das, was wir gelernt haben …“ | ⚠️ Idee gut, aber Aufzählung | Selfie am Schreibtisch, Hut, statisch, leicht vortragend. Cover dazu: „**Gefühllos? Nein, du hast einfach nur Schiss**💥“ – konfrontativ, passt nicht zu „empathisch“ |
+
+### 2.6 Sprache & Tonalität (gesprochen)
+**Stärken [B]:**
+- Spricht **flüssig, ohne Zettel**, ruhig, warm, glaubwürdig. Er braucht kein Skript – das bestätigt die Memo.
+- Echte Inhalte aus der Praxis („ich erlebe bei meinen Kunden …“) und aus dem eigenen Leben.
+- Wenn ihn etwas bewegt (Versicherung), wird er lebendig und direkt – genau diese Energie fehlt in den Coaching-Reels.
+
+**Schwächen [B]:**
+- **Anlauf statt Punkt:** Er beginnt mit Kontext („Es wird langsam kühler …“, „Irgendwie genau mein Humor“) und kommt erst nach 10–15 Sekunden zur Aussage.
+- **Aufzählungen und Wiederholungen:** „Männer sind gefühllos. Männer kennen keine Gefühle, Männer kennen den Umgang nicht …“ – vier Varianten desselben Satzes.
+- **Lange Schachtelsätze** mit Füllwörtern („eben“, „irgendwie“, „tatsächlich“, „sozusagen“-Charakter).
+- **Allein in die Kamera = Vortragston**; im Gesprächssetting (Mikrofon-Clips) wirkt er gelöster.
+→ Alles drei ist im **Schnitt lösbar** (Anlauf wegschneiden, stärksten Satz nach vorn, Wiederholungen kürzen) und im **Dreh** (Fragesteller hakt nach: „Und in einem Satz?“).
+
+**Geschrieben (Captions) [B]:** Gut strukturiert, sauber, mit klaren Fragen und CTAs („Wie oft hast du diesen Satz schon gehört? Oder vielleicht sogar selbst geglaubt?“, „Schluss mit dem Versteckspiel“). **Aber:** Der Ton ist deutlich glatter und „marketinghafter“ als seine gesprochene Sprache (🚀, „exklusiver Workshop“, „Hör auf, dich im Winter einfach mit deinem Tief zufriedenzugeben!“). [A] Vermutlich von Agenturen oder KI geschrieben → Brüche zwischen Video und Text. Captions künftig in **seiner** Sprache (aus dem Transkript ableiten).
+
+### 2.7 Schnitt & Technik
+- **OpusClip-Wasserzeichen** in mehreren Reels sichtbar („Created with OpusClip“) – wirkt billig und automatisiert, Schnittpunkte mitten im Satz. **Sofort abstellen.**
+- **Untertitel in 3+ Stilen:** gelb/grün Großbuchstaben (OpusClip), weiß mit Schatten, weiße/hellblaue/türkise/schwarze Boxen.
+- **Kein Hook-Text in den ersten Sekunden** bei den Coaching-Clips; das Cover-Thema wird im Video nicht wiederholt.
+- **Bild:** Viele Selfies (Auto, Schreibtisch, Straße) – nahbar, aber ohne Linie; teils unruhige Hintergründe (Muster-Sofa, Kartons). Das Mikrofon-Setting mit VW-Bus-Tapete ist eigenständig und wiedererkennbar.
+- **Ton:** In den Ausschnitten verständlich; In-Ear-Kopfhörer im Bild bei Walk & Talks. Ansteckmikrofon empfehlen.
+- **Musik/Audio:** nicht beurteilbar.
+
+### 2.8 Visuell
+- **Mindestens fünf Cover-Stile** (hellblaue Boxen, türkise Boxen, schwarze Boxen, weiße Boxen, Fotocollage, Schwarz-Weiß-Foto „Haltung“, Emojis 💥🔥) → kein Wiedererkennungswert, sichtbar mehrere Handschriften.
+- **Erhaltenswert:** (1) die **hellblauen Textboxen** – passen bereits zur neuen Palette und wirken freundlich; (2) der **hellblaue Hut**; (3) Blau in der Kleidung; (4) das professionelle Profilbild.
+- **Nicht erhaltenswert:** türkis, schwarze Boxen, gelbe OpusClip-Untertitel, Feuer-/Explosions-Emojis, Collagen.
+- Das angepinnte **rosa Hoodie-Foto** ist das erste Bild, das Besucher sehen – farblich und inhaltlich gegen die Marke.
+
+### 2.9 Cover-Texte & Tonalität
+Mehrere Cover arbeiten mit **Konfrontation oder Formeln**, die nicht zu „empathisch, nahbar“ passen:
+- „Gefühllos? Nein, du hast einfach nur Schiss💥💥“
+- „Männer, wartet ihr auch, bis der Laden brennt🔥🔥🔥🔥“
+- „Ständig gestresst? Das hier kostet 0 € und hilft SOFORT!“
+- „Mann, so erreiche ich all meine Ziele🥇💪“
+
+[S] Das sind typische Agentur-Hook-Formeln. Sie sind nicht grundsätzlich falsch (Konfrontation kann Reichweite bringen), aber sie **widersprechen seiner Haltung** und haben hier nachweislich nicht besser funktioniert als ruhigere Cover. Neue Linie: **ehrlich-direkt statt laut-provokant**, z. B. statt „Du hast einfach nur Schiss“ → „Du bist nicht gefühllos. Du hast nur nie gelernt, wohin damit.“
+
+### 2.10 Angebot & Conversion
+- **TidyCal-Buchung** für das Erstgespräch existiert ✅
+- **Neu entdeckt:** „Kostenfreier Workshop“ zum Thema Gefühle, Anmeldung per Kommentar „GEFÜHL“ oder DM [B]. → Passt grundsätzlich (kostenlos, kein Kurs-Verkauf), aber: Ohne Automatisierung muss jeder Kommentar manuell beantwortet werden. Ergebnis erfragen [OFFEN].
+- CTAs uneinheitlich: mal Erstgespräch, mal DM, mal Workshop-Keyword, mal keiner.
+
+### 2.11 Community
+Nicht beurteilbar ohne Kommentare/Insights. Sichtbar: *peter_giesen_official* und *kiravolkmann* folgen [B]. Collab mit Kira beim erfolgreichsten Reel → Kiras Reichweite ist ein Hebel [S].
+
+### 2.12 Was der Audit an der Strategie ändert
+| Punkt | Änderung |
+|---|---|
+| Positionierung | Bestätigt. Neu belegt: seine **eigene Geschichte** (Kind der 70er/80er, religiös-konservativ, klare Rollenbilder → „typisch Mann oder typisch Mensch?“) wird Kern von Pin #1 |
+| Themen | „Übernommene Ziele“ und „Typisch Mann/Frau oder Mensch?“ als Serien-Kandidaten – Inhalt war stark, nur die Verpackung schwach |
+| Gesundheit-Säule | Halbmarathon/9 kg als Beweisgeschichte aktiv nutzen |
+| Kira | Collabs gezielt einsetzen (wenn sie will) – das erfolgreichste Reel war eine Collab |
+| Schnitt | OpusClip ersetzen durch manuellen Schnitt mit Hook-Bau; Wiederholungen kürzen |
+| Design | Hellblaue Textbox **beibehalten** und systematisieren statt neu erfinden |
+| Profil | Kategorie, Bio, Highlights, Pins sofort umbauen |
+| Captions | in seiner gesprochenen Sprache statt Agenturton |
+| Altinhalte | Off-Topic-Reels archivieren (nicht löschen), schrittweise nach dem Relaunch |
 
 ---
 
@@ -265,6 +368,9 @@ Jedes Video entsteht aus einer **echten Frage an Bilal**. Die Strategie (Hook, S
 3. **„Er sagt, sie sagt“** – Bilal & Kira zu einem Beziehungsthema [nur wenn Kira mag].
 4. **„Frag Bilal“** – Fragen aus Stories/DMs.
 5. **„Aus dem Herzen“** – ungeschnittene, ruhige 60-Sekunden-Gedanken (selten, 1×/Monat; wirkt gerade durch das Fehlen von Schnitttricks).
+6. **„Typisch Mann – oder typisch Mensch?“** – ein Rollenbild pro Folge (aus dem Audit: stärkster Inhalt, bisher schlecht verpackt).
+7. **„Wessen Ziel ist das?“** – übernommene Ziele von Vater, Schule, Markt (aus dem Audit).
+8. **„Mein Weg“** – Halbmarathon, 9 kg, was er dabei über sich gelernt hat (Gesundheit als Beweis, nicht als Fitness-Content).
 
 ### 6.5 Formate & Frequenz
 - **Reels: 3/Woche** – das Reichweitenformat; Gesprächsclips.
@@ -293,7 +399,7 @@ Jedes Video entsteht aus einer **echten Frage an Bilal**. Die Strategie (Hook, S
 
 ### 6.8 Community & Conversion – „wenige, aber die richtigen“
 **Weg:** Reel → Profil (Ausbildung + Haltung sichtbar) → Highlight „Mit mir arbeiten“ → **DM mit Stichwort** (z. B. „GESPRÄCH“) → Bilal stellt 2–3 persönliche Fragen → Erstgespräch.
-- **Vorqualifizierung [E]:** Statt einem Klick-Buchungslink, über den jeder bucht, zuerst eine kurze Nachricht/Frage („Was ist gerade dein Thema, und warum jetzt?“). Das filtert genau die „tote-Lead“-Problematik aus den Ads. Optional: Buchungstool mit 3 Pflichtfragen (Calendly/Cal.com).
+- **Vorqualifizierung [E]:** Statt einem Klick-Buchungslink, über den jeder bucht, zuerst eine kurze Nachricht/Frage („Was ist gerade dein Thema, und warum jetzt?“). Das filtert genau die „tote-Lead“-Problematik aus den Ads. Das vorhandene **TidyCal** behalten und um 2–3 Pflichtfragen ergänzen (Thema, warum jetzt, was erwartest du).
 - **Filter-Content:** 1×/Monat „Für wen das nichts ist“ – zieht passende Männer an, hält unpassende fern.
 - **Keine Automatisierung zum Start.** Persönliche Antworten passen zu Marke und Werten; ManyChat o. Ä. erst bei hohem DM-Volumen.
 - **Kommentare:** Bilal antwortet in der ersten Stunde mit echten Sätzen. Die besten Kommentare werden „Frag Bilal“-Videos.
@@ -306,7 +412,7 @@ Jedes Video entsteht aus einer **echten Frage an Bilal**. Die Strategie (Hook, S
 
 ### 7.1 Richtung
 **Wirkung:** hell, offen, warm, ruhig – „ein Gespräch im hellen Raum“. Passt zu seiner Kleidung (Weiß/Hellblau) und hebt sich von dunklen, harten Männer-Accounts ab.
-**Bildsprache:** natürliches Tageslicht, helle Räume oder draußen, Bilal in Weiß/Hellblau, Gesprächssituation sichtbar (zweiter Stuhl, Schulter des Fragestellers im Anschnitt, Blick leicht neben die Kamera). **Wiedererkennung über das hellblaue Markenzeichen-Teil** (⚠️ klären, was es ist) – in möglichst vielen Videos tragen.
+**Bildsprache:** natürliches Tageslicht, helle Räume oder draußen, Bilal in Weiß/Hellblau, Gesprächssituation sichtbar (zweiter Stuhl, Schulter des Fragestellers im Anschnitt, Blick leicht neben die Kamera). **Wiedererkennung über den hellblauen Hut** – bei Drehs für den Feed möglichst immer tragen (bei ernsten, sehr persönlichen Themen bewusst ohne).
 **Video:** 9:16, Blick leicht seitlich zur fragenden Person (Interviewlook), zwei Einstellungsgrößen (halbnah + nah) für ruhige Schnitte, Untertitel immer, keine hektischen Effekte.
 
 ### 7.2 Farbpalette (aufbauend auf seiner Komfortfarbe)
@@ -318,6 +424,8 @@ Jedes Video entsteht aus einer **echten Frage an Bilal**. Die Strategie (Hook, S
 | Text | Fast-Schwarz-Blau | `#14202B` | Fließtext |
 | Neutral | Blaugrau | `#6B7C8C` | Sekundärtext, Linien |
 | Akzent (optional) | Warmes Sand | `#E2B07A` | Nur für Stichwort/CTA, max. 5 % Fläche |
+
+**Kontinuität [B]:** Bilal nutzt schon heute hellblaue Textboxen auf vielen Covern. Diese Box wird zum festen Markenelement (Frage-Karte) – vereinheitlicht in Farbe, Schrift und Position. Türkis, Schwarz, Gelb und OpusClip-Untertitel fallen weg. So wirkt der Relaunch wie eine Weiterentwicklung, nicht wie Agentur Nr. 5.
 
 **Regeln:** Hellblau nie als Textfarbe auf Weiß (zu wenig Kontrast) – Text immer Dunkelblau. Dunkle Variante (Dunkelblau + Weiß + Hellblau) für ernste/tiefe Themen, helle Variante für alles andere. Sand nur, wenn Bilal ihn mag – sonst übernimmt Dunkelblau die CTA-Funktion.
 *Warum ein optionaler warmer Ton? Reines Blau-Weiß kann klinisch wirken („Praxis“). Ein Hauch Wärme passt zu „Wärme, Herz, Umarmung“. Mit ihm abstimmen.*
@@ -346,7 +454,11 @@ Jedes Video entsteht aus einer **echten Frage an Bilal**. Die Strategie (Hook, S
 
 ---
 
-## 8. Profiloptimierung (vorläufig, ohne die aktuelle Bio gesehen zu haben)
+## 8. Profiloptimierung
+
+**Ist-Zustand und Bewertung:** siehe 2.2. Kurz: Name gut, Kategorie/Bio/Highlights/Pins austauschen.
+
+**Kategorie:** „Unternehmer/in“ → „Coach“ (bzw. passende Kategorie nach Ausbildung).
 
 **Name-Feld (durchsuchbar):** `Bilal Volkmann | Männercoaching`
 
@@ -356,14 +468,16 @@ Jedes Video entsteht aus einer **echten Frage an Bilal**. Die Strategie (Hook, S
 - **C:** „Wenn Männer heilen, wird die Welt besser. 💙 Therapeut & Männercoach · Arbeit · Gesundheit · Beziehung · Kostenloses Erstgespräch ↓“
 *„Therapeut“ nur mit korrekter, zulässiger Bezeichnung. C nur, wenn die Heilaussage geklärt ist.*
 
-**Link:** Buchungsseite mit 2–3 Vorab-Fragen *oder* direkt „Schreib mir“ (DM). Impressum über Link erreichbar machen (Anbieterkennzeichnung – rechtlich prüfen lassen).
+**Link:** Ein Hauptlink: **TidyCal** (vorhanden) mit 2–3 Vorab-Fragen. Die 3 weiteren Links nachrangig oder entfernen. Impressum über Link erreichbar machen (Anbieterkennzeichnung – rechtlich prüfen lassen).
 
 **Highlights:** 1. **Über mich** (Ausbildung, Geschichte) · 2. **Mit mir arbeiten** (Ablauf, Erstgespräch, für wen) · 3. **Stimmen** · 4. **Fragen** (Coaching vs. Therapie, online?, Dauer) · 5. **Kira & ich** (falls gewünscht)
 
 **Angepinnt:**
-1. „Warum ich mit Männern arbeite“ (Gespräch) – Vorstellung + Mission
+1. **„Typisch Mann – oder typisch Mensch?“ – Bilals Geschichte** (Neudreh im Gesprächsformat): Kind der 70er/80er, klare Rollenbilder, religiös-konservativ gelernt, der Moment der Frage → warum er heute mit Männern arbeitet. *Das Material existiert schon als OpusClip-Ausschnitt (152 Aufrufe) – der Inhalt ist stark, er muss nur mit Einstieg neu erzählt werden.*
 2. „Was man uns als Jungs beigebracht hat“ (Karussell oder Gesprächsclip) – Identifikation + Expertise
 3. „Was passiert, wenn du mir schreibst“ – Arbeitsweise + Erstgespräch
+
+**Sofort entpinnen:** rosa Hoodie-Foto, Versicherung, Zuckersteuer. Bis die neuen Pins gedreht sind, übergangsweise „9 kg weniger & Halbmarathon“ (stark, Gesundheit) und „Gefühllos“ pinnen.
 
 ---
 
@@ -487,13 +601,18 @@ Einmaliges Onboarding (Audit, Aufräumen, Relaunch, Design) als separate Positio
 |---|---|
 | Ausgebildeter Therapeut [F] | Wirkt vor der Kamera allein statisch/belehrend [F] |
 | Klare, ehrliche Mission & Werte [F] | Account durch viele Hände „verwässert“, ~20 % Nicht-Follower [F] |
-| Spontan, offen, befolgt Anweisungen [F] | Keine CI, kein Material [F] |
+| Spontan, offen, befolgt Anweisungen [F] | Keine CI; 5+ Cover-Stile, OpusClip-Clips mit Wasserzeichen [B] |
+| Spricht frei und flüssig, echte Praxisbeispiele [B] | Kommt nicht auf den Punkt, langer Anlauf, Wiederholungen [B] |
+| Eigene Ursprungsgeschichte (70er/80er, religiös-konservativ) [B] | Off-Topic: Politik, Versicherung, Nordzypern, Finanzen [B] |
+| Persönliche Geschichten erreichen nachweislich mehr (1,2–1,6 Tsd. vs. Median ~310) [B] | Bio, Kategorie, Highlights, Pins ohne Coaching-Bezug [B] |
 | Klare Farbidentität (Blau) über Kleidung [F] | Keine Website [F] |
 | Kira als mögliche zweite Perspektive [F/OFFEN] | Agentur-Müdigkeit → geringe Toleranz für „Formeln“ [F] |
 | **Chancen** | **Risiken** |
 | Weichheit als Stärke ist eine wenig besetzte Position zwischen Alpha und Esoterik [S] | Begriffe wie „toxisch“ schrecken die Zielgruppe ab [S] |
 | Gesprächsformat löst sein Kameraproblem und differenziert [S] | Heil-/Therapieaussagen rechtlich heikel [S] |
 | Partnerinnen als Teilende → Reichweite [A] | Altlasten (Bots, Ads-Follower, Empfehlungssperre) [A] |
+| Collabs mit Kira (bestes Reel war Collab) [B] | Nordzypern als möglicher zweiter Fokus verwässert die Nische [OFFEN] |
+| Hellblaue Box + Hut schon vorhanden → Kontinuität statt Bruch [B] | Konfrontative Agentur-Cover widersprechen der Haltung [B] |
 | Probe-Reels für risikoarmes Testen | Kunde verliert Vertrauen, wenn es nach Agentur Nr. 4 riecht |
 | Langes Gespräch → viele Clips (effizient) | Community-Ziel ohne gebuchtes Community-Management |
 
@@ -505,7 +624,7 @@ Einmaliges Onboarding (Audit, Aufräumen, Relaunch, Design) als separate Positio
 | 2 | Ausbildung/Bezeichnung + Kira-Rolle klären | sehr hoch | gering | 1 | Kunde | Entscheidung |
 | 3 | Profil-Relaunch (Name, Bio mit Ausbildung, Link, Highlights) | hoch | gering | 1 | 2 | Profilaufruf→Follow |
 | 4 | Baseline festhalten | hoch | gering | 1 | Zugang | Screenshot |
-| 5 | Unpassende Altbeiträge archivieren | mittel | gering | 2 | Audit | – |
+| 5 | Pins tauschen, Highlights neu, OpusClip stoppen, Off-Topic-Posts schrittweise archivieren | hoch | gering | 1 | – | Profilaufruf→Follow |
 | **30 Tage** |
 | 6 | Drehtag im Gesprächsformat | **sehr hoch** | mittel | 1 | Themenkarten | Wiedergabedauer vs. alte Reels |
 | 7 | 3 Reels + 1 Karussell/Woche | sehr hoch | hoch | 1 | 6 | Nicht-Follower-Anteil |
