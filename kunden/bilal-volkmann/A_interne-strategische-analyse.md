@@ -23,15 +23,27 @@
 ### 0.1 Offene Fragen
 **Wichtig:**
 1. **Insights** der letzten 90 Tage (Erreichte Konten Follower/Nicht-Follower, Top-Beiträge, Wiedergabedauer) + **Kontostatus** – von Bilal.
-2. **Genaue Ausbildungsbezeichnung** (Therapeut – welche Ausbildung/Heilerlaubnis?).
-3. **Kira:** Ist sie seine Frau (Kira Volkmann folgt ihm, gemeinsame Collab-Reels)? Soll sie regelmäßig vorkommen? Wie groß ist ihr Account?
-4. **Nordzypern:** Reels und eine Collab mit *nordzypern_mit_herz* – zieht er dorthin, ist das ein zweites Geschäft (z. B. Auswandern/Immobilien)? Das ist entscheidend für die Nische.
+2. **Genaue Ausbildungsbezeichnung** – nicht mehr kritisch (wir kommunizieren „therapeutischer Hintergrund“), aber für „Über mich“ hilfreich.
+3. ~~Kira~~ → geklärt (0.2a).
+4. ~~Nordzypern~~ → geklärt (0.2a). Offen nur: Zeitplan der Auswanderung, Coaching danach online?
 5. **Podcast/Interview:** Mehrere Reels sind Ausschnitte aus einer längeren Aufnahme (Mikrofon, VW-Bus-Tapete, OpusClip). Gibt es ein Podcast- oder Langvideo-Archiv? → wertvolles Rohmaterial.
 6. **Kostenfreier Workshop „Gefühle“** (Reel von vor 6 Tagen, Kommentar „GEFÜHL“): Findet er statt? Wie viele Anmeldungen kamen?
 7. **Buch:** Titel, Thema, Erscheinungsjahr – evtl. doch nutzbar (Expertenstatus).
 8. Was genau haben die Vor-Agenturen gemacht, auf welche Zielgruppe liefen die Ads?
 9. Testimonials mit Einwilligung?
 10. Vorhandene Fotos + Nutzungsrechte (das Profilbild und das Schwarz-Weiß-Foto „Haltung“ wirken professionell).
+
+### 0.2a Entscheidungen vom 12.10.2026 (mit dir abgestimmt)
+| Thema | Entscheidung | Folge |
+|---|---|---|
+| **Therapie vs. Coaching** | Sein Angebot ist **Coaching, keine Therapie**. Der therapeutische Hintergrund stützt die Glaubwürdigkeit, steht aber nicht im Vordergrund | Kommunikation: „Männercoach **mit therapeutischem Hintergrund**“ statt „Therapeut“. Keine Heil- oder Therapieversprechen. Die genaue Ausbildung trotzdem erfragen (nur für Highlight „Über mich“) |
+| **Kira** | Seine Frau, ebenfalls Coach & Therapeutin, Fokus Frauen. **Im Feed nicht wie bisher** (Collabs, Privat-Clips). In Stories ja | Kein „Er sagt, sie sagt“-Feedformat, keine Paar-Collabs |
+| **Podcast mit Kira** | Idee: **gemeinsamer Podcast, in dem sie sich gegenseitig interviewen** – die weibliche Sicht auf Männerthemen | Ideal für das Gesprächsformat: **Kira ist die Fragestellerin**, Bilal antwortet. Im Feed erscheinen **Bilals Antworten** als Clips (Kiras Frage als Text oder kurz im Ton) – er bleibt im Mittelpunkt. Erste Folge existiert evtl. schon [OFFEN] |
+| **Nordzypern** | Auswanderungsplan, **eigener zweiter Account** existiert | **Aus dem Feed raus**, keine Collabs mehr. In Stories gelegentlich mitnehmen und auf den zweiten Account verweisen |
+
+**Meine Einschätzung dazu:** Ich stimme allen vier Punkten zu. Zwei Ergänzungen:
+1. **Nordzypern ist trotzdem ein Thema für Vertrauen:** Wenn er auswandert, fragen sich Klienten früher oder später „Coacht er dann noch?“. Das gehört einmal klar ins Highlight „Mit mir arbeiten“ (online-Coaching, Erreichbarkeit) – sobald die Pläne konkret sind.
+2. **Podcast realistisch planen:** Ein Podcast ist ein zusätzliches Produkt (Aufnahme, Schnitt, Veröffentlichung auf Spotify/YouTube). Für Instagram reicht zunächst eine **monatliche Aufnahme im Podcast-Setting** (Kira fragt, 30–45 Min.), aus der du die Reels schneidest. Ob daraus ein echter Podcast wird, entscheidet sich nach 2–3 Monaten → im Plus-Paket.
 
 **Geklärt durch die Screenshots:**
 - ⚠️ „hellblauer **Fuß**“ aus der Memo = **hellblauer Hut** (Fedora). Er trägt ihn in vielen Reels → das ist das Markenzeichen. ✅
@@ -62,12 +74,12 @@
 1. **Das Hauptrisiko ist nicht der Account, sondern dass du wie Agentur Nr. 4 wirkst.** Sie wurden mehrfach in Formeln gepresst. Jede Präsentation, die nach „Funnel, Skripte, Hook-Formeln, Posting-Pflicht“ klingt, aktiviert genau diese Abwehr. Dein Verkaufsargument: **„Ich baue das System um euch herum – nicht euch in ein System.“**
 2. **Sein Problem vor der Kamera ist ein Formatproblem, kein Talentproblem.** Wer allein in eine Linse spricht, „hält einen Vortrag“ → belehrend. Wer einem Menschen antwortet, erzählt → nahbar. Lösung: **Es sitzt immer jemand hinter der Kamera und fragt** (du, Kira oder ein Freund). Das ist der wichtigste Hebel des ganzen Konzepts.
 3. **Struktur wandert vom Dreh in den Schnitt.** Er redet frei – du baust im Schnitt den Hook (stärkster Satz nach vorn), kürzt und strukturierst. Das passt perfekt zu deinem Leistungsumfang (Schnitt) und erfüllt seinen Wunsch nach Spontaneität. Die Strategie bleibt professionell, er merkt sie nur nicht.
-4. **„Ausgebildeter Therapeut“ ist das stärkste Differenzierungsmerkmal** – in einer Nische voller Coaches ohne fundierte Ausbildung. **Laut Audit kommt die Ausbildung im Profil gar nicht vor** [B].
+4. **Der therapeutische Hintergrund ist ein starkes Glaubwürdigkeitsmerkmal** – als Fundament, nicht als Angebot (entschieden 12.10.: Coaching, keine Therapie). **Laut Audit kommt die Ausbildung im Profil gar nicht vor** [B].
 5. **Sprache „toxische Männlichkeit“ ist ein Zielgruppen-Risiko.** Inhaltlich ist es sein Herzensthema – aber Männer, die er erreichen will, fühlen sich durch den Begriff oft angegriffen und scrollen weiter. Empfehlung: Das *Thema* besetzen, den *Begriff* sparsam nutzen. Lieber: „alte Muster“, „was man uns als Jungs beigebracht hat“, „Panzer“, „Rüstung“. Er beschreibt nicht, was Männer falsch machen, sondern was sie gelernt haben – Verantwortung ohne Schuld.
 6. **„Männer heilen“ ist eine kraftvolle Mission, aber ein rechtliches Feld.** Ob Heilaussagen zulässig sind, hängt von der Ausbildung/Heilerlaubnis ab (siehe 3.5).
 7. **Qualität vor Quantität ist strategisch richtig** – und muss sich im Content zeigen: Inhalte, die **filtern** („für wen das nichts ist“), Tiefe statt Masse, ein Anfrageweg mit leichter Vorqualifizierung.
 8. **20 % Nicht-Follower bei viel „Mitmischen“** deutet auf [A]: Inhalte, die nur für die bestehende Community funktionieren; fehlende Einstiege; evtl. Altlasten (Bot-Follower, Richtlinienverstöße, Ads-Follower ohne Interesse, die die Engagement-Rate drücken). → Woche 0 Diagnose.
-9. **Kira ist ein unterschätztes Asset** [S/OFFEN]: Mann-Frau-Perspektive, natürliche Gesprächspartnerin hinter der Kamera, und Partnerinnen sind ein wichtiger Teil der Reichweite (teilen Inhalte an Männer). Nur wenn sie will.
+9. **Kiras Rolle (entschieden 12.10.):** nicht als Co-Star im Feed, sondern als **Fragestellerin im Podcast-Setting** und in Stories. Damit löst sie Bilals Kameraproblem, ohne die Positionierung „Männercoach“ zu verwässern.
 
 ### 1.3 Widersprüche & Spannungsfelder
 | Wunsch | Spannung | Lösung [E] |
@@ -80,7 +92,7 @@
 | „Ich befolge Anweisungen“ vs. „kein Raster“ | Scheinbar widersprüchlich | Er will **klare, kurze Ansagen** („Dreh dazu was“), aber keine **Formeln** zum Auswendiglernen. Also: Regie ja, Skript nein |
 
 ### 1.4 Kundenprofil
-> Bilal Volkmann ist ausgebildeter Therapeut und begleitet Männer im 1:1-Coaching in den Bereichen Arbeit, Gesundheit und Beziehungen. Gemeinsam mit Kira, die sich auf Frauen konzentriert, steht er für eine Arbeit mit Tiefe und Integrität: alte Glaubenssätze lösen, Männern ihre weiche Seite zurückgeben, Begleitung bis zu echten Ergebnissen – ohne Kurse, ohne Skalierungsdruck, ohne falsche Versprechen. Er ist spontan, offen und warm; vor der Kamera blüht er im Gespräch auf und erstarrt bei Skripten. Nach mehreren Agenturen, die ihn in Formeln gepresst haben, und rund 10.000 € Werbebudget ohne passende Anfragen sucht er einen organischen, persönlichen Weg, der wieder Menschen außerhalb seiner Community erreicht und die *richtigen* Männer anzieht.
+> Bilal Volkmann ist Coach mit therapeutischem Hintergrund und begleitet Männer im 1:1-Coaching in den Bereichen Arbeit, Gesundheit und Beziehungen. Gemeinsam mit Kira, die sich auf Frauen konzentriert, steht er für eine Arbeit mit Tiefe und Integrität: alte Glaubenssätze lösen, Männern ihre weiche Seite zurückgeben, Begleitung bis zu echten Ergebnissen – ohne Kurse, ohne Skalierungsdruck, ohne falsche Versprechen. Er ist spontan, offen und warm; vor der Kamera blüht er im Gespräch auf und erstarrt bei Skripten. Nach mehreren Agenturen, die ihn in Formeln gepresst haben, und rund 10.000 € Werbebudget ohne passende Anfragen sucht er einen organischen, persönlichen Weg, der wieder Menschen außerhalb seiner Community erreicht und die *richtigen* Männer anzieht.
 
 ---
 
@@ -209,7 +221,7 @@ Nicht beurteilbar ohne Kommentare/Insights. Sichtbar: *peter_giesen_official* un
 | Positionierung | Bestätigt. Neu belegt: seine **eigene Geschichte** (Kind der 70er/80er, religiös-konservativ, klare Rollenbilder → „typisch Mann oder typisch Mensch?“) wird Kern von Pin #1 |
 | Themen | „Übernommene Ziele“ und „Typisch Mann/Frau oder Mensch?“ als Serien-Kandidaten – Inhalt war stark, nur die Verpackung schwach |
 | Gesundheit-Säule | Halbmarathon/9 kg als Beweisgeschichte aktiv nutzen |
-| Kira | Collabs gezielt einsetzen (wenn sie will) – das erfolgreichste Reel war eine Collab |
+| Kira | Nicht mehr im Feed wie bisher; stattdessen Fragestellerin im Podcast-Setting (entschieden 12.10.) |
 | Schnitt | OpusClip ersetzen durch manuellen Schnitt mit Hook-Bau; Wiederholungen kürzen |
 | Design | Hellblaue Textbox **beibehalten** und systematisieren statt neu erfinden |
 | Profil | Kategorie, Bio, Highlights, Pins sofort umbauen |
@@ -225,13 +237,13 @@ Durch die Memo nicht mehr offen: **Männer, die mit alten Mustern aufgewachsen s
 
 ### 3.2 Positionierung
 **Ein Satz (Arbeitsversion):**
-> Bilal ist Therapeut und Coach für Männer, die gelernt haben, stark zu sein – und jetzt lernen wollen, echt zu sein: im Job, im Körper, in der Liebe.
+> Bilal ist Coach für Männer mit therapeutischem Hintergrund – für Männer, die gelernt haben, stark zu sein – und jetzt lernen wollen, echt zu sein: im Job, im Körper, in der Liebe.
 
 **Alternativen zum Testen:**
 - „Ich helfe Männern, den Panzer abzulegen, den sie nie bestellt haben.“
 - „Männercoaching mit therapeutischer Tiefe – für Männer, die nicht mehr nur funktionieren wollen.“
 
-**Ausführlich:** Bilal Volkmann ist ausgebildeter Therapeut und begleitet Männer, die mit Sätzen wie „Jungs weinen nicht“ oder „Reiß dich zusammen“ groß geworden sind – und merken, dass diese Sätze sie heute im Job, in ihrer Gesundheit und in ihren Beziehungen ausbremsen. Er spricht mit Männern wie ein guter Freund: offen, warm, ehrlich, manchmal humorvoll, nie belehrend. Seine Überzeugung: Wenn Männer heilen, wird die Welt ein besserer Ort. Er arbeitet bewusst 1:1 und begleitet bis zu echten Veränderungen – statt Kurse zu verkaufen und schnell zu skalieren.
+**Ausführlich:** Bilal Volkmann ist Coach mit therapeutischem Hintergrund und begleitet Männer, die mit Sätzen wie „Jungs weinen nicht“ oder „Reiß dich zusammen“ groß geworden sind – und merken, dass diese Sätze sie heute im Job, in ihrer Gesundheit und in ihren Beziehungen ausbremsen. Er spricht mit Männern wie ein guter Freund: offen, warm, ehrlich, manchmal humorvoll, nie belehrend. Seine Überzeugung: Wenn Männer heilen, wird die Welt ein besserer Ort. Er arbeitet bewusst 1:1 und begleitet bis zu echten Veränderungen – statt Kurse zu verkaufen und schnell zu skalieren.
 
 **Markenversprechen (Entwurf):** *„Du musst nicht mehr stark tun. Du darfst echt sein – und wirst gerade dadurch stark.“*
 
@@ -309,7 +321,7 @@ In Deutschland ist Werbung mit Heilung/Behandlung psychischer Beschwerden an ein
 - **Walk & Talk:** Bewegung macht Sprechen natürlicher.
 - **Ehrliche Momente:** Ein Satz, der hängen bleibt, ohne Inszenierung.
 
-**Hypothesen zum Testen:** Gesprächsformat schlägt Solo-Talking-Head bei Wiedergabedauer und Kommentaren · Kindheitssätze als Einstieg erhöhen Nicht-Follower-Reichweite · Clips mit Kira werden häufiger geteilt.
+**Hypothesen zum Testen:** Gesprächsformat schlägt Solo-Talking-Head bei Wiedergabedauer und Kommentaren · Kindheitssätze als Einstieg erhöhen Nicht-Follower-Reichweite · „Kira fragt“-Clips werden häufiger geteilt.
 
 **Probe-Reels (Trial Reels):** Reels zuerst nur Nicht-Followern zeigen → ideal, um Einstiege zu testen, ohne die Community mit Experimenten zu „stören“, und direkt messbar gegen die 20 %-Baseline. Verfügbarkeit prüfen.
 
@@ -325,8 +337,8 @@ In Deutschland ist Werbung mit Heilung/Behandlung psychischer Beschwerden an ein
 | 5 | Leistung & Selbstwert | Arbeit | „Warum fühlen sich so viele Männer nur wertvoll, wenn sie leisten?“ | Gespräch | Save | Expertise |
 | 6 | Körper ignorieren | Gesundheit | „Warum gehen Männer erst zum Arzt, wenn's zu spät ist?“ | Gespräch, Humor möglich | Share | Reichweite |
 | 7 | Streit & Rückzug | Beziehung | „Was passiert in einem Mann, wenn er im Streit dichtmacht?“ | Gespräch | Save, Share (Partnerin) | Expertise |
-| 8 | Bilal & Kira | Beziehung | „Kira, was wünschst du dir, dass Männer verstehen?“ / „Bilal, was wünschst du dir, dass Frauen verstehen?“ | Dialog | Shares | Reichweite, Differenzierung [OFFEN] |
-| 9 | Therapeut vs. Coach | – | „Du bist Therapeut – warum nennst du es Coaching?“ | Gespräch | Profilbesuch | Vertrauen [Inhalt abhängig von Ausbildung] |
+| 8 | Kira fragt | Beziehung | Kira: „Was sollten Frauen über Männer verstehen, das ihr nie sagt?“ | Podcast-Clip, Bilal im Fokus | Shares | Reichweite, Differenzierung |
+| 9 | Coaching vs. Therapie | – | „Du hast einen therapeutischen Hintergrund – warum machst du Coaching?“ | Gespräch | Profilbesuch | Vertrauen, klare Abgrenzung |
 | 10 | Für wen nicht | – | „Für wen ist dein Coaching nichts?“ | Gespräch | Filtert, qualifiziert | Passende Anfragen |
 | 11 | Erstgespräch | – | „Was passiert, wenn mir ein Mann schreibt?“ | Gespräch + Karussell | Keyword-DM | Conversion |
 | 12 | Keine Kurse | – | „Warum verkaufst du keinen Onlinekurs?“ | Gespräch | Vertrauen, Kommentar | Positionierung, Integrität |
@@ -355,7 +367,7 @@ Jedes Video entsteht aus einer **echten Frage an Bilal**. Die Strategie (Hook, S
 | **1 „Was man uns beigebracht hat“** – alte Sätze, alte Muster | Reichweite, Identifikation | Gesprächsclips, Kindheitssätze, Fragen an Männer | „Indianer kennen keinen Schmerz“, Umarmungen, Weinen | Aufmerksamkeit |
 | **2 „Arbeit · Körper · Liebe“** – das Muster im Alltag | Expertise, Saves | Gesprächsclips mit Tiefe, Karussells | Leistung & Selbstwert, Arzt meiden, Rückzug im Streit | Interesse |
 | **3 „Weich ist stark“** – Bilals Haltung & Mission | Positionierung, Abgrenzung | freie Erzählungen, Klartext | Weichheit, toxische Muster (dosiert), keine Kurse | Vertrauen |
-| **4 „Bilal (& Kira) privat“** – der Mensch | Nahbarkeit | Stories, BTS, Dialoge mit Kira | Warum Männer, eigene Erfahrungen, Alltag | Vertrauen |
+| **4 „Bilal privat“** – der Mensch | Nahbarkeit | Stories, BTS (Kira & Nordzypern nur in Stories) | Warum Männer, eigene Erfahrungen, Alltag | Vertrauen |
 | **5 „Gemeinsam gehen“** – so arbeitet er | Passende Anfragen | Gespräch, Karussell, Highlights | Erstgespräch, Ausbildung, „für wen nicht“, Begleitung bis Ergebnis | Entscheidung |
 
 ### 6.3 Content-Mix (Startannahme)
@@ -365,7 +377,7 @@ Jedes Video entsteht aus einer **echten Frage an Bilal**. Die Strategie (Hook, S
 ### 6.4 Serien
 1. **„Was man uns beigebracht hat“** – ein Kindheitssatz pro Folge, Bilal ordnet ihn ein.
 2. **„Unter Männern“** – Fragen, die Männer sich nie stellen; Bilal antwortet (später: andere Männer antworten).
-3. **„Er sagt, sie sagt“** – Bilal & Kira zu einem Beziehungsthema [nur wenn Kira mag].
+3. **„Kira fragt“** – Clips aus dem gemeinsamen Podcast-Gespräch: Kira stellt die Frage aus Frauensicht, Bilal antwortet. Im Bild/Fokus ist Bilal.
 4. **„Frag Bilal“** – Fragen aus Stories/DMs.
 5. **„Aus dem Herzen“** – ungeschnittene, ruhige 60-Sekunden-Gedanken (selten, 1×/Monat; wirkt gerade durch das Fehlen von Schnitttricks).
 6. **„Typisch Mann – oder typisch Mensch?“** – ein Rollenbild pro Folge (aus dem Audit: stärkster Inhalt, bisher schlecht verpackt).
@@ -448,7 +460,7 @@ Jedes Video entsteht aus einer **echten Frage an Bilal**. Die Strategie (Hook, S
 7. **Gedanke/Zitat:** Hellblau-Fläche, Satz in Fraunces Dunkelblau, kleine Wortmarke.
 8. **Highlights:** Hellblaue Kreise, dunkelblaue Linien-Icons.
 
-**Wortmarke:** „Bilal Volkmann“ in Fraunces, darunter „Männercoaching · Therapeut“ (Bezeichnung nach Klärung der Ausbildung) in Inter.
+**Wortmarke:** „Bilal Volkmann“ in Fraunces, darunter „Männercoaching“ in Inter.
 
 **Konsistenz:** Jede Grafik = Off-White *oder* Dunkelblau als Basis + Hellblau als Kennung + Fraunces-Headline. Reels sehen unterschiedlich aus (Orte, Licht), aber **Cover, Untertitel und Frage-Karte sind immer gleich.**
 
@@ -463,14 +475,14 @@ Jedes Video entsteht aus einer **echten Frage an Bilal**. Die Strategie (Hook, S
 **Name-Feld (durchsuchbar):** `Bilal Volkmann | Männercoaching`
 
 **Bio-Varianten (≤150 Zeichen):**
-- **A:** „Therapeut & Coach für Männer 💙 Alte Muster lösen – im Job, im Körper, in der Liebe. 1:1 · Schreib mir ‚GESPRÄCH‘ ↓“
-- **B:** „Für Männer, die gelernt haben, stark zu sein – und jetzt echt sein wollen. Therapeut · 1:1-Begleitung 💙 Erstgespräch ↓“
-- **C:** „Wenn Männer heilen, wird die Welt besser. 💙 Therapeut & Männercoach · Arbeit · Gesundheit · Beziehung · Kostenloses Erstgespräch ↓“
-*„Therapeut“ nur mit korrekter, zulässiger Bezeichnung. C nur, wenn die Heilaussage geklärt ist.*
+- **A:** „Männercoach mit therapeutischem Hintergrund 💙 Alte Muster lösen – im Job, im Körper, in der Liebe. 1:1 · Schreib mir ‚GESPRÄCH‘ ↓“
+- **B:** „Für Männer, die gelernt haben, stark zu sein – und jetzt echt sein wollen. Coach mit therapeutischem Hintergrund · 1:1 💙 Erstgespräch ↓“
+- **C:** „Wenn Männer heilen, wird die Welt besser. 💙 Männercoach · therapeutischer Hintergrund · Arbeit · Gesundheit · Beziehung · Kostenloses Erstgespräch ↓“
+*„Heilen“ in C nur als Mission/Haltung, nie als Leistungsversprechen – sein Angebot ist Coaching, keine Therapie.*
 
 **Link:** Ein Hauptlink: **TidyCal** (vorhanden) mit 2–3 Vorab-Fragen. Die 3 weiteren Links nachrangig oder entfernen. Impressum über Link erreichbar machen (Anbieterkennzeichnung – rechtlich prüfen lassen).
 
-**Highlights:** 1. **Über mich** (Ausbildung, Geschichte) · 2. **Mit mir arbeiten** (Ablauf, Erstgespräch, für wen) · 3. **Stimmen** · 4. **Fragen** (Coaching vs. Therapie, online?, Dauer) · 5. **Kira & ich** (falls gewünscht)
+**Highlights:** 1. **Über mich** (Ausbildung, Geschichte) · 2. **Mit mir arbeiten** (Ablauf, Erstgespräch, für wen) · 3. **Stimmen** · 4. **Fragen** (Coaching vs. Therapie, online?, Dauer) 
 
 **Angepinnt:**
 1. **„Typisch Mann – oder typisch Mensch?“ – Bilals Geschichte** (Neudreh im Gesprächsformat): Kind der 70er/80er, klare Rollenbilder, religiös-konservativ gelernt, der Moment der Frage → warum er heute mit Männern arbeitet. *Das Material existiert schon als OpusClip-Ausschnitt (152 Aufrufe) – der Inhalt ist stark, er muss nur mit Einstieg neu erzählt werden.*
@@ -489,7 +501,7 @@ Jedes Video entsteht aus einer **echten Frage an Bilal**. Die Strategie (Hook, S
 1. 15 Min. lockeres Warmwerden (nicht aufgenommen bzw. nur Ton)
 2. Block A (60 Min., sitzend): 12–15 Fragen, du fragst, er antwortet. Gerne zweimal dieselbe Frage („Erzähl's mir nochmal, als wäre ich dein Kumpel“).
 3. Block B (30 Min., Walk & Talk draußen): 4–5 Fragen.
-4. Block C (30 Min., optional mit Kira): 3–4 Dialogthemen.
+4. Block C (30–45 Min., **Podcast-Setting mit Kira als Fragestellerin**): 5–6 Fragen aus Frauensicht.
 5. 20 Min. B-Roll + Fotos (Profilbild, Cover-Standbilder, Highlights).
 → Ergebnis: Material für ~4–6 Wochen.
 
@@ -506,7 +518,7 @@ Jedes Video entsteht aus einer **echten Frage an Bilal**. Die Strategie (Hook, S
 | W2 Do | Keine Kurse | 3 | Reel | Positionierung | „Warum verkaufst du keinen Onlinekurs?“ | Begleitung bis Ergebnis | ehrliche Antwort, ruhig | Kommentar | Sitzend, dunkle Cover-Variante |
 | W2 Sa | Dichtmachen im Streit | 2 | Karussell | Saves, Shares | „Was in einem Mann passiert, wenn er im Streit dichtmacht“ | Rückzug = Schutz | 5 Slides | „Schick's jemandem“ | Off-White |
 | W3 Mo | Arzt meiden | 1/2 | Reel | Reichweite | „Warum gehen Männer erst zum Arzt, wenn's zu spät ist?“ | Körper = Signal | mit Humor einsteigen → ernst werden | Teilen | Walk & Talk |
-| W3 Mi | Er sagt, sie sagt | 4/2 | Reel-Dialog | Shares | „Was wünscht ihr euch, dass das andere Geschlecht versteht?“ | zwei Perspektiven | Ping-Pong-Schnitt | Partnerin markieren | Bilal & Kira [falls ja] |
+| W3 Mi | Kira fragt #1 | 2 | Podcast-Clip | Shares | Kira: „Warum sagt ihr Männer ‚passt schon‘, wenn gar nichts passt?“ | Rückzug ist Schutz | Kiras Frage als Text → Bilals Antwort | „Schick's einem Mann“ | Podcast-Setting, Bilal im Fokus |
 | W3 Do | Frag Bilal #1 | 2/5 | Reel | Community | Frage aus Story-Fragebox | – | Frage-Screenshot → Antwort | Fragebox | Sitzend |
 | W3 Sa | Weich ist stark | 3 | Reel | Positionierung | „Was meinst du, wenn du sagst, Männer sollen weicher werden?“ | Weichheit = Mut | Missverständnis → Bedeutung | Folgen | Dunkle Variante |
 | W4 Mo | Kindheitssatz #2 | 1 | Reel | Reichweite | „‚Reiß dich zusammen.‘“ | – | wie #1 | Kommentar | Serie |
@@ -533,7 +545,7 @@ Jedes Video entsteht aus einer **echten Frage an Bilal**. Die Strategie (Hook, S
 Die letzte Zeile ist bei diesem Kunden die wichtigste, weil sie den Unterschied zu den 10.000 € „toten Leads“ messbar macht. Bilal/Kira tracken nach jedem Erstgespräch: Quelle + „passt?“.
 
 **Reporting:** wöchentlich intern (Top/Flop nach Nicht-Follower-Anteil + Wiedergabedauer); monatlich 1 Seite für den Kunden (Entwicklung vs. Baseline, 3 Learnings, 3 Anpassungen) – bewusst kurz, nicht agenturhaft.
-**Testen (eine Variable):** Einstieg (Frage als Text vs. vorgezogener Satz) · Gespräch vs. Solo · sitzend vs. Walk & Talk · mit/ohne Kira · Länge.
+**Testen (eine Variable):** Einstieg (Frage als Text vs. vorgezogener Satz) · Gespräch vs. Solo · sitzend vs. Walk & Talk · Podcast-Setting vs. Selfie · Länge.
 **Regeln:** Überdurchschnittlicher Nicht-Follower-Anteil → Variante/Fortsetzung in 2 Wochen. Serie 3× unter Durchschnitt → umbauen, 5× → einstellen.
 **Erwartung:** Erste Muster nach 4–6 Wochen; stabile passende Anfragen eher nach 2–3 Monaten. Keine Garantie – und das passt zu ihren eigenen Werten („keine falschen Versprechen“).
 
@@ -564,7 +576,7 @@ Die letzte Zeile ist bei diesem Kunden die wichtigste, weil sie den Unterschied 
 | Kommentare + DMs selbst beantworten | zwingend |
 | Erstgespräche: Quelle + „passt?“ notieren | zwingend |
 | Stories 3–5×/Woche | empfohlen |
-| Kira in Dialogformaten | optional |
+| Kira als Fragestellerin bei der monatlichen Podcast-Aufnahme | empfohlen |
 | Einwilligungen bei Klienten-Geschichten | abhängig |
 
 ### 11.3 Umfangsempfehlung / Paketstruktur (ohne Preise – die setzt du)
@@ -606,12 +618,12 @@ Einmaliges Onboarding (Audit, Aufräumen, Relaunch, Design) als separate Positio
 | Eigene Ursprungsgeschichte (70er/80er, religiös-konservativ) [B] | Off-Topic: Politik, Versicherung, Nordzypern, Finanzen [B] |
 | Persönliche Geschichten erreichen nachweislich mehr (1,2–1,6 Tsd. vs. Median ~310) [B] | Bio, Kategorie, Highlights, Pins ohne Coaching-Bezug [B] |
 | Klare Farbidentität (Blau) über Kleidung [F] | Keine Website [F] |
-| Kira als mögliche zweite Perspektive [F/OFFEN] | Agentur-Müdigkeit → geringe Toleranz für „Formeln“ [F] |
+| Kira als Fragestellerin im Podcast-Format [F] | Agentur-Müdigkeit → geringe Toleranz für „Formeln“ [F] |
 | **Chancen** | **Risiken** |
 | Weichheit als Stärke ist eine wenig besetzte Position zwischen Alpha und Esoterik [S] | Begriffe wie „toxisch“ schrecken die Zielgruppe ab [S] |
 | Gesprächsformat löst sein Kameraproblem und differenziert [S] | Heil-/Therapieaussagen rechtlich heikel [S] |
 | Partnerinnen als Teilende → Reichweite [A] | Altlasten (Bots, Ads-Follower, Empfehlungssperre) [A] |
-| Collabs mit Kira (bestes Reel war Collab) [B] | Nordzypern als möglicher zweiter Fokus verwässert die Nische [OFFEN] |
+| Podcast-Setting mit Kira als Content-Quelle [F] | Auswanderung nach Nordzypern: Klienten-Verunsicherung, wenn nicht erklärt [S] |
 | Hellblaue Box + Hut schon vorhanden → Kontinuität statt Bruch [B] | Konfrontative Agentur-Cover widersprechen der Haltung [B] |
 | Probe-Reels für risikoarmes Testen | Kunde verliert Vertrauen, wenn es nach Agentur Nr. 4 riecht |
 | Langes Gespräch → viele Clips (effizient) | Community-Ziel ohne gebuchtes Community-Management |
@@ -621,7 +633,7 @@ Einmaliges Onboarding (Audit, Aufräumen, Relaunch, Design) als separate Positio
 |---|---|---|---|---|---|---|
 | **Quick Wins (7 Tage)** |
 | 1 | Sicherheits-/Aufräum-Check, Kontostatus | sehr hoch | gering | 1 | Zugang | Status, entfernte Zugänge |
-| 2 | Ausbildung/Bezeichnung + Kira-Rolle klären | sehr hoch | gering | 1 | Kunde | Entscheidung |
+| 2 | ~~Kira-Rolle, Nordzypern~~ geklärt; Ausbildung für „Über mich“ erfragen | mittel | gering | 2 | Kunde | – |
 | 3 | Profil-Relaunch (Name, Bio mit Ausbildung, Link, Highlights) | hoch | gering | 1 | 2 | Profilaufruf→Follow |
 | 4 | Baseline festhalten | hoch | gering | 1 | Zugang | Screenshot |
 | 5 | Pins tauschen, Highlights neu, OpusClip stoppen, Off-Topic-Posts schrittweise archivieren | hoch | gering | 1 | – | Profilaufruf→Follow |
@@ -633,7 +645,7 @@ Einmaliges Onboarding (Audit, Aufräumen, Relaunch, Design) als separate Positio
 | **90 Tage** |
 | 10 | Serien nach Daten ausbauen | hoch | mittel | 1 | 7 | Serienwerte |
 | 11 | Langformat-Gespräch (Podcast) als Content-Quelle | hoch | mittel | 2 | Kundenwunsch | Clips/Aufnahme |
-| 12 | Dialogformat mit Kira | mittel–hoch | gering | 2 | Kira | Shares |
+| 12 | Podcast-Aufnahme mit Kira (monatlich) → ggf. echter Podcast | hoch | mittel | 2 | Kira | Clips/Aufnahme, Shares |
 | 13 | Stimmen/Ergebnisse sammeln | hoch | mittel | 2 | Einwilligung | Conversion |
 | 14 | Einfache Website/Landingpage | mittel | mittel | 3 | – | – |
 

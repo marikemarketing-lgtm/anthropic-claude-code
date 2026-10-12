@@ -2,12 +2,10 @@
 **Männercoaching mit therapeutischer Tiefe – echt, warm, im Gespräch**
 *Konzeptvorschlag · Entwurf zur gemeinsamen Abstimmung*
 
-> **Hinweis für dich (vor dem Versand entfernen):** Noch offen sind nur noch die [ ]-Stellen: genaue Ausbildungsbezeichnung und Rolle von Kira. Account-Check ist eingearbeitet (Kap. 2).
-
 ---
 
 ## 1. Wo du gerade stehst
-Du hast eine klare Mission: **Wenn Männer heilen, wird die Welt ein besserer Ort.** Du bist ausgebildeter Therapeut, arbeitest bewusst 1:1 und begleitest Männer, bis sich wirklich etwas verändert. Du willst keine Kurse verkaufen und keine falschen Versprechen machen. Das ist selten – und genau das macht dich glaubwürdig.
+Du hast eine klare Mission: **Wenn Männer heilen, wird die Welt ein besserer Ort.** Du bringst einen therapeutischen Hintergrund mit, arbeitest bewusst 1:1 und begleitest Männer, bis sich wirklich etwas verändert. Du willst keine Kurse verkaufen und keine falschen Versprechen machen. Das ist selten – und genau das macht dich glaubwürdig.
 
 Gleichzeitig hast du schon einiges erlebt: mehrere Agenturen, die dich in Formeln und Skripte gepresst haben, rund 10.000 € für Werbung, die keine passenden Anfragen gebracht hat, und einen Account, an dem viele Hände gearbeitet haben. Heute erreichen deine Inhalte nur noch zu etwa 20 % Menschen, die dir noch nicht folgen.
 
@@ -40,16 +38,15 @@ Ich habe mir dein Profil und deine Reels genau angesehen: Bio, Highlights, 36 Re
 4. **Eine Community, die dich versteht** und deine Inhalte weitergibt.
 
 ## 4. Was dich besonders macht
-- **Du bist ausgebildeter Therapeut.** [ ] *genaue Bezeichnung* In einer Nische voller Coaches ohne fundierte Ausbildung ist das ein echtes Fundament.
+- **Du hast einen therapeutischen Hintergrund.** Dein Angebot ist Coaching – aber dein Verständnis für Psychologie gibt ihm ein Fundament, das viele Coaches nicht haben.
 - **Du stehst für Weichheit als Stärke.** Zwischen „Alpha“-Härte und abgehobener Spiritualität ist kaum jemand so klar in der Mitte wie du.
 - **Du arbeitest mit Integrität:** 1:1, ohne Kurs-Funnel, bis Ergebnisse da sind.
 - **Du bist spontan und offen** – im Gespräch kommt deine Wirkung am stärksten rüber.
 - **Blau ist deine Farbe – und der hellblaue Hut dein Markenzeichen.** Daraus machen wir deinen Wiedererkennungswert.
 - **Deine eigene Geschichte:** als Kind der 70er/80er mit klaren Rollenbildern und religiös-konservativen Werten aufgewachsen – und irgendwann die Frage: Ist das typisch Mann oder typisch Mensch? Genau diese Geschichte macht dich für Männer glaubwürdig.
-- **Kira** [ ] *– falls gewünscht: eine zweite Perspektive, die Männer- und Frauensicht zusammenbringt.*
 
 ## 5. Deine Positionierung
-> **Therapeut und Coach für Männer, die gelernt haben, stark zu sein – und jetzt lernen wollen, echt zu sein: im Job, im Körper, in der Liebe.**
+> **Coach mit therapeutischem Hintergrund – für Männer, die gelernt haben, stark zu sein – und jetzt lernen wollen, echt zu sein: im Job, im Körper, in der Liebe.**
 
 **Was hängen bleiben soll:**
 - Die Sätze, die man dir als Junge beigebracht hat, laufen heute noch in dir.
@@ -76,7 +73,7 @@ Du hast gesagt: Skripte machen dich statisch, und alles soll wie ein Gespräch u
 
 **So funktioniert es:**
 - **Du bekommst keine Skripte**, sondern Themenkarten: eine Frage und zwei, drei Stichpunkte.
-- **Hinter der Kamera sitzt immer jemand, der dich fragt** – ich, Kira oder ein Freund. Du antwortest einem Menschen, nicht einer Linse.
+- **Hinter der Kamera sitzt immer jemand, der dich fragt** – ich, ein Freund oder im Podcast-Format Kira. Du antwortest einem Menschen, nicht einer Linse.
 - **Die Struktur entsteht im Schnitt.** Ich suche den stärksten Satz, setze ihn an den Anfang, kürze und baue das Video so, dass es auch Fremde in den ersten Sekunden abholt.
 - **Du darfst frei reden, abschweifen, lachen, neu anfangen.** Alles andere ist mein Job.
 
@@ -86,13 +83,13 @@ Du hast gesagt: Skripte machen dich statisch, und alles soll wie ein Gespräch u
 1. **„Was man uns beigebracht hat“** – Sätze und Muster aus der Kindheit → *damit neue Männer sich wiedererkennen*
 2. **„Arbeit · Körper · Liebe“** – wie diese Muster heute im Alltag wirken → *damit man dich als Experten erlebt*
 3. **„Weich ist stark“** – deine Haltung und Mission → *damit klar ist, wofür du stehst*
-4. **„Bilal privat“** (& Kira) – der Mensch hinter dem Therapeuten → *damit Vertrauen entsteht*
+4. **„Bilal privat“** – der Mensch hinter dem Coach → *damit Vertrauen entsteht*
 5. **„Gemeinsam gehen“** – wie du arbeitest, für wen es passt → *damit die richtigen Männer anfragen*
 
 ## 9. Wiederkehrende Formate
 - **„Was man uns beigebracht hat“** – ein Kindheitssatz pro Folge, du ordnest ihn ein.
 - **„Unter Männern“** – Fragen, die Männer sich selten stellen. Du antwortest ehrlich.
-- **„Er sagt, sie sagt“** – du und Kira zu einem Beziehungsthema. [ ] *falls gewünscht*
+- **„Kira fragt“** – Ausschnitte aus einem gemeinsamen Gespräch im Podcast-Stil: Kira stellt Fragen aus weiblicher Sicht, du antwortest. Im Feed stehst du im Mittelpunkt.
 - **„Frag Bilal“** – du beantwortest Fragen aus deiner Community.
 - **„Typisch Mann – oder typisch Mensch?“** – ein Rollenbild pro Folge, dein Herzensthema.
 - **„Wessen Ziel ist das?“** – übernommene Ziele von Vater, Schule und Gesellschaft.
@@ -130,15 +127,15 @@ Du hast gesagt: Skripte machen dich statisch, und alles soll wie ein Gespräch u
 **Name:** Bilal Volkmann | Männercoaching
 
 **Bio-Vorschlag:**
-> Therapeut & Coach für Männer 💙
+> Männercoach mit therapeutischem Hintergrund 💙
 > Alte Muster lösen – im Job, im Körper, in der Liebe.
 > 1:1 · Schreib mir „GESPRÄCH“ ↓
 
-**Highlights:** Über mich · Mit mir arbeiten · Stimmen · Fragen · [ ] Kira & ich
+**Highlights:** Über mich · Mit mir arbeiten · Stimmen · Fragen
 **Kategorie:** „Coach“ statt „Unternehmer/in“.
 **Link:** dein TidyCal-Link als Hauptlink, ergänzt um zwei, drei kurze Vorab-Fragen.
 **Drei angepinnte Beiträge:** „Typisch Mann – oder typisch Mensch?“ (deine Geschichte, neu erzählt) · Was man uns als Jungs beigebracht hat · Was passiert, wenn du mir schreibst
-*Versicherung, Zuckersteuer und das rosa Hoodie-Foto nehmen wir aus den angepinnten Plätzen. Themen wie Politik, Versicherung oder Nordzypern wandern in die Stories oder fallen weg – gelöscht wird nichts, wir archivieren Schritt für Schritt.*
+*Versicherung, Zuckersteuer und das rosa Hoodie-Foto nehmen wir aus den angepinnten Plätzen. Politik und Versicherung fallen weg. Nordzypern bekommt seinen Platz auf deinem eigenen Nordzypern-Account – in deinen Stories kannst du die Menschen trotzdem gern mitnehmen und darauf verweisen – gelöscht wird nichts, wir archivieren Schritt für Schritt.*
 
 **Der Weg zu dir – für die Richtigen:** Statt eines Buchungsknopfs, über den jeder bucht, schreibt dir ein Mann zuerst eine kurze Nachricht. Du stellst zwei, drei persönliche Fragen – und merkst sofort, ob die Energie stimmt. So kommen weniger, aber passende Gespräche zustande.
 
@@ -152,9 +149,8 @@ Du hast gesagt: Skripte machen dich statisch, und alles soll wie ein Gespräch u
 
 **Nice to have:**
 - Karussells (1/Woche) für Tiefe und Speichern
-- Dialogformate mit Kira
 - Probe-Reels, die nur Nicht-Followern gezeigt werden – zum Testen ohne Risiko
-- Ein längeres Gespräch (Podcast-Stil), aus dem viele kurze Clips entstehen
+- **Ein gemeinsames Podcast-Format mit Kira**, in dem ihr euch gegenseitig interviewt – zum Start als monatliche Aufnahme, aus der viele kurze Clips entstehen; später vielleicht ein eigener Podcast
 - Später: eine einfache Website
 
 **Lieber nicht:**
@@ -164,13 +160,13 @@ Du hast gesagt: Skripte machen dich statisch, und alles soll wie ein Gespräch u
 - Tricks wie gekaufte Follower, Automatisierung oder künstliche Verknappung
 
 ## 13. Die ersten 30 Tage
-**Vorbereitung (Woche 0):** Account-Check und Aufräumen · Ausgangswerte festhalten · Profil neu · **Drehtag** (ca. 3–4 Stunden: Gespräch im Sitzen, Walk & Talk draußen, optional mit Kira, Fotos für Profil und Cover). Ergebnis: Material für 4–6 Wochen.
+**Vorbereitung (Woche 0):** Account-Check und Aufräumen · Ausgangswerte festhalten · Profil neu · **Drehtag** (ca. 3–4 Stunden: Gespräch im Sitzen, Walk & Talk draußen, Podcast-Gespräch mit Kira, Fotos für Profil und Cover). Ergebnis: Material für 4–6 Wochen.
 
 | Woche | Fokus | Beispiele |
 |---|---|---|
 | 1 | Wer du bist | „Warum ich mit Männern arbeite“ · Kindheitssätze · Umarmen · „Was passiert, wenn du mir schreibst“ |
 | 2 | Neue Männer erreichen | „Jungs weinen nicht“ · Leistung & Selbstwert · „Warum ich keine Kurse verkaufe“ · Dichtmachen im Streit |
-| 3 | Tiefe & Austausch | Männer & Arztbesuche · Er sagt, sie sagt · Frag Bilal · „Weich ist stark“ |
+| 3 | Tiefe & Austausch | Männer & Arztbesuche · Kira fragt · Frag Bilal · „Weich ist stark“ |
 | 4 | Die Richtigen anziehen | „Reiß dich zusammen“ · Feierabend-Panzer · „Für wen mein Coaching nichts ist“ · Aus dem Herzen |
 
 ## 14. Wie wir sehen, ob es wirkt
@@ -199,7 +195,7 @@ Die letzte Zahl ist uns am wichtigsten. Sie zeigt den Unterschied zu Reichweite 
 - Vorhandene Fotos von dir (und die Info, ob ihr sie frei nutzen dürft)
 
 **Nächste Schritte:**
-1. **Kurzes Gespräch** (30 Min.) mit dir und Kira: Feinschliff, offene Fragen
+1. **Kurzes Gespräch** (30 Min.) mit dir und Kira: Feinschliff, Podcast-Idee, offene Fragen
 2. **Probedreh** (30 Min., 2–3 Fragen) – damit du siehst, wie du im Gesprächsformat wirkst
 3. Angebot mit Paketoptionen
 4. Start: Aufräumen, Profil, Drehtag – und nach 30 Tagen ein ehrlicher Rückblick
