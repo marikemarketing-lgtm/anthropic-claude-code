@@ -15,10 +15,11 @@ E-Mail: [E-Mail]
 – nachfolgend „Auftragnehmerin“ –
 
 **Auftraggeberin**
-Bettina [Nachname]
+Bettina Straka
 [Firmenname, falls vorhanden]
-[Straße, Hausnummer]
-[PLZ, Ort, Land]
+An der Klosterkoppel 8
+25436 Uetersen, Deutschland
+Telefon: +49 176 64295039
 E-Mail: [E-Mail]
 Instagram: @[Profilname]
 
@@ -172,4 +173,4 @@ Auftragnehmerin
 
 ______________________
 Auftraggeberin
-Bettina [Nachname]
+Bettina Straka
